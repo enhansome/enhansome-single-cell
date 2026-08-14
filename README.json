@@ -26,7 +26,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-07-14T13:22:39Z",
+            "last_commit": "2026-08-13T19:14:22Z",
             "owner": "satijalab",
             "repo": "seurat",
             "stars": 2784
@@ -40,10 +40,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:24:17Z",
+            "last_commit": "2026-08-13T14:59:11Z",
             "owner": "scverse",
             "repo": "scanpy",
-            "stars": 2540
+            "stars": 2539
           }
         },
         {
@@ -71,7 +71,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1676
+            "stars": 1675
           }
         },
         {
@@ -113,7 +113,7 @@
             "last_commit": "2026-03-11T05:52:33Z",
             "owner": "zhanghao-njmu",
             "repo": "SCP",
-            "stars": 667
+            "stars": 668
           }
         },
         {
@@ -138,7 +138,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:41:16Z",
+            "last_commit": "2026-08-13T15:56:58Z",
             "owner": "scverse",
             "repo": "rapids-singlecell",
             "stars": 390
@@ -698,7 +698,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T11:36:50Z",
+            "last_commit": "2026-08-13T12:55:38Z",
             "owner": "dawe",
             "repo": "schist",
             "stars": 39
@@ -1402,7 +1402,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-07-09T18:29:56Z",
+            "last_commit": "2026-08-13T19:17:41Z",
             "owner": "BorchLab",
             "repo": "scRepertoire",
             "stars": 374
@@ -1717,7 +1717,7 @@
             "last_commit": "2026-03-04T16:02:34Z",
             "owner": "KrishnaswamyLab",
             "repo": "PHATE",
-            "stars": 558
+            "stars": 559
           }
         },
         {
@@ -2335,7 +2335,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1676
+            "stars": 1675
           }
         },
         {
@@ -2578,7 +2578,7 @@
                 "last_commit": "2025-04-16T20:43:48Z",
                 "owner": "rnabioco",
                 "repo": "clustifyr",
-                "stars": 126
+                "stars": 127
               }
             }
           ]
@@ -3204,7 +3204,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1676
+            "stars": 1675
           }
         },
         {
@@ -3218,7 +3218,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1676
+            "stars": 1675
           }
         },
         {
@@ -3232,7 +3232,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1676
+            "stars": 1675
           }
         },
         {
@@ -3246,7 +3246,7 @@
             "last_commit": "2026-02-09T00:27:33Z",
             "owner": "gao-lab",
             "repo": "GLUE",
-            "stars": 475
+            "stars": 474
           }
         },
         {
@@ -3476,7 +3476,7 @@
             "last_commit": "2025-06-06T09:27:54Z",
             "owner": "ventolab",
             "repo": "CellphoneDB",
-            "stars": 479
+            "stars": 480
           }
         },
         {
@@ -3529,7 +3529,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-01-29T19:16:27Z",
+            "last_commit": "2026-08-13T18:16:58Z",
             "owner": "msraredon",
             "repo": "NICHES",
             "stars": 60
@@ -3608,7 +3608,7 @@
             "last_commit": "2025-11-23T08:31:22Z",
             "owner": "biomap-research",
             "repo": "scFoundation",
-            "stars": 423
+            "stars": 424
           }
         },
         {
@@ -3653,7 +3653,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T17:39:52Z",
+            "last_commit": "2026-08-13T17:13:03Z",
             "owner": "scverse",
             "repo": "gget",
             "stars": 1184
@@ -3681,7 +3681,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T18:06:18Z",
+            "last_commit": "2026-08-13T19:53:46Z",
             "owner": "immunomind",
             "repo": "immunarch",
             "stars": 341
@@ -3810,7 +3810,7 @@
             "last_commit": "2026-07-10T22:00:59Z",
             "owner": "ElliotXie",
             "repo": "autozyme",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -3928,7 +3928,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1676
+            "stars": 1675
           }
         },
         {
@@ -4082,7 +4082,7 @@
             "last_commit": "2026-07-08T11:40:24Z",
             "owner": "prism-oncology",
             "repo": "novae",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -4205,7 +4205,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T12:04:34Z",
+            "last_commit": "2026-08-14T03:14:18Z",
             "owner": "cafferychen777",
             "repo": "ChatSpatial",
             "stars": 43
@@ -4421,7 +4421,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-08-12T18:24:03Z",
+            "last_commit": "2026-08-14T03:48:06Z",
             "owner": "hbctraining",
             "repo": "Intro-to-scRNAseq",
             "stars": 664
@@ -4794,7 +4794,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T01:07:39Z",
+            "last_commit": "2026-08-13T18:31:12Z",
             "owner": "vitessce",
             "repo": "vitessce",
             "stars": 263
@@ -4878,7 +4878,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T19:16:21Z",
+            "last_commit": "2026-08-13T19:24:00Z",
             "owner": "camlab-bioml",
             "repo": "rakaia",
             "stars": 66
@@ -5113,10 +5113,10 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T05:21:37Z",
+            "last_commit": "2026-08-13T05:28:55Z",
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
-            "stars": 341
+            "stars": 342
           }
         }
       ],
@@ -5129,7 +5129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:12:34.126Z",
+    "last_updated": "2026-08-14T03:52:18.537Z",
     "original_repository": "seandavi/awesome-single-cell",
     "original_repository_sha": "832d5e1f2064de760ca07eadbe9f4a97dc48f0a8",
     "enhanced_repository": "enhansome/enhansome-single-cell",
