@@ -26,7 +26,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-13T19:14:22Z",
+            "last_commit": "2026-08-14T20:36:36Z",
             "owner": "satijalab",
             "repo": "seurat",
             "stars": 2784
@@ -40,10 +40,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:59:11Z",
+            "last_commit": "2026-08-14T14:27:04Z",
             "owner": "scverse",
             "repo": "scanpy",
-            "stars": 2539
+            "stars": 2542
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2025-03-18T01:34:34Z",
             "owner": "alexdobin",
             "repo": "STAR",
-            "stars": 2232
+            "stars": 2233
           }
         },
         {
@@ -71,7 +71,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1675
+            "stars": 1673
           }
         },
         {
@@ -138,10 +138,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:56:58Z",
+            "last_commit": "2026-08-14T11:12:46Z",
             "owner": "scverse",
             "repo": "rapids-singlecell",
-            "stars": 390
+            "stars": 391
           }
         },
         {
@@ -236,10 +236,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T01:14:34Z",
+            "last_commit": "2026-08-14T20:34:24Z",
             "owner": "COMBINE-lab",
             "repo": "alevin-fry",
-            "stars": 214
+            "stars": 215
           }
         },
         {
@@ -1402,7 +1402,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-13T19:17:41Z",
+            "last_commit": "2026-08-14T13:09:29Z",
             "owner": "BorchLab",
             "repo": "scRepertoire",
             "stars": 374
@@ -1669,7 +1669,7 @@
             "last_commit": "2021-06-28T06:03:42Z",
             "owner": "hemberg-lab",
             "repo": "SC3",
-            "stars": 129
+            "stars": 128
           }
         },
         {
@@ -2335,7 +2335,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1675
+            "stars": 1673
           }
         },
         {
@@ -2433,7 +2433,7 @@
             "last_commit": "2026-08-11T18:35:35Z",
             "owner": "NygenAnalytics",
             "repo": "CyteType",
-            "stars": 135
+            "stars": 136
           }
         },
         {
@@ -3100,7 +3100,7 @@
             "last_commit": "2026-08-13T01:38:04Z",
             "owner": "EngreitzLab",
             "repo": "scE2G",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -3204,7 +3204,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1675
+            "stars": 1673
           }
         },
         {
@@ -3218,7 +3218,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1675
+            "stars": 1673
           }
         },
         {
@@ -3232,7 +3232,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1675
+            "stars": 1673
           }
         },
         {
@@ -3462,7 +3462,7 @@
             "last_commit": "2026-06-01T13:46:08Z",
             "owner": "saeyslab",
             "repo": "nichenetr",
-            "stars": 671
+            "stars": 673
           }
         },
         {
@@ -3490,7 +3490,7 @@
             "last_commit": "2025-02-01T09:35:37Z",
             "owner": "snap-stanford",
             "repo": "GEARS",
-            "stars": 391
+            "stars": 392
           }
         },
         {
@@ -3594,7 +3594,7 @@
             "last_commit": "2026-04-29T17:41:42Z",
             "owner": "bowang-lab",
             "repo": "scGPT",
-            "stars": 1615
+            "stars": 1612
           }
         },
         {
@@ -3608,7 +3608,7 @@
             "last_commit": "2025-11-23T08:31:22Z",
             "owner": "biomap-research",
             "repo": "scFoundation",
-            "stars": 424
+            "stars": 422
           }
         },
         {
@@ -3653,10 +3653,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T17:13:03Z",
+            "last_commit": "2026-08-15T01:22:47Z",
             "owner": "scverse",
             "repo": "gget",
-            "stars": 1184
+            "stars": 1182
           }
         },
         {
@@ -3681,7 +3681,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-13T19:53:46Z",
+            "last_commit": "2026-08-14T15:57:03Z",
             "owner": "immunomind",
             "repo": "immunarch",
             "stars": 341
@@ -3928,7 +3928,7 @@
             "last_commit": "2026-08-12T17:58:38Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1675
+            "stars": 1673
           }
         },
         {
@@ -3939,10 +3939,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:29:24Z",
+            "last_commit": "2026-08-14T18:37:09Z",
             "owner": "scverse",
             "repo": "squidpy",
-            "stars": 589
+            "stars": 588
           }
         },
         {
@@ -3981,7 +3981,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-11T23:51:57Z",
+            "last_commit": "2026-08-14T23:18:02Z",
             "owner": "giotto-suite",
             "repo": "Giotto",
             "stars": 387
@@ -4026,7 +4026,7 @@
             "last_commit": "2026-02-09T14:33:32Z",
             "owner": "jianhuupenn",
             "repo": "SpaGCN",
-            "stars": 266
+            "stars": 264
           }
         },
         {
@@ -4110,7 +4110,7 @@
             "last_commit": "2025-02-26T14:37:00Z",
             "owner": "raphael-group",
             "repo": "paste",
-            "stars": 104
+            "stars": 103
           }
         },
         {
@@ -4205,7 +4205,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T03:14:18Z",
+            "last_commit": "2026-08-14T21:26:50Z",
             "owner": "cafferychen777",
             "repo": "ChatSpatial",
             "stars": 43
@@ -4236,7 +4236,7 @@
             "last_commit": "2026-08-12T09:28:44Z",
             "owner": "ratschlab",
             "repo": "DeepSpotM",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -4396,7 +4396,7 @@
             "last_commit": "2022-12-11T23:19:01Z",
             "owner": "theislab",
             "repo": "single-cell-tutorial",
-            "stars": 1584
+            "stars": 1585
           }
         },
         {
@@ -4421,7 +4421,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-08-14T03:48:06Z",
+            "last_commit": "2026-08-14T13:32:49Z",
             "owner": "hbctraining",
             "repo": "Intro-to-scRNAseq",
             "stars": 664
@@ -4522,7 +4522,7 @@
             "last_commit": "2026-01-15T15:18:10Z",
             "owner": "sib-swiss",
             "repo": "single-cell-training",
-            "stars": 90
+            "stars": 91
           }
         },
         {
@@ -5113,7 +5113,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-13T05:28:55Z",
+            "last_commit": "2026-08-14T05:23:50Z",
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
             "stars": 342
@@ -5129,7 +5129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:52:18.537Z",
+    "last_updated": "2026-08-15T02:41:16.850Z",
     "original_repository": "seandavi/awesome-single-cell",
     "original_repository_sha": "832d5e1f2064de760ca07eadbe9f4a97dc48f0a8",
     "enhanced_repository": "enhansome/enhansome-single-cell",
