@@ -29,7 +29,7 @@
             "last_commit": "2026-08-14T20:36:36Z",
             "owner": "satijalab",
             "repo": "seurat",
-            "stars": 2786
+            "stars": 2787
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2025-03-18T01:34:34Z",
             "owner": "alexdobin",
             "repo": "STAR",
-            "stars": 2233
+            "stars": 2235
           }
         },
         {
@@ -68,10 +68,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:58:38Z",
+            "last_commit": "2026-08-16T12:02:47Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1673
+            "stars": 1674
           }
         },
         {
@@ -113,7 +113,7 @@
             "last_commit": "2026-03-11T05:52:33Z",
             "owner": "zhanghao-njmu",
             "repo": "SCP",
-            "stars": 670
+            "stars": 671
           }
         },
         {
@@ -138,7 +138,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T15:00:27Z",
+            "last_commit": "2026-08-16T07:55:10Z",
             "owner": "scverse",
             "repo": "rapids-singlecell",
             "stars": 391
@@ -253,7 +253,7 @@
             "last_commit": "2025-12-10T17:28:21Z",
             "owner": "dtm2451",
             "repo": "dittoSeq",
-            "stars": 214
+            "stars": 215
           }
         },
         {
@@ -2332,10 +2332,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:58:38Z",
+            "last_commit": "2026-08-16T12:02:47Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1673
+            "stars": 1674
           }
         },
         {
@@ -2808,7 +2808,7 @@
             "last_commit": "2026-06-16T17:40:31Z",
             "owner": "navinlabcode",
             "repo": "copykat",
-            "stars": 300
+            "stars": 301
           }
         },
         {
@@ -3201,10 +3201,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:58:38Z",
+            "last_commit": "2026-08-16T12:02:47Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1673
+            "stars": 1674
           }
         },
         {
@@ -3215,10 +3215,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:58:38Z",
+            "last_commit": "2026-08-16T12:02:47Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1673
+            "stars": 1674
           }
         },
         {
@@ -3229,10 +3229,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:58:38Z",
+            "last_commit": "2026-08-16T12:02:47Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1673
+            "stars": 1674
           }
         },
         {
@@ -3490,7 +3490,7 @@
             "last_commit": "2025-02-01T09:35:37Z",
             "owner": "snap-stanford",
             "repo": "GEARS",
-            "stars": 392
+            "stars": 393
           }
         },
         {
@@ -3807,7 +3807,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-10T22:00:59Z",
+            "last_commit": "2026-08-16T10:01:32Z",
             "owner": "ElliotXie",
             "repo": "autozyme",
             "stars": 45
@@ -3925,10 +3925,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:58:38Z",
+            "last_commit": "2026-08-16T12:02:47Z",
             "owner": "scverse",
             "repo": "scvi-tools",
-            "stars": 1673
+            "stars": 1674
           }
         },
         {
@@ -3970,7 +3970,7 @@
             "last_commit": "2026-08-10T21:28:06Z",
             "owner": "BayraktarLab",
             "repo": "cell2location",
-            "stars": 456
+            "stars": 457
           }
         },
         {
@@ -3981,7 +3981,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-15T13:20:33Z",
+            "last_commit": "2026-08-17T02:29:45Z",
             "owner": "giotto-suite",
             "repo": "Giotto",
             "stars": 387
@@ -4138,7 +4138,7 @@
             "last_commit": "2026-08-12T09:29:42Z",
             "owner": "ratschlab",
             "repo": "DeepSpot",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -4264,7 +4264,7 @@
             "last_commit": "2026-06-30T12:55:30Z",
             "owner": "cafferychen777",
             "repo": "flashdeconv",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -4881,7 +4881,7 @@
             "last_commit": "2026-08-13T19:24:00Z",
             "owner": "camlab-bioml",
             "repo": "rakaia",
-            "stars": 66
+            "stars": 67
           }
         },
         {
@@ -5113,7 +5113,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-15T04:19:37Z",
+            "last_commit": "2026-08-16T04:25:40Z",
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
             "stars": 342
@@ -5129,7 +5129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:48:46.520Z",
+    "last_updated": "2026-08-17T02:48:55.776Z",
     "original_repository": "seandavi/awesome-single-cell",
     "original_repository_sha": "832d5e1f2064de760ca07eadbe9f4a97dc48f0a8",
     "enhanced_repository": "enhansome/enhansome-single-cell",
