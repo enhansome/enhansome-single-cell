@@ -40,10 +40,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T12:54:16Z",
+            "last_commit": "2026-08-18T14:06:11Z",
             "owner": "scverse",
             "repo": "scanpy",
-            "stars": 2543
+            "stars": 2544
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2025-03-18T01:34:34Z",
             "owner": "alexdobin",
             "repo": "STAR",
-            "stars": 2235
+            "stars": 2236
           }
         },
         {
@@ -68,7 +68,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:37:18Z",
+            "last_commit": "2026-08-18T05:50:12Z",
             "owner": "scverse",
             "repo": "scvi-tools",
             "stars": 1675
@@ -113,7 +113,7 @@
             "last_commit": "2026-03-11T05:52:33Z",
             "owner": "zhanghao-njmu",
             "repo": "SCP",
-            "stars": 671
+            "stars": 672
           }
         },
         {
@@ -138,7 +138,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:17:00Z",
+            "last_commit": "2026-08-18T17:00:09Z",
             "owner": "scverse",
             "repo": "rapids-singlecell",
             "stars": 391
@@ -510,6 +510,20 @@
         },
         {
           "node_type": "item",
+          "title": "CellCNN",
+          "description": "[Python] - Representation Learning for detection of phenotype-associated cell subsets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-10-24T15:29:23Z",
+            "owner": "eiriniar",
+            "repo": "CellCnn",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
           "title": "SPRING",
           "description": "[matlab, javascript, python] - SPRING is a collection of pre-processing scripts and a web browser-based tool for visualizing and interacting with high dimensional data. SPRING was developed for single cell RNA-Seq data but can be applied more generally.",
           "children": [],
@@ -520,20 +534,6 @@
             "owner": "AllonKleinLab",
             "repo": "SPRING",
             "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CellCNN",
-          "description": "[Python] - Representation Learning for detection of phenotype-associated cell subsets",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2020-10-24T15:29:23Z",
-            "owner": "eiriniar",
-            "repo": "CellCnn",
-            "stars": 69
           }
         },
         {
@@ -698,7 +698,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T12:55:38Z",
+            "last_commit": "2026-08-18T14:50:15Z",
             "owner": "dawe",
             "repo": "schist",
             "stars": 39
@@ -1267,7 +1267,7 @@
             "last_commit": "2026-07-07T19:53:00Z",
             "owner": "ccb-hms",
             "repo": "scDiagnostics",
-            "stars": 14
+            "stars": 16
           }
         }
       ],
@@ -1430,7 +1430,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T23:26:55Z",
+            "last_commit": "2026-08-18T18:56:15Z",
             "owner": "scverse",
             "repo": "scirpy",
             "stars": 265
@@ -1717,7 +1717,7 @@
             "last_commit": "2026-03-04T16:02:34Z",
             "owner": "KrishnaswamyLab",
             "repo": "PHATE",
-            "stars": 559
+            "stars": 558
           }
         },
         {
@@ -2332,7 +2332,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:37:18Z",
+            "last_commit": "2026-08-18T05:50:12Z",
             "owner": "scverse",
             "repo": "scvi-tools",
             "stars": 1675
@@ -2346,7 +2346,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-18T02:25:32Z",
+            "last_commit": "2026-08-18T09:50:20Z",
             "owner": "cafferychen777",
             "repo": "mLLMCelltype",
             "stars": 657
@@ -3100,7 +3100,7 @@
             "last_commit": "2026-08-13T01:38:04Z",
             "owner": "EngreitzLab",
             "repo": "scE2G",
-            "stars": 57
+            "stars": 60
           }
         },
         {
@@ -3201,7 +3201,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:37:18Z",
+            "last_commit": "2026-08-18T05:50:12Z",
             "owner": "scverse",
             "repo": "scvi-tools",
             "stars": 1675
@@ -3215,7 +3215,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:37:18Z",
+            "last_commit": "2026-08-18T05:50:12Z",
             "owner": "scverse",
             "repo": "scvi-tools",
             "stars": 1675
@@ -3229,7 +3229,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:37:18Z",
+            "last_commit": "2026-08-18T05:50:12Z",
             "owner": "scverse",
             "repo": "scvi-tools",
             "stars": 1675
@@ -3257,7 +3257,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-02-04T16:56:03Z",
+            "last_commit": "2026-08-18T14:07:17Z",
             "owner": "welch-lab",
             "repo": "liger",
             "stars": 432
@@ -3490,7 +3490,7 @@
             "last_commit": "2025-02-01T09:35:37Z",
             "owner": "snap-stanford",
             "repo": "GEARS",
-            "stars": 394
+            "stars": 395
           }
         },
         {
@@ -3594,7 +3594,7 @@
             "last_commit": "2026-04-29T17:41:42Z",
             "owner": "bowang-lab",
             "repo": "scGPT",
-            "stars": 1612
+            "stars": 1613
           }
         },
         {
@@ -3622,7 +3622,7 @@
             "last_commit": "2025-08-18T09:40:32Z",
             "owner": "jkobject",
             "repo": "geneformer",
-            "stars": 119
+            "stars": 118
           }
         },
         {
@@ -3656,7 +3656,7 @@
             "last_commit": "2026-08-17T16:48:28Z",
             "owner": "scverse",
             "repo": "gget",
-            "stars": 1182
+            "stars": 1183
           }
         },
         {
@@ -3670,7 +3670,7 @@
             "last_commit": "2024-08-13T07:42:11Z",
             "owner": "pachterlab",
             "repo": "ffq",
-            "stars": 604
+            "stars": 605
           }
         },
         {
@@ -3681,7 +3681,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-14T15:57:03Z",
+            "last_commit": "2026-08-18T18:15:05Z",
             "owner": "immunomind",
             "repo": "immunarch",
             "stars": 341
@@ -3810,7 +3810,7 @@
             "last_commit": "2026-08-16T10:01:32Z",
             "owner": "ElliotXie",
             "repo": "autozyme",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -3925,7 +3925,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:37:18Z",
+            "last_commit": "2026-08-18T05:50:12Z",
             "owner": "scverse",
             "repo": "scvi-tools",
             "stars": 1675
@@ -3939,10 +3939,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:38:27Z",
+            "last_commit": "2026-08-18T22:30:32Z",
             "owner": "scverse",
             "repo": "squidpy",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -4068,7 +4068,7 @@
             "last_commit": "2026-01-08T15:44:14Z",
             "owner": "edward130603",
             "repo": "BayesSpace",
-            "stars": 182
+            "stars": 183
           }
         },
         {
@@ -4247,7 +4247,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-12T09:29:59Z",
+            "last_commit": "2026-08-18T11:22:27Z",
             "owner": "ratschlab",
             "repo": "aestetik",
             "stars": 25
@@ -4373,7 +4373,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-04T07:40:53Z",
+            "last_commit": "2026-08-18T18:26:20Z",
             "owner": "HickeyLab",
             "repo": "Mingl",
             "stars": 4
@@ -4421,7 +4421,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-08-17T19:37:40Z",
+            "last_commit": "2026-08-18T15:22:31Z",
             "owner": "hbctraining",
             "repo": "Intro-to-scRNAseq",
             "stars": 664
@@ -4794,7 +4794,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T18:31:12Z",
+            "last_commit": "2026-08-18T23:08:50Z",
             "owner": "vitessce",
             "repo": "vitessce",
             "stars": 263
@@ -4850,10 +4850,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T20:21:20Z",
+            "last_commit": "2026-08-18T21:15:21Z",
             "owner": "lilab-bcb",
             "repo": "cirrocumulus",
-            "stars": 100
+            "stars": 101
           }
         },
         {
@@ -5113,7 +5113,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-17T04:23:24Z",
+            "last_commit": "2026-08-18T04:21:06Z",
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
             "stars": 342
@@ -5129,7 +5129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:44:08.535Z",
+    "last_updated": "2026-08-19T02:46:18.901Z",
     "original_repository": "seandavi/awesome-single-cell",
     "original_repository_sha": "832d5e1f2064de760ca07eadbe9f4a97dc48f0a8",
     "enhanced_repository": "enhansome/enhansome-single-cell",
