@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 35927665,
                 "language": "R",
-                "last_commit": "2026-08-14T20:36:36Z",
+                "last_commit": "2026-08-20T21:05:05Z",
                 "owner": "satijalab",
                 "repo": "seurat",
-                "stars": 2786
+                "stars": 2787
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 80342493,
                 "language": "Python",
-                "last_commit": "2026-08-19T13:33:05Z",
+                "last_commit": "2026-08-20T15:20:32Z",
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2543
+                "stars": 2542
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1676
+                "stars": 1677
               }
             },
             {
@@ -134,10 +134,10 @@
                 "archived": false,
                 "id": 364573913,
                 "language": "Python",
-                "last_commit": "2026-08-19T13:22:25Z",
+                "last_commit": "2026-08-20T08:07:48Z",
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
-                "stars": 391
+                "stars": 392
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2022-11-01T13:13:47Z",
                 "owner": "constantAmateur",
                 "repo": "SoupX",
-                "stars": 335
+                "stars": 337
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2026-04-03T03:14:11Z",
                 "owner": "Danko-Lab",
                 "repo": "BayesPrism",
-                "stars": 246
+                "stars": 247
               }
             },
             {
@@ -1426,7 +1426,7 @@
                 "last_commit": "2026-08-03T06:52:45Z",
                 "owner": "pinellolab",
                 "repo": "dictys",
-                "stars": 129
+                "stars": 130
               }
             },
             {
@@ -2494,7 +2494,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1676
+                "stars": 1677
               }
             },
             {
@@ -2778,7 +2778,7 @@
                 "last_commit": "2025-03-21T11:20:52Z",
                 "owner": "chris-mcginnis-ucsf",
                 "repo": "DoubletFinder",
-                "stars": 557
+                "stars": 558
               }
             },
             {
@@ -3002,7 +3002,7 @@
                 "last_commit": "2026-06-16T17:40:31Z",
                 "owner": "navinlabcode",
                 "repo": "copykat",
-                "stars": 301
+                "stars": 302
               }
             },
             {
@@ -3428,7 +3428,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1676
+                "stars": 1677
               }
             },
             {
@@ -3443,7 +3443,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1676
+                "stars": 1677
               }
             },
             {
@@ -3458,7 +3458,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1676
+                "stars": 1677
               }
             },
             {
@@ -3847,7 +3847,7 @@
                 "last_commit": "2026-04-29T17:41:42Z",
                 "owner": "bowang-lab",
                 "repo": "scGPT",
-                "stars": 1614
+                "stars": 1615
               }
             },
             {
@@ -3911,10 +3911,10 @@
                 "archived": false,
                 "id": 488684164,
                 "language": "Python",
-                "last_commit": "2026-08-17T16:48:28Z",
+                "last_commit": "2026-08-20T17:26:07Z",
                 "owner": "scverse",
                 "repo": "gget",
-                "stars": 1183
+                "stars": 1184
               }
             },
             {
@@ -3929,7 +3929,7 @@
                 "last_commit": "2024-08-13T07:42:11Z",
                 "owner": "pachterlab",
                 "repo": "ffq",
-                "stars": 605
+                "stars": 603
               }
             },
             {
@@ -3959,7 +3959,7 @@
                 "last_commit": "2026-07-13T04:31:38Z",
                 "owner": "bnprks",
                 "repo": "BPCells",
-                "stars": 302
+                "stars": 301
               }
             },
             {
@@ -4206,7 +4206,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1676
+                "stars": 1677
               }
             },
             {
@@ -4218,10 +4218,10 @@
                 "archived": false,
                 "id": 289306932,
                 "language": "Python",
-                "last_commit": "2026-08-19T19:28:06Z",
+                "last_commit": "2026-08-20T20:57:46Z",
                 "owner": "scverse",
                 "repo": "squidpy",
-                "stars": 589
+                "stars": 590
               }
             },
             {
@@ -4293,7 +4293,7 @@
                 "archived": false,
                 "id": 686996186,
                 "language": "Python",
-                "last_commit": "2026-07-15T09:29:04Z",
+                "last_commit": "2026-08-20T17:54:17Z",
                 "owner": "prism-oncology",
                 "repo": "sopa",
                 "stars": 290
@@ -4326,7 +4326,7 @@
                 "last_commit": "2025-10-20T18:58:29Z",
                 "owner": "MarcElosua",
                 "repo": "SPOTlight",
-                "stars": 211
+                "stars": 212
               }
             },
             {
@@ -4739,7 +4739,7 @@
             "archived": false,
             "id": 277902878,
             "language": "CSS",
-            "last_commit": "2026-08-18T15:22:31Z",
+            "last_commit": "2026-08-20T19:40:22Z",
             "owner": "hbctraining",
             "repo": "Intro-to-scRNAseq",
             "stars": 663
@@ -4904,7 +4904,7 @@
             "archived": false,
             "id": 743357700,
             "language": "Nextflow",
-            "last_commit": "2026-08-18T02:17:23Z",
+            "last_commit": "2026-08-21T02:11:50Z",
             "owner": "GoekeLab",
             "repo": "bambu-pipe",
             "stars": 23
@@ -5129,10 +5129,10 @@
                 "archived": false,
                 "id": 161811262,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T19:28:33Z",
+                "last_commit": "2026-08-20T20:46:16Z",
                 "owner": "vitessce",
                 "repo": "vitessce",
-                "stars": 263
+                "stars": 264
               }
             },
             {
@@ -5219,10 +5219,10 @@
                 "archived": false,
                 "id": 600210876,
                 "language": "Python",
-                "last_commit": "2026-08-13T19:24:00Z",
+                "last_commit": "2026-08-20T15:08:01Z",
                 "owner": "camlab-bioml",
                 "repo": "rakaia",
-                "stars": 67
+                "stars": 68
               }
             },
             {
@@ -5470,7 +5470,7 @@
             "archived": false,
             "id": 67773442,
             "language": "R",
-            "last_commit": "2026-08-19T04:17:31Z",
+            "last_commit": "2026-08-20T04:19:48Z",
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
             "stars": 342
@@ -5481,7 +5481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:45:16.323Z",
+    "last_updated": "2026-08-21T02:51:50.676Z",
     "original_repository": "seandavi/awesome-single-cell",
     "original_repository_id": 62237945,
     "original_repository_sha": "832d5e1f2064de760ca07eadbe9f4a97dc48f0a8",
