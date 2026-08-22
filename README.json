@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 35927665,
                 "language": "R",
-                "last_commit": "2026-08-20T21:05:05Z",
+                "last_commit": "2026-08-21T20:49:56Z",
                 "owner": "satijalab",
                 "repo": "seurat",
-                "stars": 2787
+                "stars": 2789
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 80342493,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:20:32Z",
+                "last_commit": "2026-08-21T15:14:43Z",
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2542
+                "stars": 2543
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1677
+                "stars": 1678
               }
             },
             {
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 364573913,
                 "language": "Python",
-                "last_commit": "2026-08-20T08:07:48Z",
+                "last_commit": "2026-08-21T19:49:39Z",
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
                 "stars": 392
@@ -397,21 +397,6 @@
             },
             {
               "node_type": "item",
-              "title": "SCCAF",
-              "description": "[Python] Single Cell Clustering Assessment Framework (SCCAF) is a method for automated identification of putative cell types from single cell data by iteratively applying clustering and a machine learning approach. Putative cell type discovery from single-cell gene expression data",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 144851197,
-                "language": "Jupyter Notebook",
-                "last_commit": "2023-10-27T14:58:58Z",
-                "owner": "SCCAF",
-                "repo": "sccaf",
-                "stars": 111
-              }
-            },
-            {
-              "node_type": "item",
               "title": "scLVM",
               "description": "[R] - scLVM is a modelling framework for single-cell RNA-seq data that can be used to dissect the observed heterogeneity into different sources, thereby allowing for the correction of confounding sources of variation. scLVM was primarily designed to account for cell-cycle induced variations in single-cell RNA-seq data where cell cycle is the primary source of variability.",
               "children": [],
@@ -422,6 +407,21 @@
                 "last_commit": "2022-12-16T11:10:43Z",
                 "owner": "PMBio",
                 "repo": "scLVM",
+                "stars": 112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SCCAF",
+              "description": "[Python] Single Cell Clustering Assessment Framework (SCCAF) is a method for automated identification of putative cell types from single cell data by iteratively applying clustering and a machine learning approach. Putative cell type discovery from single-cell gene expression data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144851197,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-10-27T14:58:58Z",
+                "owner": "SCCAF",
+                "repo": "sccaf",
                 "stars": 111
               }
             },
@@ -1207,6 +1207,21 @@
             },
             {
               "node_type": "item",
+              "title": "SCSPARKL",
+              "description": "[Python/PySpark] - An Apache spark based approach for performing of preprocessing and downstream analysis of scRNA-seq data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471455106,
+                "language": "Python",
+                "last_commit": "2025-08-08T15:55:13Z",
+                "owner": "asif7adil",
+                "repo": "scSPARKL",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
               "title": "OEFinder",
               "description": "[R] - Identify ordering effect genes in single cell RNA-seq data. OEFinder shiny impelemention depends on packages shiny, shinyFiles, gdata, and EBSeq.",
               "children": [],
@@ -1520,7 +1535,7 @@
                 "archived": false,
                 "id": 232568640,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:14:31Z",
+                "last_commit": "2026-08-21T08:14:32Z",
                 "owner": "scverse",
                 "repo": "scirpy",
                 "stars": 265
@@ -1844,7 +1859,7 @@
                 "last_commit": "2026-04-01T18:13:18Z",
                 "owner": "TorchDR",
                 "repo": "TorchDR",
-                "stars": 211
+                "stars": 212
               }
             },
             {
@@ -1986,7 +2001,7 @@
                 "last_commit": "2026-08-10T15:06:36Z",
                 "owner": "jmbreda",
                 "repo": "Sanity",
-                "stars": 81
+                "stars": 82
               }
             },
             {
@@ -2494,7 +2509,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1677
+                "stars": 1678
               }
             },
             {
@@ -3313,7 +3328,7 @@
                 "archived": false,
                 "id": 712079284,
                 "language": "Python",
-                "last_commit": "2026-08-13T01:38:04Z",
+                "last_commit": "2026-08-22T01:28:26Z",
                 "owner": "EngreitzLab",
                 "repo": "scE2G",
                 "stars": 60
@@ -3428,7 +3443,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1677
+                "stars": 1678
               }
             },
             {
@@ -3443,7 +3458,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1677
+                "stars": 1678
               }
             },
             {
@@ -3458,7 +3473,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1677
+                "stars": 1678
               }
             },
             {
@@ -3503,7 +3518,7 @@
                 "last_commit": "2020-09-30T15:48:39Z",
                 "owner": "bioFAM",
                 "repo": "MOFA",
-                "stars": 268
+                "stars": 267
               }
             },
             {
@@ -3911,10 +3926,10 @@
                 "archived": false,
                 "id": 488684164,
                 "language": "Python",
-                "last_commit": "2026-08-20T17:26:07Z",
+                "last_commit": "2026-08-22T01:22:01Z",
                 "owner": "scverse",
                 "repo": "gget",
-                "stars": 1184
+                "stars": 1187
               }
             },
             {
@@ -4206,7 +4221,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1677
+                "stars": 1678
               }
             },
             {
@@ -4218,10 +4233,10 @@
                 "archived": false,
                 "id": 289306932,
                 "language": "Python",
-                "last_commit": "2026-08-20T20:57:46Z",
+                "last_commit": "2026-08-21T23:40:26Z",
                 "owner": "scverse",
                 "repo": "squidpy",
-                "stars": 590
+                "stars": 591
               }
             },
             {
@@ -4236,7 +4251,7 @@
                 "last_commit": "2026-01-22T15:04:34Z",
                 "owner": "dmcable",
                 "repo": "spacexr",
-                "stars": 478
+                "stars": 479
               }
             },
             {
@@ -4266,7 +4281,7 @@
                 "last_commit": "2026-08-19T03:00:06Z",
                 "owner": "giotto-suite",
                 "repo": "Giotto",
-                "stars": 387
+                "stars": 388
               }
             },
             {
@@ -4293,7 +4308,7 @@
                 "archived": false,
                 "id": 686996186,
                 "language": "Python",
-                "last_commit": "2026-08-20T17:54:17Z",
+                "last_commit": "2026-08-21T13:03:02Z",
                 "owner": "prism-oncology",
                 "repo": "sopa",
                 "stars": 290
@@ -4368,7 +4383,7 @@
                 "archived": false,
                 "id": 778178474,
                 "language": "Python",
-                "last_commit": "2026-07-08T11:40:24Z",
+                "last_commit": "2026-08-21T11:25:45Z",
                 "owner": "prism-oncology",
                 "repo": "novae",
                 "stars": 150
@@ -4536,7 +4551,7 @@
                 "last_commit": "2026-08-12T09:28:44Z",
                 "owner": "ratschlab",
                 "repo": "DeepSpotM",
-                "stars": 37
+                "stars": 38
               }
             },
             {
@@ -4742,7 +4757,7 @@
             "last_commit": "2026-08-20T19:40:22Z",
             "owner": "hbctraining",
             "repo": "Intro-to-scRNAseq",
-            "stars": 663
+            "stars": 664
           }
         },
         {
@@ -5129,7 +5144,7 @@
                 "archived": false,
                 "id": 161811262,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T20:46:16Z",
+                "last_commit": "2026-08-22T01:01:50Z",
                 "owner": "vitessce",
                 "repo": "vitessce",
                 "stars": 264
@@ -5219,10 +5234,10 @@
                 "archived": false,
                 "id": 600210876,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:08:01Z",
+                "last_commit": "2026-08-21T20:29:07Z",
                 "owner": "camlab-bioml",
                 "repo": "rakaia",
-                "stars": 68
+                "stars": 69
               }
             },
             {
@@ -5470,7 +5485,7 @@
             "archived": false,
             "id": 67773442,
             "language": "R",
-            "last_commit": "2026-08-20T04:19:48Z",
+            "last_commit": "2026-08-21T04:23:02Z",
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
             "stars": 342
@@ -5481,10 +5496,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:51:50.676Z",
+    "last_updated": "2026-08-22T02:43:17.614Z",
     "original_repository": "seandavi/awesome-single-cell",
     "original_repository_id": 62237945,
-    "original_repository_sha": "832d5e1f2064de760ca07eadbe9f4a97dc48f0a8",
+    "original_repository_sha": "a5d47cc0fc8b452e58b0d4d7da36755c57a5f5db",
     "enhanced_repository": "enhansome/enhansome-single-cell",
     "enhanced_repository_description": null,
     "title": "awesome-single-cell with stars"
