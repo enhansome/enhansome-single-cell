@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T20:49:56Z",
                 "owner": "satijalab",
                 "repo": "seurat",
-                "stars": 2789
+                "stars": 2788
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T15:14:43Z",
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2543
+                "stars": 2545
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1678
+                "stars": 1679
               }
             },
             {
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 364573913,
                 "language": "Python",
-                "last_commit": "2026-08-21T19:49:39Z",
+                "last_commit": "2026-08-22T12:15:00Z",
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
                 "stars": 392
@@ -2001,7 +2001,7 @@
                 "last_commit": "2026-08-10T15:06:36Z",
                 "owner": "jmbreda",
                 "repo": "Sanity",
-                "stars": 82
+                "stars": 83
               }
             },
             {
@@ -2509,7 +2509,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1678
+                "stars": 1679
               }
             },
             {
@@ -2838,7 +2838,7 @@
                 "last_commit": "2025-02-06T21:52:07Z",
                 "owner": "JonathanShor",
                 "repo": "DoubletDetection",
-                "stars": 98
+                "stars": 99
               }
             },
             {
@@ -3002,7 +3002,7 @@
                 "last_commit": "2025-11-14T17:35:17Z",
                 "owner": "broadinstitute",
                 "repo": "infercnv",
-                "stars": 680
+                "stars": 681
               }
             },
             {
@@ -3077,7 +3077,7 @@
                 "last_commit": "2021-07-19T17:08:44Z",
                 "owner": "JEFworks-Lab",
                 "repo": "HoneyBADGER",
-                "stars": 103
+                "stars": 104
               }
             },
             {
@@ -3443,7 +3443,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1678
+                "stars": 1679
               }
             },
             {
@@ -3458,7 +3458,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1678
+                "stars": 1679
               }
             },
             {
@@ -3473,7 +3473,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1678
+                "stars": 1679
               }
             },
             {
@@ -4221,7 +4221,7 @@
                 "last_commit": "2026-08-18T05:50:12Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1678
+                "stars": 1679
               }
             },
             {
@@ -4233,10 +4233,10 @@
                 "archived": false,
                 "id": 289306932,
                 "language": "Python",
-                "last_commit": "2026-08-21T23:40:26Z",
+                "last_commit": "2026-08-22T22:04:59Z",
                 "owner": "scverse",
                 "repo": "squidpy",
-                "stars": 591
+                "stars": 592
               }
             },
             {
@@ -4296,7 +4296,7 @@
                 "last_commit": "2025-07-01T21:31:14Z",
                 "owner": "broadinstitute",
                 "repo": "Tangram",
-                "stars": 370
+                "stars": 371
               }
             },
             {
@@ -4446,7 +4446,7 @@
                 "last_commit": "2026-08-17T06:10:04Z",
                 "owner": "ratschlab",
                 "repo": "DeepSpot",
-                "stars": 93
+                "stars": 94
               }
             },
             {
@@ -4496,6 +4496,21 @@
             },
             {
               "node_type": "item",
+              "title": "ChatSpatial",
+              "description": "[Python] An MCP server enabling spatial transcriptomics analysis via natural language. Integrates 60+ methods including SpaGCN, Cell2location, RCTD, LIANA+, CellRank for spatial domains, deconvolution, cell communication, and trajectory analysis. Supports Visium, Xenium, MERFISH, Slide-seq. manuscript: ChatSpatial: Schema-Enforced Agentic Orchestration for Reproducible and Cross-Platform Spatial Transcriptomics. PyPI | Docs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 978519611,
+                "language": "Python",
+                "last_commit": "2026-08-15T10:26:50Z",
+                "owner": "cafferychen777",
+                "repo": "ChatSpatial",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
               "title": "PASTE2",
               "description": "[Python] A spatial alignment tool for aligning homogeneous spatial transcriptomic slices based on the partial extension of the Fused Gromov-Wasserstein optimal transport. manuscript open access: PASTE2: Partial Alignment of Multi-slice Spatially Resolved Transcriptomics Data",
               "children": [],
@@ -4507,21 +4522,6 @@
                 "owner": "raphael-group",
                 "repo": "paste2",
                 "stars": 44
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ChatSpatial",
-              "description": "[Python] An MCP server enabling spatial transcriptomics analysis via natural language. Integrates 60+ methods including SpaGCN, Cell2location, RCTD, LIANA+, CellRank for spatial domains, deconvolution, cell communication, and trajectory analysis. Supports Visium, Xenium, MERFISH, Slide-seq. manuscript: ChatSpatial: Schema-Enforced Agentic Orchestration for Reproducible and Cross-Platform Spatial Transcriptomics. PyPI | Docs",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 978519611,
-                "language": "Python",
-                "last_commit": "2026-08-15T10:26:50Z",
-                "owner": "cafferychen777",
-                "repo": "ChatSpatial",
-                "stars": 43
               }
             },
             {
@@ -4727,7 +4727,7 @@
             "last_commit": "2022-12-11T23:19:01Z",
             "owner": "theislab",
             "repo": "single-cell-tutorial",
-            "stars": 1586
+            "stars": 1587
           }
         },
         {
@@ -5485,10 +5485,10 @@
             "archived": false,
             "id": 67773442,
             "language": "R",
-            "last_commit": "2026-08-21T04:23:02Z",
+            "last_commit": "2026-08-22T04:14:57Z",
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
-            "stars": 342
+            "stars": 341
           }
         }
       ],
@@ -5496,7 +5496,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:43:17.614Z",
+    "last_updated": "2026-08-23T02:51:57.105Z",
     "original_repository": "seandavi/awesome-single-cell",
     "original_repository_id": 62237945,
     "original_repository_sha": "a5d47cc0fc8b452e58b0d4d7da36755c57a5f5db",
