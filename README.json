@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T15:14:43Z",
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2546
+                "stars": 2548
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 102567256,
                 "language": "Python",
-                "last_commit": "2026-08-18T05:50:12Z",
+                "last_commit": "2026-08-24T13:28:07Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1679
+                "stars": 1680
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-07-12T16:40:42Z",
                 "owner": "pachterlab",
                 "repo": "kallisto",
-                "stars": 769
+                "stars": 770
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-05T02:23:32Z",
                 "owner": "zqfang",
                 "repo": "GSEApy",
-                "stars": 709
+                "stars": 710
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-07-26T11:21:13Z",
                 "owner": "aristoteleo",
                 "repo": "dynamo-release",
-                "stars": 507
+                "stars": 508
               }
             },
             {
@@ -134,10 +134,10 @@
                 "archived": false,
                 "id": 364573913,
                 "language": "Python",
-                "last_commit": "2026-08-23T07:57:56Z",
+                "last_commit": "2026-08-24T10:56:42Z",
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
-                "stars": 392
+                "stars": 393
               }
             },
             {
@@ -1523,7 +1523,7 @@
                 "last_commit": "2026-08-03T19:05:27Z",
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
-                "stars": 361
+                "stars": 362
               }
             },
             {
@@ -1961,6 +1961,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "scAAnet",
+              "description": "[Python] - scAAnet performs non-linear archetypal analysis through autoencoder networks to identify shared gene expression programs (GEPs) among heterogenous cell populations and infer relative activity of each GEP across cells.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373316380,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-05-27T16:16:32Z",
+                "owner": "AprilYuge",
+                "repo": "scAAnet",
+                "stars": 16
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Archetypal analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "MAST",
               "description": "[R] - Model-based Analysis of Single-cell Transcriptomics (MAST) fits a two-part, generalized linear models that are specially adapted for bimodal and/or zero-inflated single cell gene expression data.",
               "children": [],
@@ -2001,7 +2023,7 @@
                 "last_commit": "2026-08-10T15:06:36Z",
                 "owner": "jmbreda",
                 "repo": "Sanity",
-                "stars": 84
+                "stars": 85
               }
             },
             {
@@ -2165,6 +2187,28 @@
           "description": null,
           "node_type": "group",
           "title": "Batch-effect removal"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Monet",
+              "description": "[python] - A package for analyzing and integrating scRNA-Seq data using PCA-based latent spaces.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270827190,
+                "language": "Python",
+                "last_commit": "2021-09-17T02:02:59Z",
+                "owner": "flo-compbio",
+                "repo": "monet",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cell projection and unimodal integration"
         },
         {
           "children": [
@@ -2506,10 +2550,10 @@
                 "archived": false,
                 "id": 102567256,
                 "language": "Python",
-                "last_commit": "2026-08-18T05:50:12Z",
+                "last_commit": "2026-08-24T13:28:07Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1679
+                "stars": 1680
               }
             },
             {
@@ -2521,7 +2565,7 @@
                 "archived": false,
                 "id": 961664731,
                 "language": "Python",
-                "last_commit": "2026-08-18T09:50:20Z",
+                "last_commit": "2026-08-24T12:58:11Z",
                 "owner": "cafferychen777",
                 "repo": "mLLMCelltype",
                 "stars": 658
@@ -2783,6 +2827,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "scMalignantFinder",
+              "description": "[Python] - scMalignantFinder is a Python package designed for analyzing cancer single-cell RNA-seq and spatial transcriptomics datasets to distinguish malignant cells from their normal counterparts. Trained on over 400,000 high-quality single-cell transcriptomes, scMalignantFinder uses curated pan-cancer gene signatures for training set calibration and selects features by taking the union of differentially expressed genes across each dataset. Communications Biology",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 810178822,
+                "language": "Python",
+                "last_commit": "2026-05-13T00:39:58Z",
+                "owner": "Jonyyqn",
+                "repo": "scMalignantFinder",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Malignant cell identification"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "DoubletFinder",
               "description": "[R] - Doublet detection in single-cell RNA sequencing data using artificial nearest neighbors. BioRxiv",
               "children": [],
@@ -2890,6 +2956,28 @@
           "description": null,
           "node_type": "group",
           "title": "Doublet Identification"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "geosketch",
+              "description": "[Python] - Method to subsample massive scRNA-seq datasets while preserving rare cell states. Resulting “sketch” accelerates clustering, visualization, and integration analyses. Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156383144,
+                "language": "Python",
+                "last_commit": "2024-10-29T17:42:18Z",
+                "owner": "brianhie",
+                "repo": "geosketch",
+                "stars": 98
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cell subsampling"
         },
         {
           "children": [
@@ -3440,10 +3528,10 @@
                 "archived": false,
                 "id": 102567256,
                 "language": "Python",
-                "last_commit": "2026-08-18T05:50:12Z",
+                "last_commit": "2026-08-24T13:28:07Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1679
+                "stars": 1680
               }
             },
             {
@@ -3455,10 +3543,10 @@
                 "archived": false,
                 "id": 102567256,
                 "language": "Python",
-                "last_commit": "2026-08-18T05:50:12Z",
+                "last_commit": "2026-08-24T13:28:07Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1679
+                "stars": 1680
               }
             },
             {
@@ -3470,10 +3558,10 @@
                 "archived": false,
                 "id": 102567256,
                 "language": "Python",
-                "last_commit": "2026-08-18T05:50:12Z",
+                "last_commit": "2026-08-24T13:28:07Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1679
+                "stars": 1680
               }
             },
             {
@@ -3695,6 +3783,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "FiRE",
+              "description": "[python, R, C++] - Finder of rare entities (FiRE) helps identify rare cell types in voluminous single-cell datasets. Design of FiRE is inspired by the observation that rareness estimation of a particular data point is the flip side of measuring the density around it. In principle, FiRE uses the Sketching technique, a variant of locality sensitive hashing, to assign rareness score to every cell. Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151917746,
+                "language": "C++",
+                "last_commit": "2026-05-08T21:28:15Z",
+                "owner": "princethewinner",
+                "repo": "FiRE",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rare cell detection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "CellChat",
               "description": "[R] - It predicts major signaling inputs and outputs for cells and how those cells and signals coordinate for functions using network analysis and pattern recognition approaches. Through manifold learning and quantitative contrasts, CellChat classifies signaling pathways and delineates conserved and context-specific pathways across different datasets. Paper",
               "children": [],
@@ -3862,7 +3972,7 @@
                 "last_commit": "2026-04-29T17:41:42Z",
                 "owner": "bowang-lab",
                 "repo": "scGPT",
-                "stars": 1616
+                "stars": 1617
               }
             },
             {
@@ -3877,7 +3987,7 @@
                 "last_commit": "2025-11-23T08:31:22Z",
                 "owner": "biomap-research",
                 "repo": "scFoundation",
-                "stars": 424
+                "stars": 425
               }
             },
             {
@@ -4218,10 +4328,10 @@
                 "archived": false,
                 "id": 102567256,
                 "language": "Python",
-                "last_commit": "2026-08-18T05:50:12Z",
+                "last_commit": "2026-08-24T13:28:07Z",
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1679
+                "stars": 1680
               }
             },
             {
@@ -4236,7 +4346,7 @@
                 "last_commit": "2026-08-22T22:04:59Z",
                 "owner": "scverse",
                 "repo": "squidpy",
-                "stars": 592
+                "stars": 593
               }
             },
             {
@@ -4266,7 +4376,7 @@
                 "last_commit": "2026-08-17T21:52:52Z",
                 "owner": "BayraktarLab",
                 "repo": "cell2location",
-                "stars": 458
+                "stars": 459
               }
             },
             {
@@ -4278,7 +4388,7 @@
                 "archived": false,
                 "id": 185897228,
                 "language": "R",
-                "last_commit": "2026-08-23T17:40:20Z",
+                "last_commit": "2026-08-24T03:44:58Z",
                 "owner": "giotto-suite",
                 "repo": "Giotto",
                 "stars": 388
@@ -5458,7 +5568,7 @@
             "last_commit": "2021-11-15T03:18:18Z",
             "owner": "crazyhottommy",
             "repo": "RNA-seq-analysis",
-            "stars": 1097
+            "stars": 1096
           }
         },
         {
@@ -5485,7 +5595,7 @@
             "archived": false,
             "id": 67773442,
             "language": "R",
-            "last_commit": "2026-08-23T04:23:32Z",
+            "last_commit": "2026-08-24T04:28:01Z",
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
             "stars": 341
@@ -5496,7 +5606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:52:27.692Z",
+    "last_updated": "2026-08-24T13:58:32.881Z",
     "original_repository": "seandavi/awesome-single-cell",
     "original_repository_id": 62237945,
     "original_repository_sha": "a5d47cc0fc8b452e58b0d4d7da36755c57a5f5db",
