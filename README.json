@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-21T20:49:56Z",
                 "owner": "satijalab",
                 "repo": "seurat",
-                "stars": 2788
+                "stars": 2789
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T15:14:43Z",
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2545
+                "stars": 2546
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-03-18T01:34:34Z",
                 "owner": "alexdobin",
                 "repo": "STAR",
-                "stars": 2236
+                "stars": 2237
               }
             },
             {
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 364573913,
                 "language": "Python",
-                "last_commit": "2026-08-22T12:15:00Z",
+                "last_commit": "2026-08-23T07:57:56Z",
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
                 "stars": 392
@@ -167,7 +167,7 @@
                 "last_commit": "2022-11-01T13:13:47Z",
                 "owner": "constantAmateur",
                 "repo": "SoupX",
-                "stars": 337
+                "stars": 338
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2026-04-03T03:14:11Z",
                 "owner": "Danko-Lab",
                 "repo": "BayesPrism",
-                "stars": 247
+                "stars": 248
               }
             },
             {
@@ -1381,7 +1381,7 @@
                 "last_commit": "2024-04-05T09:56:19Z",
                 "owner": "aertslab",
                 "repo": "SCENIC",
-                "stars": 495
+                "stars": 496
               }
             },
             {
@@ -1426,7 +1426,7 @@
                 "last_commit": "2026-08-11T10:12:46Z",
                 "owner": "cantinilab",
                 "repo": "scPRINT",
-                "stars": 156
+                "stars": 157
               }
             },
             {
@@ -1874,7 +1874,7 @@
                 "last_commit": "2026-08-11T10:12:46Z",
                 "owner": "cantinilab",
                 "repo": "scPRINT",
-                "stars": 156
+                "stars": 157
               }
             },
             {
@@ -2001,7 +2001,7 @@
                 "last_commit": "2026-08-10T15:06:36Z",
                 "owner": "jmbreda",
                 "repo": "Sanity",
-                "stars": 83
+                "stars": 84
               }
             },
             {
@@ -2217,7 +2217,7 @@
                 "last_commit": "2026-02-25T16:21:49Z",
                 "owner": "theislab",
                 "repo": "scvelo",
-                "stars": 505
+                "stars": 506
               }
             },
             {
@@ -2524,7 +2524,7 @@
                 "last_commit": "2026-08-18T09:50:20Z",
                 "owner": "cafferychen777",
                 "repo": "mLLMCelltype",
-                "stars": 657
+                "stars": 658
               }
             },
             {
@@ -2569,7 +2569,7 @@
                 "last_commit": "2026-08-11T10:12:46Z",
                 "owner": "cantinilab",
                 "repo": "scPRINT",
-                "stars": 156
+                "stars": 157
               }
             },
             {
@@ -2644,7 +2644,7 @@
                 "last_commit": "2026-06-21T18:30:21Z",
                 "owner": "ElliotXie",
                 "repo": "CASSIA",
-                "stars": 101
+                "stars": 102
               }
             },
             {
@@ -2793,7 +2793,7 @@
                 "last_commit": "2025-03-21T11:20:52Z",
                 "owner": "chris-mcginnis-ucsf",
                 "repo": "DoubletFinder",
-                "stars": 558
+                "stars": 559
               }
             },
             {
@@ -2920,7 +2920,7 @@
                 "last_commit": "2026-08-11T10:12:46Z",
                 "owner": "cantinilab",
                 "repo": "scPRINT",
-                "stars": 156
+                "stars": 157
               }
             },
             {
@@ -3017,7 +3017,7 @@
                 "last_commit": "2026-06-16T17:40:31Z",
                 "owner": "navinlabcode",
                 "repo": "copykat",
-                "stars": 302
+                "stars": 303
               }
             },
             {
@@ -3032,7 +3032,7 @@
                 "last_commit": "2026-02-04T05:00:43Z",
                 "owner": "kharchenkolab",
                 "repo": "numbat",
-                "stars": 226
+                "stars": 227
               }
             },
             {
@@ -3159,7 +3159,7 @@
                 "last_commit": "2026-02-13T16:37:59Z",
                 "owner": "luntergroup",
                 "repo": "octopus",
-                "stars": 325
+                "stars": 326
               }
             },
             {
@@ -3271,7 +3271,7 @@
                 "last_commit": "2024-12-05T14:37:22Z",
                 "owner": "colomemaria",
                 "repo": "epiScanpy",
-                "stars": 152
+                "stars": 153
               }
             },
             {
@@ -3286,7 +3286,7 @@
                 "last_commit": "2024-04-05T08:26:57Z",
                 "owner": "aertslab",
                 "repo": "cisTopic",
-                "stars": 147
+                "stars": 148
               }
             },
             {
@@ -3488,7 +3488,7 @@
                 "last_commit": "2026-02-09T00:27:33Z",
                 "owner": "gao-lab",
                 "repo": "GLUE",
-                "stars": 475
+                "stars": 476
               }
             },
             {
@@ -3518,7 +3518,7 @@
                 "last_commit": "2020-09-30T15:48:39Z",
                 "owner": "bioFAM",
                 "repo": "MOFA",
-                "stars": 267
+                "stars": 268
               }
             },
             {
@@ -3593,7 +3593,7 @@
                 "last_commit": "2020-12-15T00:51:02Z",
                 "owner": "kieranrcampbell",
                 "repo": "clonealign",
-                "stars": 37
+                "stars": 38
               }
             },
             {
@@ -3750,7 +3750,7 @@
                 "last_commit": "2025-02-01T09:35:37Z",
                 "owner": "snap-stanford",
                 "repo": "GEARS",
-                "stars": 395
+                "stars": 397
               }
             },
             {
@@ -3780,7 +3780,7 @@
                 "last_commit": "2026-06-23T18:02:51Z",
                 "owner": "schwartzlab-methods",
                 "repo": "CellNEST",
-                "stars": 70
+                "stars": 69
               }
             },
             {
@@ -3862,7 +3862,7 @@
                 "last_commit": "2026-04-29T17:41:42Z",
                 "owner": "bowang-lab",
                 "repo": "scGPT",
-                "stars": 1615
+                "stars": 1616
               }
             },
             {
@@ -3877,7 +3877,7 @@
                 "last_commit": "2025-11-23T08:31:22Z",
                 "owner": "biomap-research",
                 "repo": "scFoundation",
-                "stars": 423
+                "stars": 424
               }
             },
             {
@@ -3907,7 +3907,7 @@
                 "last_commit": "2024-03-28T20:01:04Z",
                 "owner": "OmicsML",
                 "repo": "CellPLM",
-                "stars": 104
+                "stars": 105
               }
             }
           ],
@@ -3929,7 +3929,7 @@
                 "last_commit": "2026-08-22T01:22:01Z",
                 "owner": "scverse",
                 "repo": "gget",
-                "stars": 1187
+                "stars": 1188
               }
             },
             {
@@ -3974,7 +3974,7 @@
                 "last_commit": "2026-07-13T04:31:38Z",
                 "owner": "bnprks",
                 "repo": "BPCells",
-                "stars": 301
+                "stars": 302
               }
             },
             {
@@ -4094,7 +4094,7 @@
                 "last_commit": "2026-08-16T10:01:32Z",
                 "owner": "ElliotXie",
                 "repo": "autozyme",
-                "stars": 46
+                "stars": 47
               }
             },
             {
@@ -4278,7 +4278,7 @@
                 "archived": false,
                 "id": 185897228,
                 "language": "R",
-                "last_commit": "2026-08-19T03:00:06Z",
+                "last_commit": "2026-08-23T17:40:20Z",
                 "owner": "giotto-suite",
                 "repo": "Giotto",
                 "stars": 388
@@ -4398,7 +4398,7 @@
                 "archived": false,
                 "id": 390851018,
                 "language": "R",
-                "last_commit": "2022-03-27T04:22:27Z",
+                "last_commit": "2026-08-23T07:32:24Z",
                 "owner": "navinlabcode",
                 "repo": "CellTrek",
                 "stars": 134
@@ -4421,6 +4421,21 @@
             },
             {
               "node_type": "item",
+              "title": "DeepSpot",
+              "description": "[Python] Predicts spatial transcriptomics from H&E histology images using spatial context. manuscript: DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 861854293,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-17T06:10:04Z",
+                "owner": "ratschlab",
+                "repo": "DeepSpot",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
               "title": "SLAT",
               "description": "[Python] SLAT is to align both homogeneous and heterogeneous (the first work) single cell spatial omics data by employing a graph alignment framework consists of LGCN and adversarial discriminator. manuscript open access: Spatial-linked alignment tool (SLAT) for aligning heterogenous slices",
               "children": [],
@@ -4432,21 +4447,6 @@
                 "owner": "gao-lab",
                 "repo": "SLAT",
                 "stars": 95
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "DeepSpot",
-              "description": "[Python] Predicts spatial transcriptomics from H&E histology images using spatial context. manuscript: DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 861854293,
-                "language": "Jupyter Notebook",
-                "last_commit": "2026-08-17T06:10:04Z",
-                "owner": "ratschlab",
-                "repo": "DeepSpot",
-                "stars": 94
               }
             },
             {
@@ -4476,7 +4476,7 @@
                 "last_commit": "2023-04-28T03:49:03Z",
                 "owner": "RucDongLab",
                 "repo": "STAGATE",
-                "stars": 54
+                "stars": 55
               }
             },
             {
@@ -4551,7 +4551,7 @@
                 "last_commit": "2026-08-12T09:28:44Z",
                 "owner": "ratschlab",
                 "repo": "DeepSpotM",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -4566,7 +4566,7 @@
                 "last_commit": "2026-08-18T11:22:27Z",
                 "owner": "ratschlab",
                 "repo": "aestetik",
-                "stars": 25
+                "stars": 26
               }
             },
             {
@@ -4581,7 +4581,7 @@
                 "last_commit": "2026-06-30T12:55:30Z",
                 "owner": "cafferychen777",
                 "repo": "flashdeconv",
-                "stars": 25
+                "stars": 26
               }
             },
             {
@@ -4626,7 +4626,7 @@
                 "last_commit": "2026-08-17T06:07:52Z",
                 "owner": "ratschlab",
                 "repo": "DeepSpot2Cell",
-                "stars": 17
+                "stars": 18
               }
             },
             {
@@ -5282,7 +5282,7 @@
                 "last_commit": "2019-12-23T09:38:29Z",
                 "owner": "yuifu",
                 "repo": "millefy",
-                "stars": 30
+                "stars": 31
               }
             },
             {
@@ -5458,7 +5458,7 @@
             "last_commit": "2021-11-15T03:18:18Z",
             "owner": "crazyhottommy",
             "repo": "RNA-seq-analysis",
-            "stars": 1096
+            "stars": 1097
           }
         },
         {
@@ -5485,7 +5485,7 @@
             "archived": false,
             "id": 67773442,
             "language": "R",
-            "last_commit": "2026-08-22T04:14:57Z",
+            "last_commit": "2026-08-23T04:23:32Z",
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
             "stars": 341
@@ -5496,7 +5496,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:51:57.105Z",
+    "last_updated": "2026-08-24T02:52:27.692Z",
     "original_repository": "seandavi/awesome-single-cell",
     "original_repository_id": 62237945,
     "original_repository_sha": "a5d47cc0fc8b452e58b0d4d7da36755c57a5f5db",
