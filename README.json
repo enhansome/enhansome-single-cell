@@ -3830,7 +3830,7 @@
                 "last_commit": "2026-06-01T13:46:08Z",
                 "owner": "saeyslab",
                 "repo": "nichenetr",
-                "stars": 673
+                "stars": 674
               }
             },
             {
@@ -3860,7 +3860,7 @@
                 "last_commit": "2025-02-01T09:35:37Z",
                 "owner": "snap-stanford",
                 "repo": "GEARS",
-                "stars": 397
+                "stars": 398
               }
             },
             {
@@ -4039,7 +4039,7 @@
                 "last_commit": "2026-08-24T17:58:51Z",
                 "owner": "scverse",
                 "repo": "gget",
-                "stars": 1188
+                "stars": 1189
               }
             },
             {
@@ -4837,7 +4837,7 @@
             "last_commit": "2022-12-11T23:19:01Z",
             "owner": "theislab",
             "repo": "single-cell-tutorial",
-            "stars": 1588
+            "stars": 1589
           }
         },
         {
@@ -5052,6 +5052,21 @@
         },
         {
           "node_type": "item",
+          "title": "CyTOF Workflow",
+          "description": "[R] - An R-based pipeline for differential analyses of high dimensional mass cytometry data, primarily based on Bioconductor packages. Link to the paper describing a high-level introduction to the core concepts and code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185671688,
+            "language": "TeX",
+            "last_commit": "2024-04-17T19:48:40Z",
+            "owner": "markrobinsonuzh",
+            "repo": "cytofWorkflow",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
           "title": "SIB Advanced topics in single-cell transcriptomics",
           "description": null,
           "children": [],
@@ -5063,21 +5078,6 @@
             "owner": "fmicompbio",
             "repo": "adv_scrnaseq_2020",
             "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CyTOF Workflow",
-          "description": "[R] - An R-based pipeline for differential analyses of high dimensional mass cytometry data, primarily based on Bioconductor packages. Link to the paper describing a high-level introduction to the core concepts and code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 185671688,
-            "language": "TeX",
-            "last_commit": "2024-04-17T19:48:40Z",
-            "owner": "markrobinsonuzh",
-            "repo": "cytofWorkflow",
-            "stars": 17
           }
         },
         {
@@ -5595,7 +5595,7 @@
             "archived": false,
             "id": 67773442,
             "language": "R",
-            "last_commit": "2026-08-24T04:28:01Z",
+            "last_commit": "2026-08-25T04:23:08Z",
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
             "stars": 341
@@ -5606,7 +5606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:47:32.438Z",
+    "last_updated": "2026-08-25T05:50:22.743Z",
     "original_repository": "seandavi/awesome-single-cell",
     "original_repository_id": 62237945,
     "original_repository_sha": "a5d47cc0fc8b452e58b0d4d7da36755c57a5f5db",
