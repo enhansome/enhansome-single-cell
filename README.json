@@ -258,7 +258,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-29T00:04:25Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
                 "stars": 394,
@@ -6412,7 +6412,7 @@
                 "id": 488684164,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-28T05:12:15Z",
+                "last_commit": "2026-08-29T06:18:35Z",
                 "open_issues": 43,
                 "owner": "scverse",
                 "repo": "gget",
@@ -7370,6 +7370,46 @@
             },
             {
               "node_type": "item",
+              "title": "DeepSpot-M",
+              "description": "[Python] Multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology. manuscript: DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Multimodal foundation model predicting transcriptome-wide virtual spatial transcriptomics from histology.",
+                "homepage": "https://doi.org/10.64898/2026.06.19.26356060 ",
+                "id": 1268116731,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-12T09:28:44Z",
+                "open_issues": 1,
+                "owner": "ratschlab",
+                "repo": "DeepSpotM",
+                "stars": 45,
+                "topics": [
+                  "bioinformatics",
+                  "cancer",
+                  "computational-pathology",
+                  "deep-learning",
+                  "digital-pathology",
+                  "foundation-model",
+                  "gene-expression",
+                  "he-staining",
+                  "histology",
+                  "hugging-face",
+                  "medical-imaging",
+                  "multimodal",
+                  "oncology",
+                  "pytorch",
+                  "spatial-transcriptomics",
+                  "transcriptomics",
+                  "virtual-spatial-transcriptomics",
+                  "whole-slide-imaging"
+                ]
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
               "title": "ChatSpatial",
               "description": "[Python] An MCP server enabling spatial transcriptomics analysis via natural language. Integrates 60+ methods including SpaGCN, Cell2location, RCTD, LIANA+, CellRank for spatial domains, deconvolution, cell communication, and trajectory analysis. Supports Visium, Xenium, MERFISH, Slide-seq. manuscript: ChatSpatial: Schema-Enforced Agentic Orchestration for Reproducible and Cross-Platform Spatial Transcriptomics. PyPI | Docs",
               "children": [],
@@ -7406,46 +7446,6 @@
                   "spatial-transcriptomics",
                   "squidpy",
                   "visualization"
-                ]
-              },
-              "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DeepSpot-M",
-              "description": "[Python] Multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology. manuscript: DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Multimodal foundation model predicting transcriptome-wide virtual spatial transcriptomics from histology.",
-                "homepage": "https://doi.org/10.64898/2026.06.19.26356060 ",
-                "id": 1268116731,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-12T09:28:44Z",
-                "open_issues": 1,
-                "owner": "ratschlab",
-                "repo": "DeepSpotM",
-                "stars": 44,
-                "topics": [
-                  "bioinformatics",
-                  "cancer",
-                  "computational-pathology",
-                  "deep-learning",
-                  "digital-pathology",
-                  "foundation-model",
-                  "gene-expression",
-                  "he-staining",
-                  "histology",
-                  "hugging-face",
-                  "medical-imaging",
-                  "multimodal",
-                  "oncology",
-                  "pytorch",
-                  "spatial-transcriptomics",
-                  "transcriptomics",
-                  "virtual-spatial-transcriptomics",
-                  "whole-slide-imaging"
                 ]
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7841,7 +7841,7 @@
             "open_issues": 24,
             "owner": "hbctraining",
             "repo": "Intro-to-scRNAseq",
-            "stars": 665,
+            "stars": 666,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -9039,7 +9039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:18:04.928Z",
+    "last_updated": "2026-08-29T08:19:29.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
