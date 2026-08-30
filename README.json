@@ -21,7 +21,7 @@
                 "open_issues": 224,
                 "owner": "satijalab",
                 "repo": "seurat",
-                "stars": 2790,
+                "stars": 2791,
                 "topics": [
                   "cran",
                   "human-cell-atlas",
@@ -44,10 +44,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T12:13:50Z",
-                "open_issues": 523,
+                "open_issues": 524,
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2549,
+                "stars": 2550,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -99,7 +99,7 @@
                 "open_issues": 22,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1683,
+                "stars": 1684,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -257,8 +257,8 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:04:25Z",
-                "open_issues": 20,
+                "last_commit": "2026-08-29T13:19:29Z",
+                "open_issues": 21,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
                 "stars": 394,
@@ -3613,7 +3613,7 @@
                 "open_issues": 12,
                 "owner": "dpeerlab",
                 "repo": "Palantir",
-                "stars": 332,
+                "stars": 333,
                 "topics": [
                   "cell-fate-transitions",
                   "differentiation",
@@ -4021,7 +4021,7 @@
                 "open_issues": 22,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1683,
+                "stars": 1684,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -4294,7 +4294,7 @@
                 "open_issues": 3,
                 "owner": "ElliotXie",
                 "repo": "CASSIA",
-                "stars": 103,
+                "stars": 104,
                 "topics": [
                   "ai4science",
                   "annotation",
@@ -4915,7 +4915,7 @@
                 "open_issues": 240,
                 "owner": "broadinstitute",
                 "repo": "infercnv",
-                "stars": 680,
+                "stars": 681,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5609,7 +5609,7 @@
                 "open_issues": 22,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1683,
+                "stars": 1684,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5641,7 +5641,7 @@
                 "open_issues": 22,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1683,
+                "stars": 1684,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5673,7 +5673,7 @@
                 "open_issues": 22,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1683,
+                "stars": 1684,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -6160,7 +6160,7 @@
                 "open_issues": 21,
                 "owner": "snap-stanford",
                 "repo": "GEARS",
-                "stars": 401,
+                "stars": 402,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6321,7 +6321,7 @@
                 "open_issues": 176,
                 "owner": "bowang-lab",
                 "repo": "scGPT",
-                "stars": 1621,
+                "stars": 1620,
                 "topics": [
                   "foundation-model",
                   "gpt",
@@ -6416,7 +6416,7 @@
                 "open_issues": 43,
                 "owner": "scverse",
                 "repo": "gget",
-                "stars": 1189,
+                "stars": 1190,
                 "topics": [
                   "alphafold",
                   "alphafold2",
@@ -6901,7 +6901,7 @@
                 "open_issues": 22,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1683,
+                "stars": 1684,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -6988,7 +6988,7 @@
                 "open_issues": 141,
                 "owner": "BayraktarLab",
                 "repo": "cell2location",
-                "stars": 460,
+                "stars": 461,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7175,7 +7175,7 @@
                 "open_issues": 9,
                 "owner": "prism-oncology",
                 "repo": "novae",
-                "stars": 155,
+                "stars": 154,
                 "topics": [
                   "niches",
                   "self-supervised-learning",
@@ -7384,7 +7384,7 @@
                 "open_issues": 1,
                 "owner": "ratschlab",
                 "repo": "DeepSpotM",
-                "stars": 45,
+                "stars": 47,
                 "topics": [
                   "bioinformatics",
                   "cancer",
@@ -9017,7 +9017,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-08-28T15:40:13Z",
+            "last_commit": "2026-08-29T10:28:09Z",
             "open_issues": 8,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9039,7 +9039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:19:29.781Z",
+    "last_updated": "2026-08-30T07:32:31.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
