@@ -18,10 +18,10 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:23:29Z",
-                "open_issues": 224,
+                "open_issues": 231,
                 "owner": "satijalab",
                 "repo": "seurat",
-                "stars": 2791,
+                "stars": 2792,
                 "topics": [
                   "cran",
                   "human-cell-atlas",
@@ -47,7 +47,7 @@
                 "open_issues": 524,
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2550,
+                "stars": 2551,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -78,7 +78,7 @@
                 "open_issues": 1006,
                 "owner": "alexdobin",
                 "repo": "STAR",
-                "stars": 2241,
+                "stars": 2242,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -96,7 +96,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T14:35:41Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "scverse",
                 "repo": "scvi-tools",
                 "stars": 1684,
@@ -153,7 +153,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-05T02:23:32Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "zqfang",
                 "repo": "GSEApy",
                 "stars": 709,
@@ -257,7 +257,7 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T13:19:29Z",
+                "last_commit": "2026-08-30T13:12:31Z",
                 "open_issues": 21,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
@@ -1324,7 +1324,7 @@
                 "id": 194733619,
                 "language": "MATLAB",
                 "license": "MIT",
-                "last_commit": "2026-08-28T20:21:23Z",
+                "last_commit": "2026-08-31T01:34:57Z",
                 "open_issues": 2,
                 "owner": "jamesjcai",
                 "repo": "scGEAToolbox",
@@ -3571,7 +3571,7 @@
                 "open_issues": 82,
                 "owner": "theislab",
                 "repo": "scvelo",
-                "stars": 508,
+                "stars": 509,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -4018,7 +4018,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T14:35:41Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "scverse",
                 "repo": "scvi-tools",
                 "stars": 1684,
@@ -4915,7 +4915,7 @@
                 "open_issues": 240,
                 "owner": "broadinstitute",
                 "repo": "infercnv",
-                "stars": 681,
+                "stars": 682,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5606,7 +5606,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T14:35:41Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "scverse",
                 "repo": "scvi-tools",
                 "stars": 1684,
@@ -5638,7 +5638,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T14:35:41Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "scverse",
                 "repo": "scvi-tools",
                 "stars": 1684,
@@ -5670,7 +5670,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T14:35:41Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "scverse",
                 "repo": "scvi-tools",
                 "stars": 1684,
@@ -6107,7 +6107,7 @@
                 "open_issues": 26,
                 "owner": "saeyslab",
                 "repo": "nichenetr",
-                "stars": 673,
+                "stars": 674,
                 "topics": [
                   "cell-cell-communication",
                   "data-integration",
@@ -6160,7 +6160,7 @@
                 "open_issues": 21,
                 "owner": "snap-stanford",
                 "repo": "GEARS",
-                "stars": 402,
+                "stars": 403,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6416,7 +6416,7 @@
                 "open_issues": 43,
                 "owner": "scverse",
                 "repo": "gget",
-                "stars": 1190,
+                "stars": 1191,
                 "topics": [
                   "alphafold",
                   "alphafold2",
@@ -6476,7 +6476,7 @@
                 "open_issues": 9,
                 "owner": "immunomind",
                 "repo": "immunarch",
-                "stars": 341,
+                "stars": 342,
                 "topics": [
                   "airr",
                   "bioinformatics",
@@ -6898,7 +6898,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T14:35:41Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "scverse",
                 "repo": "scvi-tools",
                 "stars": 1684,
@@ -6929,11 +6929,11 @@
                 "id": 289306932,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-28T10:12:58Z",
+                "last_commit": "2026-08-30T23:20:24Z",
                 "open_issues": 97,
                 "owner": "scverse",
                 "repo": "squidpy",
-                "stars": 595,
+                "stars": 596,
                 "topics": [
                   "data-visualization",
                   "image-analysis",
@@ -6988,7 +6988,7 @@
                 "open_issues": 141,
                 "owner": "BayraktarLab",
                 "repo": "cell2location",
-                "stars": 461,
+                "stars": 462,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7154,7 +7154,7 @@
                 "open_issues": 60,
                 "owner": "edward130603",
                 "repo": "BayesSpace",
-                "stars": 183,
+                "stars": 184,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7172,7 +7172,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-21T11:25:45Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "prism-oncology",
                 "repo": "novae",
                 "stars": 154,
@@ -7384,7 +7384,7 @@
                 "open_issues": 1,
                 "owner": "ratschlab",
                 "repo": "DeepSpotM",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "bioinformatics",
                   "cancer",
@@ -7841,7 +7841,7 @@
             "open_issues": 24,
             "owner": "hbctraining",
             "repo": "Intro-to-scRNAseq",
-            "stars": 666,
+            "stars": 667,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -9017,7 +9017,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-08-29T10:28:09Z",
+            "last_commit": "2026-08-30T09:34:18Z",
             "open_issues": 8,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9039,7 +9039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:32:31.577Z",
+    "last_updated": "2026-08-31T07:43:57.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
@@ -9051,7 +9051,7 @@
       "open_issues": 11,
       "owner": "seandavi",
       "repo": "awesome-single-cell",
-      "stars": 3841,
+      "stars": 3842,
       "topics": [
         "analysis-pipeline",
         "atac-seq",
