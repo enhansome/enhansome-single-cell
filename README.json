@@ -44,10 +44,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-03T14:43:27Z",
-                "open_issues": 534,
+                "open_issues": 535,
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2553,
+                "stars": 2554,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -95,7 +95,7 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-03T12:19:06Z",
+                "last_commit": "2026-09-06T13:41:55Z",
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "scvi-tools",
@@ -131,7 +131,7 @@
                 "open_issues": 214,
                 "owner": "pachterlab",
                 "repo": "kallisto",
-                "stars": 769,
+                "stars": 770,
                 "topics": [
                   "kallisto",
                   "pseudoalignment",
@@ -257,7 +257,7 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-05T11:21:58Z",
+                "last_commit": "2026-09-06T11:43:55Z",
                 "open_issues": 19,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
@@ -439,7 +439,7 @@
                 "open_issues": 25,
                 "owner": "COMBINE-lab",
                 "repo": "alevin-fry",
-                "stars": 217,
+                "stars": 219,
                 "topics": [
                   "10x",
                   "quantification",
@@ -541,7 +541,7 @@
                 "id": 141349468,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-04T18:32:26Z",
+                "last_commit": "2026-09-07T02:20:12Z",
                 "open_issues": 7,
                 "owner": "yelabucsf",
                 "repo": "scrna-parameter-estimation",
@@ -2247,7 +2247,7 @@
                 "open_issues": 0,
                 "owner": "cantinilab",
                 "repo": "scPRINT",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "ai",
                   "batch-correction",
@@ -2287,7 +2287,7 @@
                 "open_issues": 3,
                 "owner": "pinellolab",
                 "repo": "dictys",
-                "stars": 130,
+                "stars": 131,
                 "topics": [
                   "dynamic-network",
                   "gene-regulatory-network",
@@ -2811,6 +2811,37 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
+              "title": "pbcheck",
+              "description": "[Python] - Audits a single-cell differential-expression design for pseudoreplication: checks donor nesting within condition, then runs a naive per-cell test and a donor-pseudobulk test against a donor-permutation null and reports each arm's permutation floor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An auditor of pseudoreplication in single-cell RNA-seq differential expression. Phase 0: pre-registered measurement study.",
+                "homepage": "https://pypi.org/project/pbcheck/",
+                "id": 1309192634,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-09-07T00:29:56Z",
+                "open_issues": 0,
+                "owner": "s4s4s4s",
+                "repo": "pbcheck",
+                "stars": 0,
+                "topics": [
+                  "anndata",
+                  "bioinformatics",
+                  "cli",
+                  "differential-expression",
+                  "pseudobulk",
+                  "pseudoreplication",
+                  "python",
+                  "scrna-seq",
+                  "single-cell"
+                ]
+              },
+              "first_seen": "2026-09-07T06:39:57.241Z"
             }
           ],
           "description": null,
@@ -2984,7 +3015,7 @@
                 "open_issues": 0,
                 "owner": "cantinilab",
                 "repo": "scPRINT",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "ai",
                   "batch-correction",
@@ -4017,7 +4048,7 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-03T12:19:06Z",
+                "last_commit": "2026-09-06T13:41:55Z",
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "scvi-tools",
@@ -4138,7 +4169,7 @@
                 "open_issues": 0,
                 "owner": "cantinilab",
                 "repo": "scPRINT",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "ai",
                   "batch-correction",
@@ -4727,7 +4758,7 @@
                 "open_issues": 0,
                 "owner": "brianhie",
                 "repo": "geosketch",
-                "stars": 98,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -4776,7 +4807,7 @@
                 "open_issues": 0,
                 "owner": "cantinilab",
                 "repo": "scPRINT",
-                "stars": 157,
+                "stars": 158,
                 "topics": [
                   "ai",
                   "batch-correction",
@@ -4989,7 +5020,7 @@
                 "open_issues": 19,
                 "owner": "icbi-lab",
                 "repo": "infercnvpy",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "cnv",
                   "scverse",
@@ -5605,7 +5636,7 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-03T12:19:06Z",
+                "last_commit": "2026-09-06T13:41:55Z",
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "scvi-tools",
@@ -5637,7 +5668,7 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-03T12:19:06Z",
+                "last_commit": "2026-09-06T13:41:55Z",
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "scvi-tools",
@@ -5669,7 +5700,7 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-03T12:19:06Z",
+                "last_commit": "2026-09-06T13:41:55Z",
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "scvi-tools",
@@ -6346,7 +6377,7 @@
                 "open_issues": 31,
                 "owner": "biomap-research",
                 "repo": "scFoundation",
-                "stars": 426,
+                "stars": 427,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6897,7 +6928,7 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-03T12:19:06Z",
+                "last_commit": "2026-09-06T13:41:55Z",
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "scvi-tools",
@@ -7617,7 +7648,7 @@
                 "id": 1075947904,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-17T06:07:52Z",
+                "last_commit": "2026-09-07T06:08:53Z",
                 "open_issues": 0,
                 "owner": "ratschlab",
                 "repo": "DeepSpot2Cell",
@@ -9017,7 +9048,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-09-05T08:00:55Z",
+            "last_commit": "2026-09-06T08:21:05Z",
             "open_issues": 8,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9039,7 +9070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T06:32:11.311Z",
+    "last_updated": "2026-09-07T06:39:57.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
@@ -9047,11 +9078,11 @@
       "id": 62237945,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-01T04:50:04Z",
+      "last_commit": "2026-09-07T03:16:09Z",
       "open_issues": 12,
       "owner": "seandavi",
       "repo": "awesome-single-cell",
-      "stars": 3848,
+      "stars": 3849,
       "topics": [
         "analysis-pipeline",
         "atac-seq",
@@ -9074,7 +9105,7 @@
         "spatial-transcriptomics"
       ]
     },
-    "original_repository_sha": "a5d47cc0fc8b452e58b0d4d7da36755c57a5f5db",
+    "original_repository_sha": "e208241a79e9f7b3ed3efd9b9945d8235b58b507",
     "enhanced_repository": "enhansome/enhansome-single-cell",
     "enhanced_repository_description": null,
     "title": "awesome-single-cell with stars"
