@@ -17,7 +17,7 @@
                 "id": 35927665,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T22:23:51Z",
+                "last_commit": "2026-09-11T18:19:05Z",
                 "open_issues": 219,
                 "owner": "satijalab",
                 "repo": "seurat",
@@ -43,8 +43,8 @@
                 "id": 80342493,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T15:27:55Z",
-                "open_issues": 537,
+                "last_commit": "2026-09-11T13:38:53Z",
+                "open_issues": 539,
                 "owner": "scverse",
                 "repo": "scanpy",
                 "stars": 2559,
@@ -78,7 +78,7 @@
                 "open_issues": 1008,
                 "owner": "alexdobin",
                 "repo": "STAR",
-                "stars": 2246,
+                "stars": 2247,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -257,7 +257,7 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T12:20:49Z",
+                "last_commit": "2026-09-11T16:00:38Z",
                 "open_issues": 23,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
@@ -435,8 +435,8 @@
                 "id": 279951153,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-31T17:51:35Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-11T13:17:21Z",
+                "open_issues": 25,
                 "owner": "COMBINE-lab",
                 "repo": "alevin-fry",
                 "stars": 219,
@@ -1324,7 +1324,7 @@
                 "id": 194733619,
                 "language": "MATLAB",
                 "license": "MIT",
-                "last_commit": "2026-09-09T00:24:07Z",
+                "last_commit": "2026-09-11T20:04:18Z",
                 "open_issues": 2,
                 "owner": "jamesjcai",
                 "repo": "scGEAToolbox",
@@ -4084,7 +4084,7 @@
                 "open_issues": 7,
                 "owner": "cafferychen777",
                 "repo": "mLLMCelltype",
-                "stars": 660,
+                "stars": 661,
                 "topics": [
                   "bioinformatics",
                   "cell-type-annotation",
@@ -4148,7 +4148,7 @@
                 "open_issues": 46,
                 "owner": "Irrationone",
                 "repo": "cellassign",
-                "stars": 215,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -4786,7 +4786,7 @@
                 "open_issues": 34,
                 "owner": "KrishnaswamyLab",
                 "repo": "MAGIC",
-                "stars": 388,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -4988,7 +4988,7 @@
                 "open_issues": 80,
                 "owner": "kharchenkolab",
                 "repo": "numbat",
-                "stars": 227,
+                "stars": 228,
                 "topics": [
                   "cancer-genomics",
                   "cnv-detection",
@@ -5214,7 +5214,7 @@
                 "open_issues": 65,
                 "owner": "luntergroup",
                 "repo": "octopus",
-                "stars": 326,
+                "stars": 325,
                 "topics": [
                   "bioinformatics",
                   "de-novo-mutation",
@@ -6170,7 +6170,7 @@
                 "open_issues": 68,
                 "owner": "ventolab",
                 "repo": "CellphoneDB",
-                "stars": 485,
+                "stars": 486,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6191,7 +6191,7 @@
                 "open_issues": 21,
                 "owner": "snap-stanford",
                 "repo": "GEARS",
-                "stars": 406,
+                "stars": 407,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6352,7 +6352,7 @@
                 "open_issues": 176,
                 "owner": "bowang-lab",
                 "repo": "scGPT",
-                "stars": 1626,
+                "stars": 1627,
                 "topics": [
                   "foundation-model",
                   "gpt",
@@ -6377,7 +6377,7 @@
                 "open_issues": 31,
                 "owner": "biomap-research",
                 "repo": "scFoundation",
-                "stars": 427,
+                "stars": 428,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6537,7 +6537,7 @@
                 "open_issues": 72,
                 "owner": "bnprks",
                 "repo": "BPCells",
-                "stars": 304,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7036,7 +7036,7 @@
                 "id": 185897228,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T14:48:35Z",
+                "last_commit": "2026-09-11T20:11:42Z",
                 "open_issues": 137,
                 "owner": "giotto-suite",
                 "repo": "Giotto",
@@ -7089,7 +7089,7 @@
                 "open_issues": 27,
                 "owner": "prism-oncology",
                 "repo": "sopa",
-                "stars": 291,
+                "stars": 292,
                 "topics": [
                   "multiplexed-imaging",
                   "pipeline",
@@ -7956,7 +7956,7 @@
             "open_issues": 0,
             "owner": "cellgeni",
             "repo": "scRNA.seq.course",
-            "stars": 175,
+            "stars": 176,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -8473,8 +8473,8 @@
                 "id": 161811262,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T01:29:35Z",
-                "open_issues": 513,
+                "last_commit": "2026-09-11T19:43:18Z",
+                "open_issues": 517,
                 "owner": "vitessce",
                 "repo": "vitessce",
                 "stars": 268,
@@ -8631,7 +8631,7 @@
                 "id": 600210876,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T19:52:44Z",
+                "last_commit": "2026-09-11T19:15:08Z",
                 "open_issues": 6,
                 "owner": "camlab-bioml",
                 "repo": "rakaia",
@@ -9022,7 +9022,7 @@
             "id": 61960760,
             "language": null,
             "license": "CC-BY-4.0",
-            "last_commit": "2026-08-12T02:40:26Z",
+            "last_commit": "2026-09-11T11:48:53Z",
             "open_issues": 1,
             "owner": "agitter",
             "repo": "single-cell-pseudotime",
@@ -9048,7 +9048,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-09-10T08:30:34Z",
+            "last_commit": "2026-09-11T08:24:56Z",
             "open_issues": 8,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9070,7 +9070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T06:39:51.293Z",
+    "last_updated": "2026-09-12T06:33:23.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
@@ -9082,7 +9082,7 @@
       "open_issues": 12,
       "owner": "seandavi",
       "repo": "awesome-single-cell",
-      "stars": 3855,
+      "stars": 3856,
       "topics": [
         "analysis-pipeline",
         "atac-seq",
