@@ -44,7 +44,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-11T13:38:53Z",
-                "open_issues": 539,
+                "open_issues": 540,
                 "owner": "scverse",
                 "repo": "scanpy",
                 "stars": 2559,
@@ -78,7 +78,7 @@
                 "open_issues": 1008,
                 "owner": "alexdobin",
                 "repo": "STAR",
-                "stars": 2247,
+                "stars": 2248,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -96,10 +96,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-10T12:03:40Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1685,
+                "stars": 1686,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -257,7 +257,7 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T16:00:38Z",
+                "last_commit": "2026-09-12T11:41:56Z",
                 "open_issues": 23,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
@@ -1324,7 +1324,7 @@
                 "id": 194733619,
                 "language": "MATLAB",
                 "license": "MIT",
-                "last_commit": "2026-09-11T20:04:18Z",
+                "last_commit": "2026-09-12T17:01:42Z",
                 "open_issues": 2,
                 "owner": "jamesjcai",
                 "repo": "scGEAToolbox",
@@ -2156,7 +2156,7 @@
                 "open_issues": 7,
                 "owner": "ccb-hms",
                 "repo": "scDiagnostics",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -2407,7 +2407,7 @@
                 "open_issues": 0,
                 "owner": "BorchLab",
                 "repo": "scRepertoire",
-                "stars": 375,
+                "stars": 376,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -2494,7 +2494,7 @@
                 "open_issues": 0,
                 "owner": "BorchLab",
                 "repo": "Ibex",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -3265,7 +3265,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-04T13:49:54Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "jmbreda",
                 "repo": "Sanity",
                 "stars": 86,
@@ -4049,10 +4049,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-10T12:03:40Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1685,
+                "stars": 1686,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5362,7 +5362,7 @@
                 "open_issues": 17,
                 "owner": "cangermueller",
                 "repo": "deepcpg",
-                "stars": 153,
+                "stars": 154,
                 "topics": [
                   "deep-neural-networks",
                   "deeplearning",
@@ -5637,10 +5637,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-10T12:03:40Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1685,
+                "stars": 1686,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5669,10 +5669,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-10T12:03:40Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1685,
+                "stars": 1686,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5701,10 +5701,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-10T12:03:40Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1685,
+                "stars": 1686,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -6138,7 +6138,7 @@
                 "open_issues": 26,
                 "owner": "saeyslab",
                 "repo": "nichenetr",
-                "stars": 676,
+                "stars": 677,
                 "topics": [
                   "cell-cell-communication",
                   "data-integration",
@@ -6447,7 +6447,7 @@
                 "open_issues": 43,
                 "owner": "scverse",
                 "repo": "gget",
-                "stars": 1198,
+                "stars": 1199,
                 "topics": [
                   "alphafold",
                   "alphafold2",
@@ -6735,7 +6735,7 @@
                 "id": 1267799183,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-16T10:01:32Z",
+                "last_commit": "2026-09-13T02:43:49Z",
                 "open_issues": 1,
                 "owner": "ElliotXie",
                 "repo": "autozyme",
@@ -6929,10 +6929,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-10T12:03:40Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1685,
+                "stars": 1686,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -7117,7 +7117,7 @@
                 "open_issues": 25,
                 "owner": "jianhuupenn",
                 "repo": "SpaGCN",
-                "stars": 264,
+                "stars": 265,
                 "topics": [
                   "graph-convolutional-network",
                   "spatial-domains",
@@ -7164,7 +7164,7 @@
                 "open_issues": 21,
                 "owner": "Teichlab",
                 "repo": "SpatialDE",
-                "stars": 190,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7275,7 +7275,7 @@
                 "open_issues": 0,
                 "owner": "ratschlab",
                 "repo": "DeepSpot",
-                "stars": 97,
+                "stars": 98,
                 "topics": [
                   "bioinformatics",
                   "cancer-research",
@@ -7380,27 +7380,6 @@
             },
             {
               "node_type": "item",
-              "title": "STAligner",
-              "description": "[Python] STAligner is designed for alignment and integration of spatially resolved transcriptomics data, it employs a graph attention auto-encoder neural network(GATE) to extract spatially aware embedding and introduces the triplet loss to update the spot embedding to reduce the distance from the anchor to positive spot. manuscript open access: STAligner enables the integration and alignment of multiple spatial transcriptomics datasets",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "STAligner is a tool for alignment and integration of spatially resolved transcriptomics data.",
-                "homepage": null,
-                "id": 563228268,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2024-04-08T13:22:31Z",
-                "open_issues": 21,
-                "owner": "zhoux85",
-                "repo": "STAligner",
-                "stars": 53,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
               "title": "DeepSpot-M",
               "description": "[Python] Multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology. manuscript: DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology.",
               "children": [],
@@ -7415,7 +7394,7 @@
                 "open_issues": 2,
                 "owner": "ratschlab",
                 "repo": "DeepSpotM",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "bioinformatics",
                   "cancer",
@@ -7436,6 +7415,27 @@
                   "virtual-spatial-transcriptomics",
                   "whole-slide-imaging"
                 ]
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
+              "title": "STAligner",
+              "description": "[Python] STAligner is designed for alignment and integration of spatially resolved transcriptomics data, it employs a graph attention auto-encoder neural network(GATE) to extract spatially aware embedding and introduces the triplet loss to update the spot embedding to reduce the distance from the anchor to positive spot. manuscript open access: STAligner enables the integration and alignment of multiple spatial transcriptomics datasets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "STAligner is a tool for alignment and integration of spatially resolved transcriptomics data.",
+                "homepage": null,
+                "id": 563228268,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2024-04-08T13:22:31Z",
+                "open_issues": 21,
+                "owner": "zhoux85",
+                "repo": "STAligner",
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
             },
@@ -7539,7 +7539,7 @@
                 "open_issues": 0,
                 "owner": "ratschlab",
                 "repo": "aestetik",
-                "stars": 26,
+                "stars": 27,
                 "topics": [
                   "autoencoder",
                   "bioinformatics",
@@ -7652,7 +7652,7 @@
                 "open_issues": 0,
                 "owner": "ratschlab",
                 "repo": "DeepSpot2Cell",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "bioinformatics",
                   "cell-segmentation",
@@ -8024,7 +8024,7 @@
             "open_issues": 2,
             "owner": "sib-swiss",
             "repo": "single-cell-training",
-            "stars": 91,
+            "stars": 92,
             "topics": [
               "bioinformatics",
               "course",
@@ -8123,7 +8123,7 @@
             "open_issues": 4,
             "owner": "GoekeLab",
             "repo": "bambu-pipe",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "bambu",
               "genomics",
@@ -9048,7 +9048,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-09-11T08:24:56Z",
+            "last_commit": "2026-09-12T08:15:54Z",
             "open_issues": 8,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9070,7 +9070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T06:33:23.326Z",
+    "last_updated": "2026-09-13T06:48:49.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
