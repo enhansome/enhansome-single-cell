@@ -44,10 +44,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-11T13:38:53Z",
-                "open_issues": 540,
+                "open_issues": 539,
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2559,
+                "stars": 2560,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -99,7 +99,7 @@
                 "open_issues": 24,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1686,
+                "stars": 1689,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -131,7 +131,7 @@
                 "open_issues": 215,
                 "owner": "pachterlab",
                 "repo": "kallisto",
-                "stars": 771,
+                "stars": 772,
                 "topics": [
                   "kallisto",
                   "pseudoalignment",
@@ -257,8 +257,8 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-12T11:41:56Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-13T13:28:23Z",
+                "open_issues": 20,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
                 "stars": 394,
@@ -374,6 +374,27 @@
             },
             {
               "node_type": "item",
+              "title": "Muscat",
+              "description": "[R] - muscat (Multi-sample multi-group scRNA-seq analysis tools ) provides various methods for Differential State (DS) analyses in multi-sample, multi-group, multi-(cell-)subpopulation scRNA-seq data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Multi-sample multi-group scRNA-seq analysis tools",
+                "homepage": null,
+                "id": 155884999,
+                "language": "R",
+                "license": null,
+                "last_commit": "2026-07-06T20:18:50Z",
+                "open_issues": 36,
+                "owner": "HelenaLC",
+                "repo": "muscat",
+                "stars": 241,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
               "title": "Clustergrammer",
               "description": "[Python, JavaScript] - Interative web-based heatmap for visualizing and analyzing high dimensional biological data, including single-cell RNA-seq. Clustergrammer can be used within a Jupyter notebook as an interative widget that can be shared using GitHub and NBviewer, see example notebook.",
               "children": [],
@@ -404,27 +425,6 @@
             },
             {
               "node_type": "item",
-              "title": "Muscat",
-              "description": "[R] - muscat (Multi-sample multi-group scRNA-seq analysis tools ) provides various methods for Differential State (DS) analyses in multi-sample, multi-group, multi-(cell-)subpopulation scRNA-seq data.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Multi-sample multi-group scRNA-seq analysis tools",
-                "homepage": null,
-                "id": 155884999,
-                "language": "R",
-                "license": null,
-                "last_commit": "2026-07-06T20:18:50Z",
-                "open_issues": 36,
-                "owner": "HelenaLC",
-                "repo": "muscat",
-                "stars": 240,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
               "title": "alevin-fry",
               "description": "[Rust] - 🐟 Rapid, accurate and memory-frugal preprocessing of single-cell and single-nucleus RNA-seq data.",
               "children": [],
@@ -435,8 +435,8 @@
                 "id": 279951153,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-11T13:17:21Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-13T22:40:04Z",
+                "open_issues": 26,
                 "owner": "COMBINE-lab",
                 "repo": "alevin-fry",
                 "stars": 219,
@@ -752,7 +752,7 @@
                 "open_issues": 10,
                 "owner": "htseq",
                 "repo": "htseq",
-                "stars": 108,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -2184,7 +2184,7 @@
                 "open_issues": 113,
                 "owner": "aertslab",
                 "repo": "SCENIC",
-                "stars": 497,
+                "stars": 498,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -2972,7 +2972,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-11T00:55:02Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "TorchDR",
                 "repo": "TorchDR",
                 "stars": 215,
@@ -3264,8 +3264,8 @@
                 "id": 161495073,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T13:49:54Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-13T16:05:08Z",
+                "open_issues": 12,
                 "owner": "jmbreda",
                 "repo": "Sanity",
                 "stars": 86,
@@ -4052,7 +4052,7 @@
                 "open_issues": 24,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1686,
+                "stars": 1689,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -4117,7 +4117,7 @@
                 "open_issues": 5,
                 "owner": "ZJUFanLab",
                 "repo": "scCATCH",
-                "stars": 245,
+                "stars": 246,
                 "topics": [
                   "cell-markers",
                   "cluster-annotation",
@@ -5640,7 +5640,7 @@
                 "open_issues": 24,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1686,
+                "stars": 1689,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5672,7 +5672,7 @@
                 "open_issues": 24,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1686,
+                "stars": 1689,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5704,7 +5704,7 @@
                 "open_issues": 24,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1686,
+                "stars": 1689,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -6932,7 +6932,7 @@
                 "open_issues": 24,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1686,
+                "stars": 1689,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -6961,7 +6961,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-10T18:39:27Z",
-                "open_issues": 102,
+                "open_issues": 103,
                 "owner": "scverse",
                 "repo": "squidpy",
                 "stars": 598,
@@ -7086,7 +7086,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-07T07:47:41Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "prism-oncology",
                 "repo": "sopa",
                 "stars": 292,
@@ -7206,7 +7206,7 @@
                 "open_issues": 8,
                 "owner": "prism-oncology",
                 "repo": "novae",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "niches",
                   "self-supervised-learning",
@@ -7823,7 +7823,7 @@
             "open_issues": 22,
             "owner": "theislab",
             "repo": "single-cell-tutorial",
-            "stars": 1591,
+            "stars": 1592,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7872,7 +7872,7 @@
             "open_issues": 24,
             "owner": "hbctraining",
             "repo": "Intro-to-scRNAseq",
-            "stars": 668,
+            "stars": 669,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7977,7 +7977,7 @@
             "open_issues": 30,
             "owner": "pachterlab",
             "repo": "kallistobustools",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "bustools",
               "kallisto",
@@ -8088,27 +8088,6 @@
         },
         {
           "node_type": "item",
-          "title": "Dana-Farber Cancer Institute Trajectory inference across conditions: differential expression and differential progression",
-          "description": "website",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Trajectory inference and differential expression over multiple conditions in scRNA-seq",
-            "homepage": "https://kstreet13.github.io/bioc2020trajectories/",
-            "id": 243836969,
-            "language": "R",
-            "license": "NOASSERTION",
-            "last_commit": "2021-04-22T08:52:44Z",
-            "open_issues": 2,
-            "owner": "kstreet13",
-            "repo": "bioc2020trajectories",
-            "stars": 26,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:24:30.408Z"
-        },
-        {
-          "node_type": "item",
           "title": "Bambu-Pipe",
           "description": "Bambu-Pipe is a Nextflow pipeline that performs context-aware transcript discovery and quantification from long-read single-cell and spatial transcriptomics data. Manuscript: Isoform-level discovery, quantification and fusion analysis from single-cell and spatial long-read RNA-seq data with Bambu-Clump",
           "children": [],
@@ -8123,7 +8102,7 @@
             "open_issues": 4,
             "owner": "GoekeLab",
             "repo": "bambu-pipe",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "bambu",
               "genomics",
@@ -8141,6 +8120,27 @@
               "transcript-quantification",
               "transcriptomics"
             ]
+          },
+          "first_seen": "2026-08-28T13:24:30.408Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Dana-Farber Cancer Institute Trajectory inference across conditions: differential expression and differential progression",
+          "description": "website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Trajectory inference and differential expression over multiple conditions in scRNA-seq",
+            "homepage": "https://kstreet13.github.io/bioc2020trajectories/",
+            "id": 243836969,
+            "language": "R",
+            "license": "NOASSERTION",
+            "last_commit": "2021-04-22T08:52:44Z",
+            "open_issues": 2,
+            "owner": "kstreet13",
+            "repo": "bioc2020trajectories",
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
         },
@@ -8631,11 +8631,11 @@
                 "id": 600210876,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T19:15:08Z",
+                "last_commit": "2026-09-13T17:45:34Z",
                 "open_issues": 6,
                 "owner": "camlab-bioml",
                 "repo": "rakaia",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "browser",
                   "histology",
@@ -9048,7 +9048,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-09-12T08:15:54Z",
+            "last_commit": "2026-09-13T08:38:21Z",
             "open_issues": 8,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9070,7 +9070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:48:49.729Z",
+    "last_updated": "2026-09-14T07:13:01.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
