@@ -21,7 +21,7 @@
                 "open_issues": 223,
                 "owner": "satijalab",
                 "repo": "seurat",
-                "stars": 2800,
+                "stars": 2801,
                 "topics": [
                   "cran",
                   "human-cell-atlas",
@@ -257,7 +257,7 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T22:03:20Z",
+                "last_commit": "2026-09-19T12:01:25Z",
                 "open_issues": 21,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
@@ -2152,7 +2152,7 @@
                 "id": 665796182,
                 "language": "R",
                 "license": null,
-                "last_commit": "2026-07-07T19:53:00Z",
+                "last_commit": "2026-09-20T01:10:34Z",
                 "open_issues": 7,
                 "owner": "ccb-hms",
                 "repo": "scDiagnostics",
@@ -3644,7 +3644,7 @@
                 "open_issues": 12,
                 "owner": "dpeerlab",
                 "repo": "Palantir",
-                "stars": 335,
+                "stars": 337,
                 "topics": [
                   "cell-fate-transitions",
                   "differentiation",
@@ -4256,7 +4256,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-11T18:35:35Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "NygenAnalytics",
                 "repo": "CyteType",
                 "stars": 137,
@@ -6138,7 +6138,7 @@
                 "open_issues": 26,
                 "owner": "saeyslab",
                 "repo": "nichenetr",
-                "stars": 678,
+                "stars": 679,
                 "topics": [
                   "cell-cell-communication",
                   "data-integration",
@@ -6170,7 +6170,7 @@
                 "open_issues": 68,
                 "owner": "ventolab",
                 "repo": "CellphoneDB",
-                "stars": 486,
+                "stars": 487,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6352,7 +6352,7 @@
                 "open_issues": 176,
                 "owner": "bowang-lab",
                 "repo": "scGPT",
-                "stars": 1631,
+                "stars": 1632,
                 "topics": [
                   "foundation-model",
                   "gpt",
@@ -6447,7 +6447,7 @@
                 "open_issues": 44,
                 "owner": "scverse",
                 "repo": "gget",
-                "stars": 1199,
+                "stars": 1200,
                 "topics": [
                   "alphafold",
                   "alphafold2",
@@ -7823,7 +7823,7 @@
             "open_issues": 22,
             "owner": "theislab",
             "repo": "single-cell-tutorial",
-            "stars": 1592,
+            "stars": 1593,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -9048,7 +9048,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-09-18T08:41:18Z",
+            "last_commit": "2026-09-19T08:23:44Z",
             "open_issues": 8,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9070,7 +9070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T06:42:59.656Z",
+    "last_updated": "2026-09-20T07:06:55.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
@@ -9082,7 +9082,7 @@
       "open_issues": 12,
       "owner": "seandavi",
       "repo": "awesome-single-cell",
-      "stars": 3856,
+      "stars": 3857,
       "topics": [
         "analysis-pipeline",
         "atac-seq",
