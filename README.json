@@ -43,11 +43,11 @@
                 "id": 80342493,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-24T08:31:48Z",
-                "open_issues": 539,
+                "last_commit": "2026-09-25T15:55:42Z",
+                "open_issues": 536,
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2566,
+                "stars": 2571,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -99,7 +99,7 @@
                 "open_issues": 39,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1696,
+                "stars": 1697,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -257,8 +257,8 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-24T12:51:07Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-25T16:22:09Z",
+                "open_issues": 24,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
                 "stars": 398,
@@ -336,7 +336,7 @@
                 "open_issues": 48,
                 "owner": "sdparekh",
                 "repo": "zUMIs",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "barcodes",
                   "dge",
@@ -388,7 +388,7 @@
                 "open_issues": 36,
                 "owner": "HelenaLC",
                 "repo": "muscat",
-                "stars": 242,
+                "stars": 243,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -436,7 +436,7 @@
                 "language": "Rust",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-21T21:03:15Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "COMBINE-lab",
                 "repo": "alevin-fry",
                 "stars": 220,
@@ -904,7 +904,7 @@
                 "open_issues": 9,
                 "owner": "jcao89757",
                 "repo": "SCINA",
-                "stars": 76,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -1120,7 +1120,7 @@
                 "id": 857910536,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-24T22:01:29Z",
+                "last_commit": "2026-09-25T14:47:46Z",
                 "open_issues": 0,
                 "owner": "ArpiarSaundersLab",
                 "repo": "annsql",
@@ -2205,7 +2205,7 @@
                 "open_issues": 206,
                 "owner": "aertslab",
                 "repo": "scenicplus",
-                "stars": 264,
+                "stars": 265,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -2226,7 +2226,7 @@
                 "open_issues": 31,
                 "owner": "dpeerlab",
                 "repo": "spectra",
-                "stars": 203,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -2403,8 +2403,8 @@
                 "id": 234732643,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-14T13:09:29Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-25T11:12:21Z",
+                "open_issues": 0,
                 "owner": "BorchLab",
                 "repo": "scRepertoire",
                 "stars": 376,
@@ -2424,7 +2424,7 @@
                 "id": 206697335,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-25T03:24:48Z",
+                "last_commit": "2026-09-25T14:52:55Z",
                 "open_issues": 125,
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
@@ -2677,6 +2677,27 @@
             },
             {
               "node_type": "item",
+              "title": "DECENT",
+              "description": "[R] - The unique features of scRNA-seq data have led to the development of novel methods for differential expression (DE) analysis. However, few of the existing DE methods for scRNA-seq data estimate the number of molecules pre-dropout and therefore do not explicitly distinguish technical and biological zeroes. We develop DECENT, a DE method for scRNA-seq data that adjusts for the imperfect capture efficiency by estimating the number of molecules pre-dropout.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Differential Expression with Capture Efficiency adjustmeNT",
+                "homepage": null,
+                "id": 112068191,
+                "language": "R",
+                "license": null,
+                "last_commit": "2023-01-03T00:33:26Z",
+                "open_issues": 2,
+                "owner": "cz-ye",
+                "repo": "DECENT",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
               "title": "SCMarker",
               "description": "[R] - SCMarker is a method performing ab initial marker gene set selection from scRNA-seq data to achieve improved clustering/cell-typing results. SCMarker: ab initio marker selection for single cell transcriptome profiling.",
               "children": [],
@@ -2698,27 +2719,6 @@
                   "single-cell-rna-seq",
                   "statistical-methods"
                 ]
-              },
-              "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DECENT",
-              "description": "[R] - The unique features of scRNA-seq data have led to the development of novel methods for differential expression (DE) analysis. However, few of the existing DE methods for scRNA-seq data estimate the number of molecules pre-dropout and therefore do not explicitly distinguish technical and biological zeroes. We develop DECENT, a DE method for scRNA-seq data that adjusts for the imperfect capture efficiency by estimating the number of molecules pre-dropout.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Differential Expression with Capture Efficiency adjustmeNT",
-                "homepage": null,
-                "id": 112068191,
-                "language": "R",
-                "license": null,
-                "last_commit": "2023-01-03T00:33:26Z",
-                "open_issues": 2,
-                "owner": "cz-ye",
-                "repo": "DECENT",
-                "stars": 15,
-                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
             },
@@ -3644,7 +3644,7 @@
                 "open_issues": 10,
                 "owner": "dpeerlab",
                 "repo": "Palantir",
-                "stars": 337,
+                "stars": 338,
                 "topics": [
                   "cell-fate-transitions",
                   "differentiation",
@@ -4052,7 +4052,7 @@
                 "open_issues": 39,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1696,
+                "stars": 1697,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -4325,7 +4325,7 @@
                 "open_issues": 3,
                 "owner": "ElliotXie",
                 "repo": "CASSIA",
-                "stars": 106,
+                "stars": 107,
                 "topics": [
                   "ai4science",
                   "annotation",
@@ -4602,7 +4602,7 @@
                 "open_issues": 23,
                 "owner": "chris-mcginnis-ucsf",
                 "repo": "DoubletFinder",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5016,7 +5016,7 @@
                 "id": 333152043,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-21T18:46:28Z",
+                "last_commit": "2026-09-25T10:43:55Z",
                 "open_issues": 19,
                 "owner": "icbi-lab",
                 "repo": "infercnvpy",
@@ -5640,7 +5640,7 @@
                 "open_issues": 39,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1696,
+                "stars": 1697,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5672,7 +5672,7 @@
                 "open_issues": 39,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1696,
+                "stars": 1697,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5704,7 +5704,7 @@
                 "open_issues": 39,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1696,
+                "stars": 1697,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5759,7 +5759,7 @@
                 "language": "R",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-18T14:07:17Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "welch-lab",
                 "repo": "liger",
                 "stars": 433,
@@ -6134,7 +6134,7 @@
                 "id": 120286519,
                 "language": "R",
                 "license": null,
-                "last_commit": "2026-06-01T13:46:08Z",
+                "last_commit": "2026-09-25T08:37:54Z",
                 "open_issues": 26,
                 "owner": "saeyslab",
                 "repo": "nichenetr",
@@ -6932,7 +6932,7 @@
                 "open_issues": 39,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1696,
+                "stars": 1697,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -6960,11 +6960,11 @@
                 "id": 289306932,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-24T07:38:40Z",
-                "open_issues": 107,
+                "last_commit": "2026-09-25T22:27:58Z",
+                "open_issues": 110,
                 "owner": "scverse",
                 "repo": "squidpy",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "data-visualization",
                   "image-analysis",
@@ -7206,7 +7206,7 @@
                 "open_issues": 7,
                 "owner": "prism-oncology",
                 "repo": "novae",
-                "stars": 160,
+                "stars": 161,
                 "topics": [
                   "niches",
                   "self-supervised-learning",
@@ -7752,7 +7752,7 @@
                 "id": 1005260145,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-01T21:03:37Z",
+                "last_commit": "2026-09-25T14:26:00Z",
                 "open_issues": 0,
                 "owner": "HickeyLab",
                 "repo": "Mingl",
@@ -8474,7 +8474,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-25T00:09:08Z",
-                "open_issues": 527,
+                "open_issues": 528,
                 "owner": "vitessce",
                 "repo": "vitessce",
                 "stars": 269,
@@ -8631,8 +8631,8 @@
                 "id": 600210876,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T17:58:26Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-25T14:42:01Z",
+                "open_issues": 5,
                 "owner": "camlab-bioml",
                 "repo": "rakaia",
                 "stars": 71,
@@ -9048,7 +9048,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-09-24T08:51:08Z",
+            "last_commit": "2026-09-25T09:08:34Z",
             "open_issues": 6,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9070,7 +9070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T06:43:42.191Z",
+    "last_updated": "2026-09-26T06:42:41.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
@@ -9082,7 +9082,7 @@
       "open_issues": 12,
       "owner": "seandavi",
       "repo": "awesome-single-cell",
-      "stars": 3861,
+      "stars": 3862,
       "topics": [
         "analysis-pipeline",
         "atac-seq",
