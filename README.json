@@ -43,11 +43,11 @@
                 "id": 80342493,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-28T09:37:21Z",
+                "last_commit": "2026-09-30T07:27:13Z",
                 "open_issues": 542,
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2577,
+                "stars": 2578,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -78,7 +78,7 @@
                 "open_issues": 1010,
                 "owner": "alexdobin",
                 "repo": "STAR",
-                "stars": 2255,
+                "stars": 2257,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -257,8 +257,8 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T22:14:38Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-29T19:13:01Z",
+                "open_issues": 24,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
                 "stars": 398,
@@ -367,7 +367,7 @@
                 "open_issues": 77,
                 "owner": "Danko-Lab",
                 "repo": "BayesPrism",
-                "stars": 251,
+                "stars": 250,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -521,7 +521,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-03-02T05:51:27Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "epigenelabs",
                 "repo": "inmoose",
                 "stars": 147,
@@ -1159,6 +1159,30 @@
             },
             {
               "node_type": "item",
+              "title": "scedar",
+              "description": "[Python] - An easy-to-use package for normalization, clustering and visualization of large-scale scRNA-seq datasets. Scedar: A scalable Python package for single-cell RNA-seq exploratory data analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Single-cell exploratory data analysis for RNA-Seq",
+                "homepage": null,
+                "id": 125599502,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2021-04-24T13:56:01Z",
+                "open_issues": 1,
+                "owner": "TaylorResearchLab",
+                "repo": "scedar",
+                "stars": 41,
+                "topics": [
+                  "clustering-algorithm",
+                  "single-cell-rna-seq"
+                ]
+              },
+              "first_seen": "2026-09-30T07:32:00.163Z"
+            },
+            {
+              "node_type": "item",
               "title": "Falco",
               "description": "[AWS cloud] - Falco: A quick and flexible single-cell RNA-seq processing framework on the cloud.",
               "children": [],
@@ -1235,7 +1259,7 @@
                 "id": 859179925,
                 "language": "R",
                 "license": "MIT",
-                "last_commit": "2026-09-28T20:13:12Z",
+                "last_commit": "2026-09-29T19:18:46Z",
                 "open_issues": 1,
                 "owner": "GregorLueg",
                 "repo": "bixverse",
@@ -1351,7 +1375,7 @@
                 "id": 194733619,
                 "language": "MATLAB",
                 "license": "MIT",
-                "last_commit": "2026-09-29T00:58:53Z",
+                "last_commit": "2026-09-29T23:07:25Z",
                 "open_issues": 1,
                 "owner": "jamesjcai",
                 "repo": "scGEAToolbox",
@@ -2455,7 +2479,7 @@
                 "open_issues": 125,
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
-                "stars": 363,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -3196,6 +3220,27 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "ACTIONet",
+              "description": "[R/Python] - A multiresolution framework that combines archetypal analysis with manifold learning to characterize continuous single-cell state landscapes. A multiresolution framework to characterize single-cell state landscapes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ACTIONet single-cell analysis framework",
+                "homepage": null,
+                "id": 259338753,
+                "language": null,
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-28T18:35:00Z",
+                "open_issues": 24,
+                "owner": "shmohammadi86",
+                "repo": "ACTIONet",
+                "stars": 46,
+                "topics": []
+              },
+              "first_seen": "2026-09-30T07:32:00.163Z"
+            },
             {
               "node_type": "item",
               "title": "scAAnet",
@@ -4307,6 +4352,33 @@
             },
             {
               "node_type": "item",
+              "title": "clustifyr",
+              "description": "[R] - Classifies cells and clusters in single-cell RNA-seq experiments using external reference data, gene signatures, or marker gene lists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Infer cell types in scRNA-seq data using bulk RNA-seq or gene sets",
+                "homepage": "https://rnabioco.github.io/clustifyr/",
+                "id": 138173960,
+                "language": "R",
+                "license": "MIT",
+                "last_commit": "2025-04-16T20:43:48Z",
+                "open_issues": 0,
+                "owner": "rnabioco",
+                "repo": "clustifyr",
+                "stars": 127,
+                "topics": [
+                  "assign-identities",
+                  "clusters",
+                  "marker-genes",
+                  "rna-seq",
+                  "single-cell-rna-seq"
+                ]
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
               "title": "DeepSort",
               "description": "[python] - A reference-free cell-type annotation tool for single-cell RNA-seq data using deep learning with a weighted graph neural network, which is learned based on the most comprehensive single-cell transcriptomics atlases involving 764,741 cells across 88 tissues of human and mouse. bioRxiv",
               "children": [],
@@ -4400,7 +4472,7 @@
             {
               "node_type": "item",
               "title": "CHETAH",
-              "description": "[R] - CHETAH: a selective, hierarchical cell type identification method for single-cell RNA sequencing. CHETAH (CHaracterization of cEll Types Aided by Hierarchical clustering) is an accurate cell type identification algorithm that is rapid and selective, including the possibility of intermediate or unassigned categories. Evidence for assignment is based on a classification tree of previously available scRNA-seq reference data and includes a confidence score based on the variance in gene expression per cell type. For cell types represented in the reference data, CHETAH's accuracy is as good as existing methods. Its specificity is superior when cells of an unknown type are encountered, such as malignant cells in tumor samples which it pinpoints as intermediate or unassigned. bioRxiv",
+              "description": "[R] - CHETAH: a selective, hierarchical cell type identification method for single-cell RNA sequencing. CHETAH (CHaracterization of cEll Types Aided by Hierarchical clustering) is an accurate cell type identification algorithm that is rapid and selective, including the possibility of intermediate or unassigned categories. Evidence for assignment is based on a classification tree of previously available scRNA-seq reference data and includes a confidence score based on the variance in gene expression per cell type. For cell types represented in the reference data, CHETAH's accuracy is as good as existing methods. Its specificity is superior when cells of an unknown type are encountered, such as malignant cells in tumor samples which it pinpoints as intermediate or unassigned. Nucleic Acids Research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4531,40 +4603,6 @@
                 ]
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "group",
-              "title": "Celltypist",
-              "description": "[Python] - Celltypist is an automated cell type annotation tool for scRNA-seq datasets on the basis of logistic regression classifiers optimized by the stochastic gradient descent algorithm. Celltypist provides several different models for predictions, with a current focus on immune sub-populations, in order to assist in the accurate classification of different cell types and subtypes.",
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "clustifyr",
-                  "description": "[R] - Classifies cells and clusters in single-cell RNA-seq experiments using external reference data, gene signatures, or marker gene lists.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Infer cell types in scRNA-seq data using bulk RNA-seq or gene sets",
-                    "homepage": "https://rnabioco.github.io/clustifyr/",
-                    "id": 138173960,
-                    "language": "R",
-                    "license": "MIT",
-                    "last_commit": "2025-04-16T20:43:48Z",
-                    "open_issues": 0,
-                    "owner": "rnabioco",
-                    "repo": "clustifyr",
-                    "stars": 127,
-                    "topics": [
-                      "assign-identities",
-                      "clusters",
-                      "marker-genes",
-                      "rna-seq",
-                      "single-cell-rna-seq"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T13:24:30.408Z"
-                }
-              ]
             }
           ],
           "description": null,
@@ -5241,7 +5279,7 @@
                 "open_issues": 65,
                 "owner": "luntergroup",
                 "repo": "octopus",
-                "stars": 326,
+                "stars": 327,
                 "topics": [
                   "bioinformatics",
                   "de-novo-mutation",
@@ -5760,7 +5798,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-09T00:27:33Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "gao-lab",
                 "repo": "GLUE",
                 "stars": 480,
@@ -6987,8 +7025,8 @@
                 "id": 289306932,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-28T18:23:01Z",
-                "open_issues": 112,
+                "last_commit": "2026-09-29T16:05:38Z",
+                "open_issues": 114,
                 "owner": "scverse",
                 "repo": "squidpy",
                 "stars": 599,
@@ -7021,7 +7059,7 @@
                 "open_issues": 74,
                 "owner": "dmcable",
                 "repo": "spacexr",
-                "stars": 488,
+                "stars": 489,
                 "topics": [
                   "cell-type-identification",
                   "differential-expression",
@@ -7046,7 +7084,7 @@
                 "open_issues": 142,
                 "owner": "BayraktarLab",
                 "repo": "cell2location",
-                "stars": 461,
+                "stars": 462,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7063,8 +7101,8 @@
                 "id": 185897228,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T02:34:45Z",
-                "open_issues": 136,
+                "last_commit": "2026-09-29T14:59:38Z",
+                "open_issues": 134,
                 "owner": "giotto-suite",
                 "repo": "Giotto",
                 "stars": 389,
@@ -7113,10 +7151,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-15T15:31:52Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "prism-oncology",
                 "repo": "sopa",
-                "stars": 293,
+                "stars": 294,
                 "topics": [
                   "multiplexed-imaging",
                   "pipeline",
@@ -7212,7 +7250,7 @@
                 "open_issues": 60,
                 "owner": "edward130603",
                 "repo": "BayesSpace",
-                "stars": 185,
+                "stars": 187,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7400,7 +7438,7 @@
                 "open_issues": 2,
                 "owner": "ratschlab",
                 "repo": "DeepSpotM",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "bioinformatics",
                   "cancer",
@@ -7482,7 +7520,7 @@
                 "open_issues": 13,
                 "owner": "cafferychen777",
                 "repo": "ChatSpatial",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "agentic-ai",
                   "bioinformatics",
@@ -7850,7 +7888,7 @@
             "open_issues": 22,
             "owner": "theislab",
             "repo": "single-cell-tutorial",
-            "stars": 1596,
+            "stars": 1597,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -8500,8 +8538,8 @@
                 "id": 161811262,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T00:30:41Z",
-                "open_issues": 527,
+                "last_commit": "2026-09-29T22:18:51Z",
+                "open_issues": 526,
                 "owner": "vitessce",
                 "repo": "vitessce",
                 "stars": 269,
@@ -8658,7 +8696,7 @@
                 "id": 600210876,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T15:48:36Z",
+                "last_commit": "2026-09-29T18:23:49Z",
                 "open_issues": 4,
                 "owner": "camlab-bioml",
                 "repo": "rakaia",
@@ -9075,7 +9113,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-09-28T10:03:22Z",
+            "last_commit": "2026-09-29T10:10:08Z",
             "open_issues": 6,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9097,7 +9135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T07:33:12.049Z",
+    "last_updated": "2026-09-30T07:32:00.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
@@ -9105,11 +9143,11 @@
       "id": 62237945,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-27T21:07:42Z",
-      "open_issues": 17,
+      "last_commit": "2026-09-29T18:30:50Z",
+      "open_issues": 8,
       "owner": "seandavi",
       "repo": "awesome-single-cell",
-      "stars": 3863,
+      "stars": 3866,
       "topics": [
         "analysis-pipeline",
         "atac-seq",
@@ -9132,7 +9170,7 @@
         "spatial-transcriptomics"
       ]
     },
-    "original_repository_sha": "690f687454c89a8196fce9aa4ca2a10b26ae7c7f",
+    "original_repository_sha": "12e2352d768f5ecc3ab178b357481a5193dfb033",
     "enhanced_repository": "enhansome/enhansome-single-cell",
     "enhanced_repository_description": null,
     "title": "awesome-single-cell with stars"
