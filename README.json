@@ -17,11 +17,11 @@
                 "id": 35927665,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T03:15:10Z",
-                "open_issues": 221,
+                "last_commit": "2026-10-02T23:15:04Z",
+                "open_issues": 220,
                 "owner": "satijalab",
                 "repo": "seurat",
-                "stars": 2803,
+                "stars": 2802,
                 "topics": [
                   "cran",
                   "human-cell-atlas",
@@ -43,8 +43,8 @@
                 "id": 80342493,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-01T16:33:36Z",
-                "open_issues": 546,
+                "last_commit": "2026-10-02T14:12:59Z",
+                "open_issues": 539,
                 "owner": "scverse",
                 "repo": "scanpy",
                 "stars": 2578,
@@ -131,7 +131,7 @@
                 "open_issues": 215,
                 "owner": "pachterlab",
                 "repo": "kallisto",
-                "stars": 772,
+                "stars": 773,
                 "topics": [
                   "kallisto",
                   "pseudoalignment",
@@ -257,8 +257,8 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T20:23:04Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-02T14:50:14Z",
+                "open_issues": 24,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
                 "stars": 399,
@@ -388,7 +388,7 @@
                 "open_issues": 36,
                 "owner": "HelenaLC",
                 "repo": "muscat",
-                "stars": 244,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -436,7 +436,7 @@
                 "language": "Rust",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-30T16:47:07Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "COMBINE-lab",
                 "repo": "alevin-fry",
                 "stars": 220,
@@ -1259,7 +1259,7 @@
                 "id": 859179925,
                 "language": "R",
                 "license": "MIT",
-                "last_commit": "2026-10-02T05:43:00Z",
+                "last_commit": "2026-10-02T23:19:48Z",
                 "open_issues": 1,
                 "owner": "GregorLueg",
                 "repo": "bixverse",
@@ -1365,6 +1365,31 @@
             },
             {
               "node_type": "item",
+              "title": "netSmooth",
+              "description": "[R] - netSmooth is a network-diffusion based method that uses priors for the covariance structure of gene expression profiles on scRNA-seq experiments in order to smooth expression values. We demonstrate that netSmooth improves clustering results of scRNA-seq experiments from distinct cell populations, time-course experiments, and cancer genomics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "netSmooth: A Network smoothing based method for Single Cell RNA-seq imputation",
+                "homepage": null,
+                "id": 106312484,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2024-05-15T09:53:28Z",
+                "open_issues": 5,
+                "owner": "BIMSBbioinfo",
+                "repo": "netSmooth",
+                "stars": 30,
+                "topics": [
+                  "bioinformatics",
+                  "genomics",
+                  "single-cell"
+                ]
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
               "title": "scGEAToolbox",
               "description": "[matlab] - a Matlab toolbox for single-cell RNA-seq data analyses.",
               "children": [],
@@ -1376,7 +1401,7 @@
                 "language": "MATLAB",
                 "license": "MIT",
                 "last_commit": "2026-10-01T14:47:53Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "jamesjcai",
                 "repo": "scGEAToolbox",
                 "stars": 30,
@@ -1418,31 +1443,6 @@
                   "python",
                   "rna-seq",
                   "single-cell-rna-seq"
-                ]
-              },
-              "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
-              "title": "netSmooth",
-              "description": "[R] - netSmooth is a network-diffusion based method that uses priors for the covariance structure of gene expression profiles on scRNA-seq experiments in order to smooth expression values. We demonstrate that netSmooth improves clustering results of scRNA-seq experiments from distinct cell populations, time-course experiments, and cancer genomics.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "netSmooth: A Network smoothing based method for Single Cell RNA-seq imputation",
-                "homepage": null,
-                "id": 106312484,
-                "language": "HTML",
-                "license": null,
-                "last_commit": "2024-05-15T09:53:28Z",
-                "open_issues": 5,
-                "owner": "BIMSBbioinfo",
-                "repo": "netSmooth",
-                "stars": 29,
-                "topics": [
-                  "bioinformatics",
-                  "genomics",
-                  "single-cell"
                 ]
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -3318,7 +3318,7 @@
                 "language": "R",
                 "license": null,
                 "last_commit": "2025-10-17T17:04:25Z",
-                "open_issues": 38,
+                "open_issues": 46,
                 "owner": "RGLab",
                 "repo": "MAST",
                 "stars": 265,
@@ -4363,7 +4363,7 @@
                 "open_issues": 5,
                 "owner": "NygenAnalytics",
                 "repo": "CyteType",
-                "stars": 138,
+                "stars": 139,
                 "topics": [
                   "agentic-ai",
                   "anndata",
@@ -4944,7 +4944,7 @@
                 "open_issues": 21,
                 "owner": "Vivianstats",
                 "repo": "scImpute",
-                "stars": 101,
+                "stars": 102,
                 "topics": [
                   "imputation",
                   "r-package",
@@ -5566,8 +5566,8 @@
                 "id": 712079284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T18:08:45Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-02T23:35:40Z",
+                "open_issues": 9,
                 "owner": "EngreitzLab",
                 "repo": "scE2G",
                 "stars": 65,
@@ -6209,7 +6209,7 @@
                 "open_issues": 454,
                 "owner": "sqjin",
                 "repo": "CellChat",
-                "stars": 792,
+                "stars": 791,
                 "topics": [
                   "cell-cell-communication",
                   "cell-cell-interaction",
@@ -6540,7 +6540,7 @@
                 "id": 488684164,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-02T00:00:17Z",
+                "last_commit": "2026-10-02T22:12:15Z",
                 "open_issues": 25,
                 "owner": "scverse",
                 "repo": "gget",
@@ -7091,7 +7091,7 @@
                 "open_issues": 74,
                 "owner": "dmcable",
                 "repo": "spacexr",
-                "stars": 489,
+                "stars": 490,
                 "topics": [
                   "cell-type-identification",
                   "differential-expression",
@@ -7183,10 +7183,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-15T15:31:52Z",
-                "open_issues": 27,
+                "open_issues": 26,
                 "owner": "prism-oncology",
                 "repo": "sopa",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "multiplexed-imaging",
                   "pipeline",
@@ -7928,7 +7928,7 @@
         {
           "node_type": "item",
           "title": "Wellcome Sanger Institute Analysis of single cell RNA-seq data",
-          "description": "website",
+          "description": "hemberg-lab/scRNA.seq.course",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7956,7 +7956,7 @@
         {
           "node_type": "item",
           "title": "Harvard Chan Bioinformatics Core Single-cell RNA-seq data analysis workshop",
-          "description": "website",
+          "description": "hbctraining/Intro-to-scRNAseq",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7998,7 +7998,7 @@
         {
           "node_type": "item",
           "title": "NBIS Single cell RNA-seq analysis workshop",
-          "description": "website",
+          "description": "NBISweden/workshop-scRNAseq",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8019,7 +8019,7 @@
         {
           "node_type": "item",
           "title": "ELIXIR EXCELERATE Single RNA-seq data analysis with R",
-          "description": "website",
+          "description": "NBISweden/excelerate-scRNAseq",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8108,7 +8108,7 @@
         {
           "node_type": "item",
           "title": "SIB Single-cell Transcriptomics",
-          "description": "website",
+          "description": "sib-swiss/single-cell-training",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8223,7 +8223,7 @@
         {
           "node_type": "item",
           "title": "Dana-Farber Cancer Institute Trajectory inference across conditions: differential expression and differential progression",
-          "description": "website",
+          "description": "kstreet13/bioc2020trajectories",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8244,7 +8244,7 @@
         {
           "node_type": "item",
           "title": "SIB NBIS/SciLifeLab Advanced topics in Single Cell Omics",
-          "description": "website",
+          "description": "NBISweden/single-cell_sib_scilifelab_2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8286,7 +8286,7 @@
         {
           "node_type": "item",
           "title": "SIB Advanced topics in single-cell transcriptomics",
-          "description": null,
+          "description": "fmicompbio/adv_scrnaseq_2020",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8307,7 +8307,7 @@
         {
           "node_type": "item",
           "title": "MGC/BioSB Course - Single Cell Analysis",
-          "description": null,
+          "description": "LeidenCBC/MGC-BioSB-SingleCellAnalysis2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8328,7 +8328,7 @@
         {
           "node_type": "item",
           "title": "CRUK CI Introduction to single-cell RNA-seq data analysis",
-          "description": "website",
+          "description": "bioinformatics-core-shared-training/UnivCambridge_ScRnaSeq_Nov2021",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8386,7 +8386,7 @@
         {
           "node_type": "item",
           "title": "WEHI Single cell RNA-seq analysis workshop",
-          "description": "website",
+          "description": "yunshun/SingleCellWorkshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8570,7 +8570,7 @@
                 "id": 161811262,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T20:54:12Z",
+                "last_commit": "2026-10-02T17:58:16Z",
                 "open_issues": 528,
                 "owner": "vitessce",
                 "repo": "vitessce",
@@ -9145,7 +9145,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-10-01T10:25:52Z",
+            "last_commit": "2026-10-02T10:01:39Z",
             "open_issues": 6,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9167,7 +9167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:34:16.103Z",
+    "last_updated": "2026-10-03T05:09:52.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
@@ -9179,7 +9179,7 @@
       "open_issues": 8,
       "owner": "seandavi",
       "repo": "awesome-single-cell",
-      "stars": 3866,
+      "stars": 3867,
       "topics": [
         "analysis-pipeline",
         "atac-seq",
