@@ -21,7 +21,7 @@
                 "open_issues": 222,
                 "owner": "satijalab",
                 "repo": "seurat",
-                "stars": 2804,
+                "stars": 2805,
                 "topics": [
                   "cran",
                   "human-cell-atlas",
@@ -43,11 +43,11 @@
                 "id": 80342493,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-13T16:18:05Z",
+                "last_commit": "2026-10-15T03:24:16Z",
                 "open_issues": 555,
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2585,
+                "stars": 2588,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -75,10 +75,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2025-03-18T01:34:34Z",
-                "open_issues": 1010,
+                "open_issues": 1011,
                 "owner": "alexdobin",
                 "repo": "STAR",
-                "stars": 2263,
+                "stars": 2265,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -95,11 +95,11 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-12T18:18:11Z",
+                "last_commit": "2026-10-14T07:28:09Z",
                 "open_issues": 29,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1708,
+                "stars": 1712,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -131,7 +131,7 @@
                 "open_issues": 216,
                 "owner": "pachterlab",
                 "repo": "kallisto",
-                "stars": 773,
+                "stars": 774,
                 "topics": [
                   "kallisto",
                   "pseudoalignment",
@@ -156,7 +156,7 @@
                 "open_issues": 10,
                 "owner": "zqfang",
                 "repo": "GSEApy",
-                "stars": 711,
+                "stars": 712,
                 "topics": [
                   "enrichment-analysis",
                   "gsea",
@@ -219,11 +219,11 @@
                 "id": 195433524,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-08T12:29:22Z",
+                "last_commit": "2026-10-15T00:22:26Z",
                 "open_issues": 2,
                 "owner": "aristoteleo",
                 "repo": "dynamo-release",
-                "stars": 511,
+                "stars": 512,
                 "topics": [
                   "cell-fate",
                   "differential-geometry",
@@ -257,11 +257,11 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T19:27:22Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-14T13:01:18Z",
+                "open_issues": 27,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
-                "stars": 401,
+                "stars": 402,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -269,6 +269,27 @@
                   "scverse",
                   "single-cell"
                 ]
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
+              "title": "soupX",
+              "description": "[R] - An R package for the estimation and removal of cell free mRNA contamination in droplet based single cell RNA-seq data. The problem this package attempts to solve is that all droplet based single cell RNA-seq experiments also capture ambient mRNAs present in the input solution along with cell specific mRNAs of interest.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "R package to quantify and remove cell free mRNAs from droplet based scRNA-seq data",
+                "homepage": null,
+                "id": 129241721,
+                "language": "R",
+                "license": null,
+                "last_commit": "2022-11-01T13:13:47Z",
+                "open_issues": 50,
+                "owner": "constantAmateur",
+                "repo": "SoupX",
+                "stars": 346,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
             },
@@ -296,27 +317,6 @@
                   "neural-network",
                   "siamese-neural-network"
                 ]
-              },
-              "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
-              "title": "soupX",
-              "description": "[R] - An R package for the estimation and removal of cell free mRNA contamination in droplet based single cell RNA-seq data. The problem this package attempts to solve is that all droplet based single cell RNA-seq experiments also capture ambient mRNAs present in the input solution along with cell specific mRNAs of interest.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "R package to quantify and remove cell free mRNAs from droplet based scRNA-seq data",
-                "homepage": null,
-                "id": 129241721,
-                "language": "R",
-                "license": null,
-                "last_commit": "2022-11-01T13:13:47Z",
-                "open_issues": 50,
-                "owner": "constantAmateur",
-                "repo": "SoupX",
-                "stars": 345,
-                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
             },
@@ -496,7 +496,7 @@
                 "open_issues": 0,
                 "owner": "pachterlab",
                 "repo": "kb_python",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "bustools",
                   "kallisto",
@@ -524,7 +524,7 @@
                 "open_issues": 24,
                 "owner": "epigenelabs",
                 "repo": "inmoose",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -878,7 +878,7 @@
                 "open_issues": 8,
                 "owner": "gao-lab",
                 "repo": "Cell_BLAST",
-                "stars": 95,
+                "stars": 96,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -1035,7 +1035,7 @@
                 "open_issues": 6,
                 "owner": "edsgard",
                 "repo": "trendsceek",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -1259,7 +1259,7 @@
                 "id": 859179925,
                 "language": "R",
                 "license": "MIT",
-                "last_commit": "2026-10-12T11:23:22Z",
+                "last_commit": "2026-10-14T22:31:59Z",
                 "open_issues": 0,
                 "owner": "GregorLueg",
                 "repo": "bixverse",
@@ -2211,6 +2211,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
+              "title": "tchem",
+              "description": "[Rust] - Names the kit, chemistry version, barcode list, cDNA strand and library type of a single-cell RNA library from the first reads of its FASTQ or BAM files (25 layouts from 11 vendors), and prints the matching Cell Ranger, STARsolo, simpleaf or kb command.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Names a single-cell RNA library's layout (kit, chemistry, barcode list, strand, library type) from its first reads",
+                "homepage": null,
+                "id": 1418802565,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-14T12:01:15Z",
+                "open_issues": 0,
+                "owner": "Tussl-Co",
+                "repo": "TusslChemistry",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-10-15T06:33:49.783Z"
             }
           ],
           "description": null,
@@ -2256,7 +2277,7 @@
                 "open_issues": 206,
                 "owner": "aertslab",
                 "repo": "scenicplus",
-                "stars": 266,
+                "stars": 267,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -2277,7 +2298,7 @@
                 "open_issues": 31,
                 "owner": "dpeerlab",
                 "repo": "spectra",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -2338,7 +2359,7 @@
                 "open_issues": 3,
                 "owner": "pinellolab",
                 "repo": "dictys",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "dynamic-network",
                   "gene-regulatory-network",
@@ -2497,10 +2518,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-12T18:18:07Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "scverse",
                 "repo": "scirpy",
-                "stars": 267,
+                "stars": 268,
                 "topics": [
                   "airr",
                   "scverse"
@@ -3268,7 +3289,7 @@
                 "open_issues": 24,
                 "owner": "shmohammadi86",
                 "repo": "ACTIONet",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-09-30T07:32:00.163Z"
@@ -3368,8 +3389,8 @@
                 "id": 161495073,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T13:35:48Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-14T20:30:32Z",
+                "open_issues": 13,
                 "owner": "jmbreda",
                 "repo": "Sanity",
                 "stars": 87,
@@ -3706,7 +3727,7 @@
                 "open_issues": 83,
                 "owner": "theislab",
                 "repo": "scvelo",
-                "stars": 512,
+                "stars": 513,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -3748,7 +3769,7 @@
                 "open_issues": 10,
                 "owner": "dpeerlab",
                 "repo": "Palantir",
-                "stars": 340,
+                "stars": 341,
                 "topics": [
                   "cell-fate-transitions",
                   "differentiation",
@@ -4152,11 +4173,11 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-12T18:18:11Z",
+                "last_commit": "2026-10-14T07:28:09Z",
                 "open_issues": 29,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1708,
+                "stars": 1712,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -4456,7 +4477,7 @@
                 "open_issues": 3,
                 "owner": "ElliotXie",
                 "repo": "CASSIA",
-                "stars": 108,
+                "stars": 109,
                 "topics": [
                   "ai4science",
                   "annotation",
@@ -4699,7 +4720,7 @@
                 "open_issues": 23,
                 "owner": "chris-mcginnis-ucsf",
                 "repo": "DoubletFinder",
-                "stars": 571,
+                "stars": 572,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -4720,7 +4741,7 @@
                 "open_issues": 53,
                 "owner": "swolock",
                 "repo": "scrublet",
-                "stars": 182,
+                "stars": 183,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -4762,7 +4783,7 @@
                 "open_issues": 9,
                 "owner": "JonathanShor",
                 "repo": "DoubletDetection",
-                "stars": 100,
+                "stars": 101,
                 "topics": [
                   "scrna-seq"
                 ]
@@ -5486,7 +5507,7 @@
                 "open_issues": 29,
                 "owner": "colomemaria",
                 "repo": "epiScanpy",
-                "stars": 152,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5507,7 +5528,7 @@
                 "open_issues": 7,
                 "owner": "aertslab",
                 "repo": "cisTopic",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5549,7 +5570,7 @@
                 "open_issues": 20,
                 "owner": "jsxlei",
                 "repo": "SCALE",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5570,7 +5591,7 @@
                 "open_issues": 10,
                 "owner": "EngreitzLab",
                 "repo": "scE2G",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5733,11 +5754,11 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-12T18:18:11Z",
+                "last_commit": "2026-10-14T07:28:09Z",
                 "open_issues": 29,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1708,
+                "stars": 1712,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5765,11 +5786,11 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-12T18:18:11Z",
+                "last_commit": "2026-10-14T07:28:09Z",
                 "open_issues": 29,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1708,
+                "stars": 1712,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5797,11 +5818,11 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-12T18:18:11Z",
+                "last_commit": "2026-10-14T07:28:09Z",
                 "open_issues": 29,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1708,
+                "stars": 1712,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5833,7 +5854,7 @@
                 "open_issues": 26,
                 "owner": "gao-lab",
                 "repo": "GLUE",
-                "stars": 481,
+                "stars": 482,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -5859,7 +5880,7 @@
                 "open_issues": 49,
                 "owner": "welch-lab",
                 "repo": "liger",
-                "stars": 433,
+                "stars": 434,
                 "topics": [
                   "nonnegative-matrix-factorization",
                   "r",
@@ -6238,7 +6259,7 @@
                 "open_issues": 454,
                 "owner": "sqjin",
                 "repo": "CellChat",
-                "stars": 789,
+                "stars": 790,
                 "topics": [
                   "cell-cell-communication",
                   "cell-cell-interaction",
@@ -6264,7 +6285,7 @@
                 "open_issues": 26,
                 "owner": "saeyslab",
                 "repo": "nichenetr",
-                "stars": 681,
+                "stars": 682,
                 "topics": [
                   "cell-cell-communication",
                   "data-integration",
@@ -6296,7 +6317,7 @@
                 "open_issues": 68,
                 "owner": "ventolab",
                 "repo": "CellphoneDB",
-                "stars": 488,
+                "stars": 490,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6317,7 +6338,7 @@
                 "open_issues": 21,
                 "owner": "snap-stanford",
                 "repo": "GEARS",
-                "stars": 417,
+                "stars": 418,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6338,7 +6359,7 @@
                 "open_issues": 52,
                 "owner": "saezlab",
                 "repo": "liana",
-                "stars": 252,
+                "stars": 253,
                 "topics": [
                   "cell-cell-communication",
                   "cellchat",
@@ -6366,7 +6387,7 @@
                 "open_issues": 26,
                 "owner": "schwartzlab-methods",
                 "repo": "CellNEST",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6478,7 +6499,7 @@
                 "open_issues": 175,
                 "owner": "bowang-lab",
                 "repo": "scGPT",
-                "stars": 1652,
+                "stars": 1654,
                 "topics": [
                   "foundation-model",
                   "gpt",
@@ -6545,7 +6566,7 @@
                 "open_issues": 10,
                 "owner": "OmicsML",
                 "repo": "CellPLM",
-                "stars": 107,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6569,7 +6590,7 @@
                 "id": 488684164,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-12T23:22:31Z",
+                "last_commit": "2026-10-15T03:49:49Z",
                 "open_issues": 28,
                 "owner": "scverse",
                 "repo": "gget",
@@ -6633,7 +6654,7 @@
                 "open_issues": 8,
                 "owner": "immunomind",
                 "repo": "immunarch",
-                "stars": 341,
+                "stars": 342,
                 "topics": [
                   "airr",
                   "bioinformatics",
@@ -6745,7 +6766,7 @@
                 "open_issues": 82,
                 "owner": "JiekaiLab",
                 "repo": "scTE",
-                "stars": 121,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7054,11 +7075,11 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-12T18:18:11Z",
+                "last_commit": "2026-10-14T07:28:09Z",
                 "open_issues": 29,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1708,
+                "stars": 1712,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -7087,10 +7108,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-13T16:41:24Z",
-                "open_issues": 102,
+                "open_issues": 103,
                 "owner": "scverse",
                 "repo": "squidpy",
-                "stars": 606,
+                "stars": 608,
                 "topics": [
                   "data-visualization",
                   "image-analysis",
@@ -7120,7 +7141,7 @@
                 "open_issues": 74,
                 "owner": "dmcable",
                 "repo": "spacexr",
-                "stars": 488,
+                "stars": 489,
                 "topics": [
                   "cell-type-identification",
                   "differential-expression",
@@ -7290,7 +7311,7 @@
                 "open_issues": 21,
                 "owner": "Teichlab",
                 "repo": "SpatialDE",
-                "stars": 192,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7380,7 +7401,7 @@
                 "open_issues": 7,
                 "owner": "raphael-group",
                 "repo": "paste",
-                "stars": 104,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7439,7 +7460,7 @@
                 "open_issues": 0,
                 "owner": "gao-lab",
                 "repo": "SLAT",
-                "stars": 95,
+                "stars": 96,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -7468,7 +7489,7 @@
                 "open_issues": 10,
                 "owner": "ZJUFanLab",
                 "repo": "SpaTalk",
-                "stars": 79,
+                "stars": 80,
                 "topics": [
                   "cell-cell-communication",
                   "cell-cell-interaction",
@@ -7949,7 +7970,7 @@
             "open_issues": 22,
             "owner": "theislab",
             "repo": "single-cell-tutorial",
-            "stars": 1597,
+            "stars": 1596,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -8019,7 +8040,7 @@
             "open_issues": 28,
             "owner": "NVIDIA-Genomics-Research",
             "repo": "rapids-single-cell-examples",
-            "stars": 344,
+            "stars": 345,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -8599,8 +8620,8 @@
                 "id": 161811262,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T22:10:20Z",
-                "open_issues": 536,
+                "last_commit": "2026-10-15T00:00:08Z",
+                "open_issues": 531,
                 "owner": "vitessce",
                 "repo": "vitessce",
                 "stars": 272,
@@ -9174,7 +9195,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-10-13T10:48:55Z",
+            "last_commit": "2026-10-14T09:06:15Z",
             "open_issues": 6,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9196,7 +9217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T06:47:04.375Z",
+    "last_updated": "2026-10-15T06:33:49.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
@@ -9204,11 +9225,11 @@
       "id": 62237945,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-05T15:53:21Z",
+      "last_commit": "2026-10-14T17:37:39Z",
       "open_issues": 8,
       "owner": "seandavi",
       "repo": "awesome-single-cell",
-      "stars": 3872,
+      "stars": 3874,
       "topics": [
         "analysis-pipeline",
         "atac-seq",
@@ -9231,7 +9252,7 @@
         "spatial-transcriptomics"
       ]
     },
-    "original_repository_sha": "5a0bb2cbb7c19a0b179b085b0662546eff3add7d",
+    "original_repository_sha": "64470475a6b2896b1ad889a08794187b76a7a5b8",
     "enhanced_repository": "enhansome/enhansome-single-cell",
     "enhanced_repository_description": null,
     "title": "awesome-single-cell with stars"
