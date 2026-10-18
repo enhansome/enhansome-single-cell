@@ -18,7 +18,7 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-08T20:44:33Z",
-                "open_issues": 222,
+                "open_issues": 225,
                 "owner": "satijalab",
                 "repo": "seurat",
                 "stars": 2805,
@@ -44,7 +44,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-15T12:11:57Z",
-                "open_issues": 555,
+                "open_issues": 556,
                 "owner": "scverse",
                 "repo": "scanpy",
                 "stars": 2590,
@@ -131,7 +131,7 @@
                 "open_issues": 216,
                 "owner": "pachterlab",
                 "repo": "kallisto",
-                "stars": 774,
+                "stars": 775,
                 "topics": [
                   "kallisto",
                   "pseudoalignment",
@@ -257,11 +257,11 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T12:39:53Z",
+                "last_commit": "2026-10-17T11:43:07Z",
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -521,7 +521,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-03-02T05:51:27Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "epigenelabs",
                 "repo": "inmoose",
                 "stars": 149,
@@ -759,27 +759,6 @@
             },
             {
               "node_type": "item",
-              "title": "RNAnorm",
-              "description": "[Python] - Python implementation of common RNA-seq normalization methods (CPM, FPKM, TPM, UQ, CUF, TMM, CTF).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Normalization of RNA-seq gene expression",
-                "homepage": null,
-                "id": 283166675,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2025-07-08T13:09:01Z",
-                "open_issues": 4,
-                "owner": "genialis",
-                "repo": "RNAnorm",
-                "stars": 105,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
               "title": "ICGS",
               "description": "[Python] - Iterative Clustering and Guide-gene Selection (Olsson et al. Nature 2016). Identify discrete, transitional and mixed-lineage states from diverse single-cell transcriptomics platforms. Integrated FASTQ pseudoalignment /quantification (Kallisto), differential expression, cell-type prediction and optional cell cycle exclusion analyses. Specialized methods for processing BAM and 10X Genomics spares matrix files. Associated single-cell splicing PSI methods (MultIPath-PSI). Apart of the AltAnalyze toolkit along with accompanying visualization methods (e.g., heatmap, t-SNE, SashimiPlots, network graphs). Easy-to-use graphical user and commandline interfaces.",
               "children": [],
@@ -817,6 +796,27 @@
                   "splicing-quantification",
                   "splicing-visualization"
                 ]
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
+              "title": "RNAnorm",
+              "description": "[Python] - Python implementation of common RNA-seq normalization methods (CPM, FPKM, TPM, UQ, CUF, TMM, CTF).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Normalization of RNA-seq gene expression",
+                "homepage": null,
+                "id": 283166675,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-07-08T13:09:01Z",
+                "open_issues": 4,
+                "owner": "genialis",
+                "repo": "RNAnorm",
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
             },
@@ -1259,7 +1259,7 @@
                 "id": 859179925,
                 "language": "R",
                 "license": "MIT",
-                "last_commit": "2026-10-16T19:27:56Z",
+                "last_commit": "2026-10-17T19:33:09Z",
                 "open_issues": 0,
                 "owner": "GregorLueg",
                 "repo": "bixverse",
@@ -2228,7 +2228,7 @@
                 "open_issues": 0,
                 "owner": "Tussl-Co",
                 "repo": "TusslChemistry",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-10-15T06:33:49.783Z"
@@ -5085,7 +5085,7 @@
                 "open_issues": 73,
                 "owner": "navinlabcode",
                 "repo": "copykat",
-                "stars": 308,
+                "stars": 309,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5163,7 +5163,7 @@
                 "open_issues": 44,
                 "owner": "AntonioDeFalco",
                 "repo": "SCEVAN",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "aneuploidy",
                   "clonal-analysis",
@@ -5926,7 +5926,7 @@
                 "open_issues": 0,
                 "owner": "NygenAnalytics",
                 "repo": "scarf",
-                "stars": 126,
+                "stars": 125,
                 "topics": [
                   "object-storage",
                   "provenance-tracking",
@@ -7332,7 +7332,7 @@
                 "open_issues": 60,
                 "owner": "edward130603",
                 "repo": "BayesSpace",
-                "stars": 189,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7422,7 +7422,7 @@
                 "open_issues": 0,
                 "owner": "ratschlab",
                 "repo": "DeepSpot",
-                "stars": 102,
+                "stars": 103,
                 "topics": [
                   "bioinformatics",
                   "cancer-research",
@@ -9195,7 +9195,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-10-16T08:29:44Z",
+            "last_commit": "2026-10-17T08:09:09Z",
             "open_issues": 6,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9217,7 +9217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:16:32.854Z",
+    "last_updated": "2026-10-18T06:38:52.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
@@ -9225,11 +9225,11 @@
       "id": 62237945,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-16T07:03:40Z",
+      "last_commit": "2026-10-17T21:10:34Z",
       "open_issues": 8,
       "owner": "seandavi",
       "repo": "awesome-single-cell",
-      "stars": 3876,
+      "stars": 3877,
       "topics": [
         "analysis-pipeline",
         "atac-seq",
@@ -9252,7 +9252,7 @@
         "spatial-transcriptomics"
       ]
     },
-    "original_repository_sha": "06ff39e5719e1d713c0b8eb913fa876e737f18b2",
+    "original_repository_sha": "4b3ca96a58e136d3afa728b865cbb294800dd119",
     "enhanced_repository": "enhansome/enhansome-single-cell",
     "enhanced_repository_description": null,
     "title": "awesome-single-cell with stars"
