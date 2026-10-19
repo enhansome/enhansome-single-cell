@@ -21,7 +21,7 @@
                 "open_issues": 225,
                 "owner": "satijalab",
                 "repo": "seurat",
-                "stars": 2805,
+                "stars": 2807,
                 "topics": [
                   "cran",
                   "human-cell-atlas",
@@ -78,7 +78,7 @@
                 "open_issues": 1013,
                 "owner": "alexdobin",
                 "repo": "STAR",
-                "stars": 2266,
+                "stars": 2268,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -99,7 +99,7 @@
                 "open_issues": 30,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1713,
+                "stars": 1714,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -257,7 +257,7 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T11:43:07Z",
+                "last_commit": "2026-10-18T12:09:32Z",
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
@@ -4177,7 +4177,7 @@
                 "open_issues": 30,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1713,
+                "stars": 1714,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -4379,9 +4379,9 @@
                 "homepage": "https://www.biorxiv.org/content/10.1101/2025.11.06.686964v1.full-text",
                 "id": 973866474,
                 "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-11T18:35:35Z",
-                "open_issues": 5,
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-10-18T22:51:45Z",
+                "open_issues": 4,
                 "owner": "NygenAnalytics",
                 "repo": "CyteType",
                 "stars": 139,
@@ -5060,7 +5060,7 @@
                 "id": 53894616,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2025-11-14T17:35:17Z",
+                "last_commit": "2026-10-18T19:37:33Z",
                 "open_issues": 240,
                 "owner": "broadinstitute",
                 "repo": "infercnv",
@@ -5758,7 +5758,7 @@
                 "open_issues": 30,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1713,
+                "stars": 1714,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5790,7 +5790,7 @@
                 "open_issues": 30,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1713,
+                "stars": 1714,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5822,7 +5822,7 @@
                 "open_issues": 30,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1713,
+                "stars": 1714,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -7079,7 +7079,7 @@
                 "open_issues": 30,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1713,
+                "stars": 1714,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -7183,7 +7183,7 @@
                 "id": 185897228,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T17:50:14Z",
+                "last_commit": "2026-10-18T21:49:04Z",
                 "open_issues": 136,
                 "owner": "giotto-suite",
                 "repo": "Giotto",
@@ -7418,7 +7418,7 @@
                 "id": 861854293,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-12T06:20:54Z",
+                "last_commit": "2026-10-19T06:16:28Z",
                 "open_issues": 0,
                 "owner": "ratschlab",
                 "repo": "DeepSpot",
@@ -7970,7 +7970,7 @@
             "open_issues": 22,
             "owner": "theislab",
             "repo": "single-cell-tutorial",
-            "stars": 1597,
+            "stars": 1598,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -9195,7 +9195,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-10-17T08:09:09Z",
+            "last_commit": "2026-10-18T08:27:49Z",
             "open_issues": 6,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9217,7 +9217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T06:38:52.842Z",
+    "last_updated": "2026-10-19T06:58:58.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
