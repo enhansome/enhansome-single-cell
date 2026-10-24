@@ -17,8 +17,8 @@
                 "id": 35927665,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T21:02:26Z",
-                "open_issues": 222,
+                "last_commit": "2026-10-23T21:56:36Z",
+                "open_issues": 219,
                 "owner": "satijalab",
                 "repo": "seurat",
                 "stars": 2807,
@@ -43,11 +43,11 @@
                 "id": 80342493,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-22T14:41:00Z",
-                "open_issues": 557,
+                "last_commit": "2026-10-23T15:34:23Z",
+                "open_issues": 562,
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2593,
+                "stars": 2594,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -78,7 +78,7 @@
                 "open_issues": 1013,
                 "owner": "alexdobin",
                 "repo": "STAR",
-                "stars": 2271,
+                "stars": 2273,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -99,7 +99,7 @@
                 "open_issues": 29,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1716,
+                "stars": 1717,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -223,7 +223,7 @@
                 "open_issues": 3,
                 "owner": "aristoteleo",
                 "repo": "dynamo-release",
-                "stars": 510,
+                "stars": 511,
                 "topics": [
                   "cell-fate",
                   "differential-geometry",
@@ -257,7 +257,7 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-22T13:08:28Z",
+                "last_commit": "2026-10-23T13:32:54Z",
                 "open_issues": 28,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
@@ -269,6 +269,27 @@
                   "scverse",
                   "single-cell"
                 ]
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
+              "title": "soupX",
+              "description": "[R] - An R package for the estimation and removal of cell free mRNA contamination in droplet based single cell RNA-seq data. The problem this package attempts to solve is that all droplet based single cell RNA-seq experiments also capture ambient mRNAs present in the input solution along with cell specific mRNAs of interest.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "R package to quantify and remove cell free mRNAs from droplet based scRNA-seq data",
+                "homepage": null,
+                "id": 129241721,
+                "language": "R",
+                "license": null,
+                "last_commit": "2022-11-01T13:13:47Z",
+                "open_issues": 50,
+                "owner": "constantAmateur",
+                "repo": "SoupX",
+                "stars": 347,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
             },
@@ -296,27 +317,6 @@
                   "neural-network",
                   "siamese-neural-network"
                 ]
-              },
-              "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
-              "title": "soupX",
-              "description": "[R] - An R package for the estimation and removal of cell free mRNA contamination in droplet based single cell RNA-seq data. The problem this package attempts to solve is that all droplet based single cell RNA-seq experiments also capture ambient mRNAs present in the input solution along with cell specific mRNAs of interest.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "R package to quantify and remove cell free mRNAs from droplet based scRNA-seq data",
-                "homepage": null,
-                "id": 129241721,
-                "language": "R",
-                "license": null,
-                "last_commit": "2022-11-01T13:13:47Z",
-                "open_issues": 50,
-                "owner": "constantAmateur",
-                "repo": "SoupX",
-                "stars": 345,
-                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
             },
@@ -435,8 +435,8 @@
                 "id": 279951153,
                 "language": "Rust",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-22T21:03:15Z",
-                "open_issues": 32,
+                "last_commit": "2026-10-23T16:46:41Z",
+                "open_issues": 30,
                 "owner": "COMBINE-lab",
                 "repo": "alevin-fry",
                 "stars": 219,
@@ -664,7 +664,7 @@
                 "open_issues": 12,
                 "owner": "nzhanglab",
                 "repo": "SAVER",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -4177,7 +4177,7 @@
                 "open_issues": 29,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1716,
+                "stars": 1717,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -4720,7 +4720,7 @@
                 "open_issues": 23,
                 "owner": "chris-mcginnis-ucsf",
                 "repo": "DoubletFinder",
-                "stars": 572,
+                "stars": 574,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -4741,7 +4741,7 @@
                 "open_issues": 53,
                 "owner": "swolock",
                 "repo": "scrublet",
-                "stars": 183,
+                "stars": 184,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -4783,7 +4783,7 @@
                 "open_issues": 9,
                 "owner": "JonathanShor",
                 "repo": "DoubletDetection",
-                "stars": 101,
+                "stars": 102,
                 "topics": [
                   "scrna-seq"
                 ]
@@ -5085,7 +5085,7 @@
                 "open_issues": 73,
                 "owner": "navinlabcode",
                 "repo": "copykat",
-                "stars": 310,
+                "stars": 311,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5758,7 +5758,7 @@
                 "open_issues": 29,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1716,
+                "stars": 1717,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5790,7 +5790,7 @@
                 "open_issues": 29,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1716,
+                "stars": 1717,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5822,7 +5822,7 @@
                 "open_issues": 29,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1716,
+                "stars": 1717,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -6281,7 +6281,7 @@
                 "id": 120286519,
                 "language": "R",
                 "license": null,
-                "last_commit": "2026-09-25T08:37:54Z",
+                "last_commit": "2026-10-23T14:29:32Z",
                 "open_issues": 26,
                 "owner": "saeyslab",
                 "repo": "nichenetr",
@@ -6886,7 +6886,7 @@
                 "open_issues": 1,
                 "owner": "ElliotXie",
                 "repo": "autozyme",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "acceleration",
                   "agentic-ai",
@@ -7079,7 +7079,7 @@
                 "open_issues": 29,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1716,
+                "stars": 1717,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -7108,7 +7108,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-23T01:44:38Z",
-                "open_issues": 110,
+                "open_issues": 111,
                 "owner": "scverse",
                 "repo": "squidpy",
                 "stars": 611,
@@ -7183,7 +7183,7 @@
                 "id": 185897228,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T20:00:57Z",
+                "last_commit": "2026-10-23T18:07:57Z",
                 "open_issues": 138,
                 "owner": "giotto-suite",
                 "repo": "Giotto",
@@ -7232,7 +7232,7 @@
                 "id": 686996186,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-20T12:53:43Z",
+                "last_commit": "2026-10-23T09:59:15Z",
                 "open_issues": 31,
                 "owner": "prism-oncology",
                 "repo": "sopa",
@@ -8620,8 +8620,8 @@
                 "id": 161811262,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T21:32:40Z",
-                "open_issues": 532,
+                "last_commit": "2026-10-23T20:18:33Z",
+                "open_issues": 535,
                 "owner": "vitessce",
                 "repo": "vitessce",
                 "stars": 272,
@@ -9169,8 +9169,8 @@
             "id": 61960760,
             "language": null,
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-09T14:30:46Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-23T20:32:01Z",
+            "open_issues": 1,
             "owner": "agitter",
             "repo": "single-cell-pseudotime",
             "stars": 445,
@@ -9195,7 +9195,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-10-22T08:56:57Z",
+            "last_commit": "2026-10-23T08:53:27Z",
             "open_issues": 6,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9217,7 +9217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T06:36:10.050Z",
+    "last_updated": "2026-10-24T06:34:01.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
