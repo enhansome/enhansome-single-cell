@@ -44,10 +44,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-26T19:05:31Z",
-                "open_issues": 564,
+                "open_issues": 570,
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2595,
+                "stars": 2596,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -99,7 +99,7 @@
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1719,
+                "stars": 1720,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -153,10 +153,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-02T07:35:59Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "zqfang",
                 "repo": "GSEApy",
-                "stars": 716,
+                "stars": 717,
                 "topics": [
                   "enrichment-analysis",
                   "gsea",
@@ -182,7 +182,7 @@
                 "open_issues": 94,
                 "owner": "zhanghao-njmu",
                 "repo": "SCP",
-                "stars": 683,
+                "stars": 686,
                 "topics": [
                   "anndata",
                   "scanpy",
@@ -257,11 +257,11 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T22:56:53Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-27T20:44:32Z",
+                "open_issues": 32,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
-                "stars": 407,
+                "stars": 408,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -388,7 +388,7 @@
                 "open_issues": 36,
                 "owner": "HelenaLC",
                 "repo": "muscat",
-                "stars": 247,
+                "stars": 248,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -542,7 +542,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-22T20:36:46Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "yelabucsf",
                 "repo": "scrna-parameter-estimation",
                 "stars": 137,
@@ -1259,7 +1259,7 @@
                 "id": 859179925,
                 "language": "R",
                 "license": "MIT",
-                "last_commit": "2026-10-25T22:13:28Z",
+                "last_commit": "2026-10-27T22:13:42Z",
                 "open_issues": 0,
                 "owner": "GregorLueg",
                 "repo": "bixverse",
@@ -2256,7 +2256,7 @@
                 "open_issues": 113,
                 "owner": "aertslab",
                 "repo": "SCENIC",
-                "stars": 500,
+                "stars": 501,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -2375,6 +2375,48 @@
             },
             {
               "node_type": "item",
+              "title": "RustScenic",
+              "description": "[Python, Rust] - Gene regulatory network inference, motif enrichment and regulon activity scoring for single-cell RNA-seq and multiome data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Gene regulatory network inference, motif enrichment and AUCell scoring for single-cell RNA and multiome data. Rust backend, Python API.",
+                "homepage": "https://ekin-kahraman.github.io/rustscenic/",
+                "id": 1215149288,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-27T19:19:43Z",
+                "open_issues": 6,
+                "owner": "Ekin-Kahraman",
+                "repo": "rustscenic",
+                "stars": 76,
+                "topics": [
+                  "anndata",
+                  "atac-seq",
+                  "aucell",
+                  "bioinformatics",
+                  "gene-regulation",
+                  "gene-regulatory-network",
+                  "maturin",
+                  "multiomics",
+                  "pyo3",
+                  "pyscenic",
+                  "python",
+                  "regulon",
+                  "rust",
+                  "scatac-seq",
+                  "scenic",
+                  "scenicplus",
+                  "scrna-seq",
+                  "single-cell",
+                  "single-cell-analysis",
+                  "transcription-factors"
+                ]
+              },
+              "first_seen": "2026-10-27T06:52:29.008Z"
+            },
+            {
+              "node_type": "item",
               "title": "Normalisr",
               "description": "[Python, Shell] - Normalisr infers Gene Regulatory Networks from Perturb-seq and other single-cell CRISPR screens. Its normalization and statistical association testing framework also unifies single-cell differential expression and co-expression. Single-cell normalization and association testing unifying CRISPR screen and gene co-expression analyses with Normalisr.",
               "children": [],
@@ -2404,48 +2446,6 @@
                 ]
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
-              "title": "RustScenic",
-              "description": "[Python, Rust] - Gene regulatory network inference, motif enrichment and regulon activity scoring for single-cell RNA-seq and multiome data.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Gene regulatory network inference, motif enrichment and AUCell scoring for single-cell RNA and multiome data. Rust backend, Python API.",
-                "homepage": "https://ekin-kahraman.github.io/rustscenic/",
-                "id": 1215149288,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-27T06:21:24Z",
-                "open_issues": 6,
-                "owner": "Ekin-Kahraman",
-                "repo": "rustscenic",
-                "stars": 19,
-                "topics": [
-                  "anndata",
-                  "atac-seq",
-                  "aucell",
-                  "bioinformatics",
-                  "gene-regulation",
-                  "gene-regulatory-network",
-                  "maturin",
-                  "multiomics",
-                  "pyo3",
-                  "pyscenic",
-                  "python",
-                  "regulon",
-                  "rust",
-                  "scatac-seq",
-                  "scenic",
-                  "scenicplus",
-                  "scrna-seq",
-                  "single-cell",
-                  "single-cell-analysis",
-                  "transcription-factors"
-                ]
-              },
-              "first_seen": "2026-10-27T06:52:29.008Z"
             },
             {
               "node_type": "item",
@@ -2542,7 +2542,7 @@
                 "open_issues": 126,
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
-                "stars": 366,
+                "stars": 367,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -3117,8 +3117,8 @@
                 "id": 754011541,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-12T15:36:14Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-27T20:23:41Z",
+                "open_issues": 17,
                 "owner": "TorchDR",
                 "repo": "TorchDR",
                 "stars": 216,
@@ -3811,7 +3811,7 @@
                 "open_issues": 13,
                 "owner": "dpeerlab",
                 "repo": "Palantir",
-                "stars": 343,
+                "stars": 344,
                 "topics": [
                   "cell-fate-transitions",
                   "differentiation",
@@ -4219,7 +4219,7 @@
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1719,
+                "stars": 1720,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -4251,7 +4251,7 @@
                 "open_issues": 9,
                 "owner": "cafferychen777",
                 "repo": "mLLMCelltype",
-                "stars": 661,
+                "stars": 662,
                 "topics": [
                   "bioinformatics",
                   "cell-type-annotation",
@@ -4422,11 +4422,11 @@
                 "id": 973866474,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T06:50:06Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-27T07:10:56Z",
+                "open_issues": 4,
                 "owner": "NygenAnalytics",
                 "repo": "CyteType",
-                "stars": 140,
+                "stars": 139,
                 "topics": [
                   "agentic-ai",
                   "anndata",
@@ -4488,7 +4488,7 @@
                 "open_issues": 3,
                 "owner": "ZJUFanLab",
                 "repo": "scDeepSort",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "annotation",
                   "cell-type-classification",
@@ -4711,7 +4711,7 @@
                 "id": 1386168692,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T22:43:16Z",
+                "last_commit": "2026-10-27T10:04:07Z",
                 "open_issues": 3,
                 "owner": "MMatinGerami",
                 "repo": "crc-singlecell-reference-mapping",
@@ -4824,7 +4824,7 @@
                 "open_issues": 53,
                 "owner": "swolock",
                 "repo": "scrublet",
-                "stars": 184,
+                "stars": 185,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -4910,7 +4910,7 @@
                 "open_issues": 33,
                 "owner": "EDePasquale",
                 "repo": "DoubletDecon",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5147,7 +5147,7 @@
                 "open_issues": 239,
                 "owner": "broadinstitute",
                 "repo": "infercnv",
-                "stars": 686,
+                "stars": 687,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5168,7 +5168,7 @@
                 "open_issues": 73,
                 "owner": "navinlabcode",
                 "repo": "copykat",
-                "stars": 312,
+                "stars": 313,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5221,7 +5221,7 @@
                 "open_issues": 19,
                 "owner": "icbi-lab",
                 "repo": "infercnvpy",
-                "stars": 199,
+                "stars": 200,
                 "topics": [
                   "cnv",
                   "scverse",
@@ -5246,7 +5246,7 @@
                 "open_issues": 44,
                 "owner": "AntonioDeFalco",
                 "repo": "SCEVAN",
-                "stars": 127,
+                "stars": 129,
                 "topics": [
                   "aneuploidy",
                   "clonal-analysis",
@@ -5670,11 +5670,11 @@
                 "id": 712079284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T18:58:12Z",
+                "last_commit": "2026-10-27T22:38:14Z",
                 "open_issues": 9,
                 "owner": "EngreitzLab",
                 "repo": "scE2G",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5841,7 +5841,7 @@
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1719,
+                "stars": 1720,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5873,7 +5873,7 @@
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1719,
+                "stars": 1720,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5905,7 +5905,7 @@
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1719,
+                "stars": 1720,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -6268,7 +6268,7 @@
                 "id": 887020169,
                 "language": "Jupyter Notebook",
                 "license": "GPL-3.0",
-                "last_commit": "2026-01-08T19:25:41Z",
+                "last_commit": "2026-10-27T20:52:19Z",
                 "open_issues": 0,
                 "owner": "liu-bioinfo-lab",
                 "repo": "CelLink",
@@ -6442,7 +6442,7 @@
                 "open_issues": 21,
                 "owner": "snap-stanford",
                 "repo": "GEARS",
-                "stars": 419,
+                "stars": 420,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6603,7 +6603,7 @@
                 "open_issues": 175,
                 "owner": "bowang-lab",
                 "repo": "scGPT",
-                "stars": 1660,
+                "stars": 1662,
                 "topics": [
                   "foundation-model",
                   "gpt",
@@ -6628,7 +6628,7 @@
                 "open_issues": 31,
                 "owner": "biomap-research",
                 "repo": "scFoundation",
-                "stars": 433,
+                "stars": 432,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6925,7 +6925,7 @@
             {
               "node_type": "item",
               "title": "SCope",
-              "description": "[python] - SCope is a fast visualization tool for large-scale and high dimensional scRNA-seq datasets. Publication here.",
+              "description": "[python] - SCope is a fast visualization tool for large-scale and high dimensional scRNA-seq datasets. Publication.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7079,7 +7079,7 @@
             {
               "node_type": "item",
               "title": "sasc",
-              "description": "[C] - sasc stands for Simulated Annealing Single-Cell, an algorithm for performing phylogenetic analysis of single-cell cancer samples. Manuscript here.",
+              "description": "[C] - sasc stands for Simulated Annealing Single-Cell, an algorithm for performing phylogenetic analysis of single-cell cancer samples. Manuscript.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7183,7 +7183,7 @@
                 "open_issues": 27,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1719,
+                "stars": 1720,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -7211,11 +7211,11 @@
                 "id": 289306932,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-26T18:19:26Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-27T23:58:18Z",
+                "open_issues": 109,
                 "owner": "scverse",
                 "repo": "squidpy",
-                "stars": 611,
+                "stars": 612,
                 "topics": [
                   "data-visualization",
                   "image-analysis",
@@ -7245,7 +7245,7 @@
                 "open_issues": 74,
                 "owner": "dmcable",
                 "repo": "spacexr",
-                "stars": 489,
+                "stars": 490,
                 "topics": [
                   "cell-type-identification",
                   "differential-expression",
@@ -7270,7 +7270,7 @@
                 "open_issues": 142,
                 "owner": "BayraktarLab",
                 "repo": "cell2location",
-                "stars": 464,
+                "stars": 465,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7287,8 +7287,8 @@
                 "id": 185897228,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T14:58:58Z",
-                "open_issues": 138,
+                "last_commit": "2026-10-27T14:21:45Z",
+                "open_issues": 137,
                 "owner": "giotto-suite",
                 "repo": "Giotto",
                 "stars": 394,
@@ -7336,11 +7336,11 @@
                 "id": 686996186,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-23T09:59:15Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-27T10:06:22Z",
+                "open_issues": 30,
                 "owner": "prism-oncology",
                 "repo": "sopa",
-                "stars": 296,
+                "stars": 297,
                 "topics": [
                   "multiplexed-imaging",
                   "pipeline",
@@ -7394,7 +7394,7 @@
                 "open_issues": 13,
                 "owner": "MarcElosua",
                 "repo": "SPOTlight",
-                "stars": 215,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7436,7 +7436,7 @@
                 "open_issues": 60,
                 "owner": "edward130603",
                 "repo": "BayesSpace",
-                "stars": 190,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7457,7 +7457,7 @@
                 "open_issues": 7,
                 "owner": "prism-oncology",
                 "repo": "novae",
-                "stars": 163,
+                "stars": 164,
                 "topics": [
                   "niches",
                   "self-supervised-learning",
@@ -7706,7 +7706,7 @@
                 "open_issues": 13,
                 "owner": "cafferychen777",
                 "repo": "ChatSpatial",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "agentic-ai",
                   "bioinformatics",
@@ -8049,22 +8049,66 @@
             },
             {
               "node_type": "item",
+              "title": "InSituGame",
+              "description": "[Python] - In situ spatial evolutionary game assay for inferring tumor subclonal payoff matrices and adaptive therapy regimens from intact spatial transcriptomics. manuscript: In Situ Spatial Evolutionary Game Assay.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "In Situ Spatial Evolutionary Game Assay for Inferring Tumor Subclonal Payoff Matrices and Adaptive Therapy Regimens",
+                "homepage": "https://doi.org/10.5281/zenodo.23585216",
+                "id": 1430178638,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-27T18:30:06Z",
+                "open_issues": 0,
+                "owner": "Lukecele",
+                "repo": "spatial-game-assay",
+                "stars": 1,
+                "topics": [
+                  "adaptive-therapy",
+                  "bioinformatics",
+                  "cancer-research",
+                  "computational-biology",
+                  "evolutionary-game-theory",
+                  "nash-equilibrium",
+                  "oncology",
+                  "python",
+                  "spatial-transcriptomics",
+                  "tumor-microenvironment",
+                  "visium"
+                ]
+              },
+              "first_seen": "2026-10-28T07:33:20.205Z"
+            },
+            {
+              "node_type": "item",
               "title": "VOICE",
               "description": "[Python] Vision-omics foundation model that predicts transcriptome-wide single-cell gene expression from H&E images, combining direct regression with reference-cell retrieval through vision-transcriptomics alignment. Trained on over 23 million cells across multiple tissue types. manuscript: VOICE: A Vision-Omics Foundation Model Integrating Direct and Retrieval-Based Prediction of In-situ Single-Cell Gene Expression. Model",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
-                "homepage": null,
+                "description": "VOICE: a vision-omics foundation model predicting transcriptome-wide single-cell gene expression from H&E images",
+                "homepage": "https://arxiv.org/abs/2608.08366",
                 "id": 1317979776,
                 "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-26T15:31:24Z",
+                "license": "MIT",
+                "last_commit": "2026-10-27T16:31:43Z",
                 "open_issues": 0,
                 "owner": "Luosanj",
                 "repo": "VOICE_HE_ST_Pred",
-                "stars": 0,
-                "topics": []
+                "stars": 1,
+                "topics": [
+                  "computational-pathology",
+                  "deep-learning",
+                  "foundation-model",
+                  "gene-expression-prediction",
+                  "histology",
+                  "multimodal",
+                  "pytorch",
+                  "single-cell",
+                  "spatial-transcriptomics",
+                  "virtual-cell"
+                ]
               },
               "first_seen": "2026-10-27T06:52:29.008Z"
             }
@@ -8165,7 +8209,7 @@
             "open_issues": 28,
             "owner": "NVIDIA-Genomics-Research",
             "repo": "rapids-single-cell-examples",
-            "stars": 345,
+            "stars": 344,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -8182,8 +8226,8 @@
             "id": 132451998,
             "language": "Jupyter Notebook",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-04-27T11:15:09Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-27T13:36:58Z",
+            "open_issues": 1,
             "owner": "NBISweden",
             "repo": "workshop-scRNAseq",
             "stars": 245,
@@ -8228,7 +8272,7 @@
             "open_issues": 0,
             "owner": "cellgeni",
             "repo": "scRNA.seq.course",
-            "stars": 177,
+            "stars": 176,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -8440,7 +8484,7 @@
         {
           "node_type": "item",
           "title": "CyTOF Workflow",
-          "description": "[R] - An R-based pipeline for differential analyses of high dimensional mass cytometry data, primarily based on Bioconductor packages. Link to the paper describing a high-level introduction to the core concepts and code.",
+          "description": "[R] - An R-based pipeline for differential analyses of high dimensional mass cytometry data, primarily based on Bioconductor packages. The paper gives a high-level introduction to the core concepts and code.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8624,7 +8668,7 @@
                 "open_issues": 4,
                 "owner": "Single-Cell-Genomics-Group-CNAG-CRG",
                 "repo": "Tumor-Immune-Cell-Atlas",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -8745,8 +8789,8 @@
                 "id": 161811262,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T20:18:33Z",
-                "open_issues": 535,
+                "last_commit": "2026-10-27T18:38:37Z",
+                "open_issues": 534,
                 "owner": "vitessce",
                 "repo": "vitessce",
                 "stars": 272,
@@ -8933,7 +8977,7 @@
             {
               "node_type": "item",
               "title": "Cellar",
-              "description": "[Python] - Cellar is an easy to use, interactive, and comprehensive software tool for the assignment of cell types in single-cell studies. It supports preprocessing, dimensionality reduction, clustering, differential expression & enrichment analysis, spatial transcriptomics, label transfer, semi-supervised clustering and more. A live web server running Cellar is available here. NatureComm.",
+              "description": "[Python] - Cellar is an easy to use, interactive, and comprehensive software tool for the assignment of cell types in single-cell studies. It supports preprocessing, dimensionality reduction, clustering, differential expression & enrichment analysis, spatial transcriptomics, label transfer, semi-supervised clustering and more. A live web server running Cellar is available. NatureComm.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9320,7 +9364,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-10-26T09:12:17Z",
+            "last_commit": "2026-10-27T09:20:58Z",
             "open_issues": 6,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9342,7 +9386,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T06:52:29.008Z",
+    "last_updated": "2026-10-28T07:33:20.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
@@ -9350,11 +9394,11 @@
       "id": 62237945,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-27T05:18:51Z",
-      "open_issues": 9,
+      "last_commit": "2026-10-27T10:05:10Z",
+      "open_issues": 8,
       "owner": "seandavi",
       "repo": "awesome-single-cell",
-      "stars": 3884,
+      "stars": 3885,
       "topics": [
         "analysis-pipeline",
         "atac-seq",
@@ -9377,7 +9421,7 @@
         "spatial-transcriptomics"
       ]
     },
-    "original_repository_sha": "94c25f2b6a555acaca38ebe4d0ea1340efd35da3",
+    "original_repository_sha": "a8e7ddd858b3c3dcbe0a8749cb3a69f1c99aff08",
     "enhanced_repository": "enhansome/enhansome-single-cell",
     "enhanced_repository_description": null,
     "title": "awesome-single-cell with stars"
