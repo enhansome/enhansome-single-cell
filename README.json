@@ -43,11 +43,11 @@
                 "id": 80342493,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T16:35:05Z",
-                "open_issues": 570,
+                "last_commit": "2026-11-03T20:26:45Z",
+                "open_issues": 538,
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2608,
+                "stars": 2609,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -75,10 +75,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2025-03-18T01:34:34Z",
-                "open_issues": 1016,
+                "open_issues": 1017,
                 "owner": "alexdobin",
                 "repo": "STAR",
-                "stars": 2280,
+                "stars": 2281,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -95,8 +95,8 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T18:28:17Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-03T15:24:14Z",
+                "open_issues": 26,
                 "owner": "scverse",
                 "repo": "scvi-tools",
                 "stars": 1720,
@@ -182,7 +182,7 @@
                 "open_issues": 94,
                 "owner": "zhanghao-njmu",
                 "repo": "SCP",
-                "stars": 686,
+                "stars": 685,
                 "topics": [
                   "anndata",
                   "scanpy",
@@ -257,11 +257,11 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-02T17:23:12Z",
-                "open_issues": 22,
+                "last_commit": "2026-11-03T22:57:49Z",
+                "open_issues": 25,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
-                "stars": 410,
+                "stars": 408,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -336,7 +336,7 @@
                 "open_issues": 48,
                 "owner": "sdparekh",
                 "repo": "zUMIs",
-                "stars": 298,
+                "stars": 299,
                 "topics": [
                   "barcodes",
                   "dge",
@@ -759,6 +759,27 @@
             },
             {
               "node_type": "item",
+              "title": "RNAnorm",
+              "description": "[Python] - Python implementation of common RNA-seq normalization methods (CPM, FPKM, TPM, UQ, CUF, TMM, CTF).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Normalization of RNA-seq gene expression",
+                "homepage": null,
+                "id": 283166675,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-07-08T13:09:01Z",
+                "open_issues": 5,
+                "owner": "genialis",
+                "repo": "RNAnorm",
+                "stars": 105,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
               "title": "ICGS",
               "description": "[Python] - Iterative Clustering and Guide-gene Selection (Olsson et al. Nature 2016). Identify discrete, transitional and mixed-lineage states from diverse single-cell transcriptomics platforms. Integrated FASTQ pseudoalignment /quantification (Kallisto), differential expression, cell-type prediction and optional cell cycle exclusion analyses. Specialized methods for processing BAM and 10X Genomics spares matrix files. Associated single-cell splicing PSI methods (MultIPath-PSI). Apart of the AltAnalyze toolkit along with accompanying visualization methods (e.g., heatmap, t-SNE, SashimiPlots, network graphs). Easy-to-use graphical user and commandline interfaces.",
               "children": [],
@@ -796,27 +817,6 @@
                   "splicing-quantification",
                   "splicing-visualization"
                 ]
-              },
-              "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
-              "title": "RNAnorm",
-              "description": "[Python] - Python implementation of common RNA-seq normalization methods (CPM, FPKM, TPM, UQ, CUF, TMM, CTF).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Normalization of RNA-seq gene expression",
-                "homepage": null,
-                "id": 283166675,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2025-07-08T13:09:01Z",
-                "open_issues": 5,
-                "owner": "genialis",
-                "repo": "RNAnorm",
-                "stars": 104,
-                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
             },
@@ -1390,6 +1390,27 @@
             },
             {
               "node_type": "item",
+              "title": "SAKE",
+              "description": "[R] - Single-cell RNA-Seq Analysis and Clustering Evaluation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "sake",
+                "homepage": null,
+                "id": 60200366,
+                "language": "HTML",
+                "license": null,
+                "last_commit": "2023-02-08T18:47:21Z",
+                "open_issues": 20,
+                "owner": "naikai",
+                "repo": "sake",
+                "stars": 30,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
               "title": "scGEAToolbox",
               "description": "[matlab] - a Matlab toolbox for single-cell RNA-seq data analyses.",
               "children": [],
@@ -1444,27 +1465,6 @@
                   "rna-seq",
                   "single-cell-rna-seq"
                 ]
-              },
-              "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SAKE",
-              "description": "[R] - Single-cell RNA-Seq Analysis and Clustering Evaluation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "sake",
-                "homepage": null,
-                "id": 60200366,
-                "language": "HTML",
-                "license": null,
-                "last_commit": "2023-02-08T18:47:21Z",
-                "open_issues": 20,
-                "owner": "naikai",
-                "repo": "sake",
-                "stars": 29,
-                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
             },
@@ -2228,7 +2228,7 @@
                 "open_issues": 0,
                 "owner": "Tussl-Co",
                 "repo": "TusslChemistry",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-10-15T06:33:49.783Z"
@@ -2542,7 +2542,7 @@
                 "open_issues": 126,
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
-                "stars": 367,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -3769,7 +3769,7 @@
                 "open_issues": 84,
                 "owner": "theislab",
                 "repo": "scvelo",
-                "stars": 514,
+                "stars": 515,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -3807,7 +3807,7 @@
                 "id": 111718847,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-03T00:56:56Z",
+                "last_commit": "2026-11-03T20:54:22Z",
                 "open_issues": 10,
                 "owner": "dpeerlab",
                 "repo": "Palantir",
@@ -4215,8 +4215,8 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T18:28:17Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-03T15:24:14Z",
+                "open_issues": 26,
                 "owner": "scverse",
                 "repo": "scvi-tools",
                 "stars": 1720,
@@ -4515,7 +4515,7 @@
                 "id": 860582551,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T05:31:09Z",
+                "last_commit": "2026-11-03T09:19:17Z",
                 "open_issues": 3,
                 "owner": "ElliotXie",
                 "repo": "CASSIA",
@@ -4715,7 +4715,7 @@
                 "open_issues": 3,
                 "owner": "MMatinGerami",
                 "repo": "crc-singlecell-reference-mapping",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -5168,7 +5168,7 @@
                 "open_issues": 73,
                 "owner": "navinlabcode",
                 "repo": "copykat",
-                "stars": 314,
+                "stars": 315,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5221,7 +5221,7 @@
                 "open_issues": 19,
                 "owner": "icbi-lab",
                 "repo": "infercnvpy",
-                "stars": 200,
+                "stars": 201,
                 "topics": [
                   "cnv",
                   "scverse",
@@ -5837,8 +5837,8 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T18:28:17Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-03T15:24:14Z",
+                "open_issues": 26,
                 "owner": "scverse",
                 "repo": "scvi-tools",
                 "stars": 1720,
@@ -5869,8 +5869,8 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T18:28:17Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-03T15:24:14Z",
+                "open_issues": 26,
                 "owner": "scverse",
                 "repo": "scvi-tools",
                 "stars": 1720,
@@ -5901,8 +5901,8 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T18:28:17Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-03T15:24:14Z",
+                "open_issues": 26,
                 "owner": "scverse",
                 "repo": "scvi-tools",
                 "stars": 1720,
@@ -5937,7 +5937,7 @@
                 "open_issues": 12,
                 "owner": "gao-lab",
                 "repo": "GLUE",
-                "stars": 484,
+                "stars": 485,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -6363,7 +6363,7 @@
                 "open_issues": 454,
                 "owner": "sqjin",
                 "repo": "CellChat",
-                "stars": 790,
+                "stars": 789,
                 "topics": [
                   "cell-cell-communication",
                   "cell-cell-interaction",
@@ -6389,7 +6389,7 @@
                 "open_issues": 26,
                 "owner": "saeyslab",
                 "repo": "nichenetr",
-                "stars": 684,
+                "stars": 685,
                 "topics": [
                   "cell-cell-communication",
                   "data-integration",
@@ -6442,7 +6442,7 @@
                 "open_issues": 21,
                 "owner": "snap-stanford",
                 "repo": "GEARS",
-                "stars": 422,
+                "stars": 423,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6987,7 +6987,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-13T02:43:49Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "ElliotXie",
                 "repo": "autozyme",
                 "stars": 57,
@@ -7179,8 +7179,8 @@
                 "id": 102567256,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T18:28:17Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-03T15:24:14Z",
+                "open_issues": 26,
                 "owner": "scverse",
                 "repo": "scvi-tools",
                 "stars": 1720,
@@ -7211,7 +7211,7 @@
                 "id": 289306932,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-02T18:38:37Z",
+                "last_commit": "2026-11-03T14:59:29Z",
                 "open_issues": 108,
                 "owner": "scverse",
                 "repo": "squidpy",
@@ -7336,8 +7336,8 @@
                 "id": 686996186,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-29T09:50:23Z",
-                "open_issues": 33,
+                "last_commit": "2026-11-03T16:38:36Z",
+                "open_issues": 32,
                 "owner": "prism-oncology",
                 "repo": "sopa",
                 "stars": 298,
@@ -8003,7 +8003,7 @@
                 "id": 1005260145,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-01T15:28:22Z",
+                "last_commit": "2026-11-04T04:29:09Z",
                 "open_issues": 0,
                 "owner": "HickeyLab",
                 "repo": "Mingl",
@@ -8063,7 +8063,7 @@
                 "open_issues": 0,
                 "owner": "Lukecele",
                 "repo": "spatial-game-assay",
-                "stars": 1,
+                "stars": 2,
                 "topics": [
                   "adaptive-therapy",
                   "bioinformatics",
@@ -8096,7 +8096,7 @@
                 "open_issues": 0,
                 "owner": "Lukecele",
                 "repo": "spatial-continuum-oncology",
-                "stars": 1,
+                "stars": 2,
                 "topics": [
                   "adaura",
                   "bioinformatics",
@@ -8158,6 +8158,69 @@
         }
       ],
       "title": "Software packages"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pycytominer",
+          "description": "[Python] Pycytominer is a suite of common functions used to process high dimensional readouts from high-throughput cell experiments. Manuscript: Reproducible image-based profiling with Pycytominer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python package for image-based profiling",
+            "homepage": "https://pycytominer.readthedocs.io/en/latest/",
+            "id": 195106954,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-02T16:07:47Z",
+            "open_issues": 47,
+            "owner": "cytomining",
+            "repo": "pycytominer",
+            "stars": 146,
+            "topics": [
+              "cellprofiler",
+              "cytominer",
+              "image-analysis",
+              "image-based-profiling",
+              "microscopy",
+              "morphological-profiling",
+              "python"
+            ]
+          },
+          "first_seen": "2026-11-04T08:10:20.187Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CytoTable",
+          "description": "[Python] - Harmonize high-content image analysis tool outputs for processing with Pycytominer and other Cytomining tools. Manuscript: Scalable data harmonization for single-cell image-based profiling with CytoTable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Harmonize high-content image analysis tool outputs for processing with Pycytominer and other Cytomining tools.",
+            "homepage": "https://cytomining.github.io/CytoTable/",
+            "id": 534282624,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-02T19:29:45Z",
+            "open_issues": 81,
+            "owner": "cytomining",
+            "repo": "CytoTable",
+            "stars": 21,
+            "topics": [
+              "cellprofiler",
+              "harmonizer",
+              "high-content-analysis",
+              "high-content-imaging",
+              "python",
+              "single-cell-analysis"
+            ]
+          },
+          "first_seen": "2026-11-04T08:10:20.187Z"
+        }
+      ],
+      "title": "Image-based profiling"
     },
     {
       "description": null,
@@ -8265,7 +8328,7 @@
             "id": 132451998,
             "language": "Jupyter Notebook",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-27T13:36:58Z",
+            "last_commit": "2026-11-03T15:32:56Z",
             "open_issues": 1,
             "owner": "NBISweden",
             "repo": "workshop-scRNAseq",
@@ -8828,8 +8891,8 @@
                 "id": 161811262,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T20:55:29Z",
-                "open_issues": 534,
+                "last_commit": "2026-11-03T16:56:50Z",
+                "open_issues": 528,
                 "owner": "vitessce",
                 "repo": "vitessce",
                 "stars": 273,
@@ -8986,8 +9049,8 @@
                 "id": 600210876,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T13:38:02Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-03T16:06:17Z",
+                "open_issues": 6,
                 "owner": "camlab-bioml",
                 "repo": "rakaia",
                 "stars": 73,
@@ -9403,7 +9466,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-11-02T11:16:58Z",
+            "last_commit": "2026-11-03T11:08:10Z",
             "open_issues": 6,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9425,7 +9488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T08:40:28.252Z",
+    "last_updated": "2026-11-04T08:10:20.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
@@ -9433,11 +9496,11 @@
       "id": 62237945,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-01T05:44:28Z",
+      "last_commit": "2026-11-03T23:05:17Z",
       "open_issues": 8,
       "owner": "seandavi",
       "repo": "awesome-single-cell",
-      "stars": 3890,
+      "stars": 3889,
       "topics": [
         "analysis-pipeline",
         "atac-seq",
@@ -9460,7 +9523,7 @@
         "spatial-transcriptomics"
       ]
     },
-    "original_repository_sha": "e1bb83051c08257827429cd4dad5dfddd1c4e8e7",
+    "original_repository_sha": "f216ba8e907447f5b3535527211fbcc8f329f3fe",
     "enhanced_repository": "enhansome/enhansome-single-cell",
     "enhanced_repository_description": null,
     "title": "awesome-single-cell with stars"
