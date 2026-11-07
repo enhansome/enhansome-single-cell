@@ -17,8 +17,8 @@
                 "id": 35927665,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T18:36:11Z",
-                "open_issues": 224,
+                "last_commit": "2026-11-07T06:15:03Z",
+                "open_issues": 215,
                 "owner": "satijalab",
                 "repo": "seurat",
                 "stars": 2812,
@@ -43,11 +43,11 @@
                 "id": 80342493,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-06T08:34:24Z",
-                "open_issues": 536,
+                "last_commit": "2026-11-06T12:21:07Z",
+                "open_issues": 539,
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2609,
+                "stars": 2610,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -78,7 +78,7 @@
                 "open_issues": 1017,
                 "owner": "alexdobin",
                 "repo": "STAR",
-                "stars": 2284,
+                "stars": 2281,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -99,7 +99,7 @@
                 "open_issues": 25,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1721,
+                "stars": 1722,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -257,8 +257,8 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T15:44:08Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-07T03:19:58Z",
+                "open_issues": 26,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
                 "stars": 409,
@@ -496,7 +496,7 @@
                 "open_issues": 0,
                 "owner": "pachterlab",
                 "repo": "kb_python",
-                "stars": 193,
+                "stars": 194,
                 "topics": [
                   "bustools",
                   "kallisto",
@@ -2298,7 +2298,7 @@
                 "open_issues": 31,
                 "owner": "dpeerlab",
                 "repo": "spectra",
-                "stars": 208,
+                "stars": 209,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -2521,7 +2521,7 @@
                 "open_issues": 0,
                 "owner": "BorchLab",
                 "repo": "scRepertoire",
-                "stars": 377,
+                "stars": 378,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -4219,7 +4219,7 @@
                 "open_issues": 25,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1721,
+                "stars": 1722,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -4675,32 +4675,6 @@
             },
             {
               "node_type": "item",
-              "title": "mtSC",
-              "description": "[Python] - A multitask deep metric learning framework that integrates multiple references for single-cell assignment, including cross-species settings. Integrating multiple references for single-cell assignment.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A multitask deep metric learning-based framework for single cell assignment based on multiple references",
-                "homepage": null,
-                "id": 279579968,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-12-13T01:00:50Z",
-                "open_issues": 1,
-                "owner": "bm2-lab",
-                "repo": "mtSC",
-                "stars": 4,
-                "topics": [
-                  "metric-learning",
-                  "multiple-references",
-                  "multitask-learning",
-                  "single-cell-assignment"
-                ]
-              },
-              "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
               "title": "crc-singlecell-reference-mapping",
               "description": "[Python] - Cross-cohort cell-type annotation of colorectal cancer scRNA-seq with scVI, scANVI and scArches: maps a query cohort onto a 63k-cell reference, with abstention, a latent-distance novelty score and conformal prediction sets whose coverage is measured under cohort and hospital shift.",
               "children": [],
@@ -4715,7 +4689,7 @@
                 "open_issues": 4,
                 "owner": "MMatinGerami",
                 "repo": "crc-singlecell-reference-mapping",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -4739,6 +4713,32 @@
                 ]
               },
               "first_seen": "2026-10-27T06:52:29.008Z"
+            },
+            {
+              "node_type": "item",
+              "title": "mtSC",
+              "description": "[Python] - A multitask deep metric learning framework that integrates multiple references for single-cell assignment, including cross-species settings. Integrating multiple references for single-cell assignment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A multitask deep metric learning-based framework for single cell assignment based on multiple references",
+                "homepage": null,
+                "id": 279579968,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-12-13T01:00:50Z",
+                "open_issues": 1,
+                "owner": "bm2-lab",
+                "repo": "mtSC",
+                "stars": 4,
+                "topics": [
+                  "metric-learning",
+                  "multiple-references",
+                  "multitask-learning",
+                  "single-cell-assignment"
+                ]
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
             }
           ],
           "description": null,
@@ -4824,7 +4824,7 @@
                 "open_issues": 53,
                 "owner": "swolock",
                 "repo": "scrublet",
-                "stars": 185,
+                "stars": 186,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5841,7 +5841,7 @@
                 "open_issues": 25,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1721,
+                "stars": 1722,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5873,7 +5873,7 @@
                 "open_issues": 25,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1721,
+                "stars": 1722,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5905,7 +5905,7 @@
                 "open_issues": 25,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1721,
+                "stars": 1722,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -6698,7 +6698,7 @@
                 "open_issues": 30,
                 "owner": "scverse",
                 "repo": "gget",
-                "stars": 1211,
+                "stars": 1212,
                 "topics": [
                   "alphafold",
                   "alphafold2",
@@ -7183,7 +7183,7 @@
                 "open_issues": 25,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1721,
+                "stars": 1722,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -7211,8 +7211,8 @@
                 "id": 289306932,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-04T11:12:19Z",
-                "open_issues": 109,
+                "last_commit": "2026-11-06T13:37:15Z",
+                "open_issues": 108,
                 "owner": "scverse",
                 "repo": "squidpy",
                 "stars": 612,
@@ -7453,8 +7453,8 @@
                 "id": 778178474,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-06T08:09:25Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-06T11:53:53Z",
+                "open_issues": 5,
                 "owner": "prism-oncology",
                 "repo": "novae",
                 "stars": 164,
@@ -7883,12 +7883,12 @@
               "repo_info": {
                 "archived": false,
                 "description": "Methods for visualization and analysis of spatially-resolved gene expression",
-                "homepage": null,
+                "homepage": "https://fridleylab.github.io/spatialGE/",
                 "id": 348561911,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T00:24:27Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-07T06:20:56Z",
+                "open_issues": 5,
                 "owner": "FridleyLab",
                 "repo": "spatialGE",
                 "stars": 23,
@@ -8059,7 +8059,7 @@
                 "id": 1430178638,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-31T17:46:29Z",
+                "last_commit": "2026-11-06T22:22:47Z",
                 "open_issues": 0,
                 "owner": "Lukecele",
                 "repo": "spatial-game-assay",
@@ -8092,7 +8092,7 @@
                 "id": 1437679243,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T12:55:14Z",
+                "last_commit": "2026-11-06T22:22:47Z",
                 "open_issues": 0,
                 "owner": "Lukecele",
                 "repo": "spatial-continuum-oncology",
@@ -8204,7 +8204,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-02T19:29:45Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "cytomining",
             "repo": "CytoTable",
             "stars": 21,
@@ -8290,7 +8290,7 @@
             "open_issues": 24,
             "owner": "hbctraining",
             "repo": "Intro-to-scRNAseq",
-            "stars": 669,
+            "stars": 670,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -8891,7 +8891,7 @@
                 "id": 161811262,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T20:24:37Z",
+                "last_commit": "2026-11-06T20:15:30Z",
                 "open_issues": 530,
                 "owner": "vitessce",
                 "repo": "vitessce",
@@ -9049,7 +9049,7 @@
                 "id": 600210876,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T19:00:10Z",
+                "last_commit": "2026-11-06T13:41:12Z",
                 "open_issues": 6,
                 "owner": "camlab-bioml",
                 "repo": "rakaia",
@@ -9215,12 +9215,12 @@
               "repo_info": {
                 "archived": false,
                 "description": "Methods for visualization and analysis of spatially-resolved gene expression",
-                "homepage": null,
+                "homepage": "https://fridleylab.github.io/spatialGE/",
                 "id": 348561911,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T00:24:27Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-07T06:20:56Z",
+                "open_issues": 5,
                 "owner": "FridleyLab",
                 "repo": "spatialGE",
                 "stars": 23,
@@ -9466,7 +9466,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-11-05T11:11:07Z",
+            "last_commit": "2026-11-06T11:37:40Z",
             "open_issues": 6,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9488,7 +9488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T08:35:25.177Z",
+    "last_updated": "2026-11-07T07:51:40.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
