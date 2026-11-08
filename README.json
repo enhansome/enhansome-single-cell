@@ -21,7 +21,7 @@
                 "open_issues": 215,
                 "owner": "satijalab",
                 "repo": "seurat",
-                "stars": 2812,
+                "stars": 2813,
                 "topics": [
                   "cran",
                   "human-cell-atlas",
@@ -44,7 +44,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-06T12:21:07Z",
-                "open_issues": 539,
+                "open_issues": 543,
                 "owner": "scverse",
                 "repo": "scanpy",
                 "stars": 2610,
@@ -78,7 +78,7 @@
                 "open_issues": 1017,
                 "owner": "alexdobin",
                 "repo": "STAR",
-                "stars": 2281,
+                "stars": 2282,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -257,8 +257,8 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T03:19:58Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-07T14:17:44Z",
+                "open_issues": 27,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
                 "stars": 409,
@@ -5446,7 +5446,7 @@
                 "open_issues": 46,
                 "owner": "cortes-ciriano-lab",
                 "repo": "SComatic",
-                "stars": 229,
+                "stars": 228,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5937,7 +5937,7 @@
                 "open_issues": 12,
                 "owner": "gao-lab",
                 "repo": "GLUE",
-                "stars": 487,
+                "stars": 488,
                 "topics": [
                   "bioinformatics",
                   "deep-learning",
@@ -6603,7 +6603,7 @@
                 "open_issues": 175,
                 "owner": "bowang-lab",
                 "repo": "scGPT",
-                "stars": 1663,
+                "stars": 1664,
                 "topics": [
                   "foundation-model",
                   "gpt",
@@ -6694,7 +6694,7 @@
                 "id": 488684164,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-05T22:38:46Z",
+                "last_commit": "2026-11-08T05:09:43Z",
                 "open_issues": 30,
                 "owner": "scverse",
                 "repo": "gget",
@@ -7291,7 +7291,7 @@
                 "open_issues": 137,
                 "owner": "giotto-suite",
                 "repo": "Giotto",
-                "stars": 395,
+                "stars": 396,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -8059,7 +8059,7 @@
                 "id": 1430178638,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T22:22:47Z",
+                "last_commit": "2026-11-07T14:07:08Z",
                 "open_issues": 0,
                 "owner": "Lukecele",
                 "repo": "spatial-game-assay",
@@ -8092,7 +8092,7 @@
                 "id": 1437679243,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T22:22:47Z",
+                "last_commit": "2026-11-07T14:04:17Z",
                 "open_issues": 0,
                 "owner": "Lukecele",
                 "repo": "spatial-continuum-oncology",
@@ -8135,7 +8135,7 @@
                 "open_issues": 0,
                 "owner": "Luosanj",
                 "repo": "VOICE_HE_ST_Pred",
-                "stars": 1,
+                "stars": 2,
                 "topics": [
                   "computational-pathology",
                   "deep-learning",
@@ -8150,6 +8150,38 @@
                 ]
               },
               "first_seen": "2026-10-27T06:52:29.008Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Spatial-Architecture-Osimertinib",
+              "description": "[Python] - Visium HD analysis of subcellular transport limits and microvascular decoupling in EGFR-mutant NSCLC. DOI: 10.5281/zenodo.23620878.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🔬 10x Visium HD 2 µm subcellular spatial atlas uncovering perivascular transport limits (λ ≈ 624 µm) in EGFR-mutant NSCLC.",
+                "homepage": "https://lukecele.github.io/spatial-continuum-oncology/#visium",
+                "id": 1432289095,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-28T09:07:44Z",
+                "open_issues": 0,
+                "owner": "Lukecele",
+                "repo": "spatial-architecture-osimertinib",
+                "stars": 1,
+                "topics": [
+                  "biophysics",
+                  "cancer-research",
+                  "computational-oncology",
+                  "drug-resistance",
+                  "nsclc",
+                  "osimertinib",
+                  "reaction-diffusion",
+                  "spatial-transcriptomics",
+                  "tumor-microenvironment",
+                  "visium-hd"
+                ]
+              },
+              "first_seen": "2026-11-08T08:05:23.660Z"
             }
           ],
           "description": null,
@@ -8374,7 +8406,7 @@
             "open_issues": 0,
             "owner": "cellgeni",
             "repo": "scRNA.seq.course",
-            "stars": 176,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -9466,7 +9498,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-11-06T11:37:40Z",
+            "last_commit": "2026-11-07T10:17:43Z",
             "open_issues": 6,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9488,7 +9520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T07:51:40.413Z",
+    "last_updated": "2026-11-08T08:05:23.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
@@ -9496,7 +9528,7 @@
       "id": 62237945,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-03T23:05:17Z",
+      "last_commit": "2026-11-07T15:02:45Z",
       "open_issues": 8,
       "owner": "seandavi",
       "repo": "awesome-single-cell",
@@ -9523,7 +9555,7 @@
         "spatial-transcriptomics"
       ]
     },
-    "original_repository_sha": "f216ba8e907447f5b3535527211fbcc8f329f3fe",
+    "original_repository_sha": "d1b7ad03de06e68a10e48f0f9e63fae84e0e27a7",
     "enhanced_repository": "enhansome/enhansome-single-cell",
     "enhanced_repository_description": null,
     "title": "awesome-single-cell with stars"
