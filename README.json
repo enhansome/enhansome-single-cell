@@ -21,7 +21,7 @@
                 "open_issues": 215,
                 "owner": "satijalab",
                 "repo": "seurat",
-                "stars": 2816,
+                "stars": 2817,
                 "topics": [
                   "cran",
                   "human-cell-atlas",
@@ -43,11 +43,11 @@
                 "id": 80342493,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-10T16:33:02Z",
+                "last_commit": "2026-11-12T08:03:33Z",
                 "open_issues": 534,
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2614,
+                "stars": 2615,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -99,7 +99,7 @@
                 "open_issues": 25,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1725,
+                "stars": 1727,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -131,7 +131,7 @@
                 "open_issues": 216,
                 "owner": "pachterlab",
                 "repo": "kallisto",
-                "stars": 775,
+                "stars": 776,
                 "topics": [
                   "kallisto",
                   "pseudoalignment",
@@ -182,7 +182,7 @@
                 "open_issues": 94,
                 "owner": "zhanghao-njmu",
                 "repo": "SCP",
-                "stars": 686,
+                "stars": 687,
                 "topics": [
                   "anndata",
                   "scanpy",
@@ -257,8 +257,8 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T08:02:49Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-12T03:02:22Z",
+                "open_issues": 27,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
                 "stars": 410,
@@ -336,7 +336,7 @@
                 "open_issues": 48,
                 "owner": "sdparekh",
                 "repo": "zUMIs",
-                "stars": 299,
+                "stars": 300,
                 "topics": [
                   "barcodes",
                   "dge",
@@ -1259,7 +1259,7 @@
                 "id": 859179925,
                 "language": "R",
                 "license": "MIT",
-                "last_commit": "2026-11-11T06:19:42Z",
+                "last_commit": "2026-11-11T11:42:45Z",
                 "open_issues": 0,
                 "owner": "GregorLueg",
                 "repo": "bixverse",
@@ -2256,7 +2256,7 @@
                 "open_issues": 113,
                 "owner": "aertslab",
                 "repo": "SCENIC",
-                "stars": 501,
+                "stars": 503,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -2298,7 +2298,7 @@
                 "open_issues": 31,
                 "owner": "dpeerlab",
                 "repo": "spectra",
-                "stars": 209,
+                "stars": 210,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -2539,7 +2539,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-25T14:52:55Z",
-                "open_issues": 126,
+                "open_issues": 127,
                 "owner": "liulab-dfci",
                 "repo": "TRUST4",
                 "stars": 364,
@@ -2559,8 +2559,8 @@
                 "id": 232568640,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-09T21:31:25Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-11T11:14:01Z",
+                "open_issues": 48,
                 "owner": "scverse",
                 "repo": "scirpy",
                 "stars": 268,
@@ -3790,7 +3790,7 @@
                 "open_issues": 8,
                 "owner": "kstreet13",
                 "repo": "slingshot",
-                "stars": 348,
+                "stars": 349,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -4219,7 +4219,7 @@
                 "open_issues": 25,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1725,
+                "stars": 1727,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5144,10 +5144,10 @@
                 "language": "R",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T18:59:31Z",
-                "open_issues": 239,
+                "open_issues": 242,
                 "owner": "broadinstitute",
                 "repo": "infercnv",
-                "stars": 686,
+                "stars": 687,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5189,7 +5189,7 @@
                 "open_issues": 81,
                 "owner": "kharchenkolab",
                 "repo": "numbat",
-                "stars": 233,
+                "stars": 234,
                 "topics": [
                   "cancer-genomics",
                   "cnv-detection",
@@ -5217,7 +5217,7 @@
                 "id": 333152043,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-09T19:01:32Z",
+                "last_commit": "2026-11-11T17:15:48Z",
                 "open_issues": 21,
                 "owner": "icbi-lab",
                 "repo": "infercnvpy",
@@ -5246,7 +5246,7 @@
                 "open_issues": 44,
                 "owner": "AntonioDeFalco",
                 "repo": "SCEVAN",
-                "stars": 129,
+                "stars": 128,
                 "topics": [
                   "aneuploidy",
                   "clonal-analysis",
@@ -5670,8 +5670,8 @@
                 "id": 712079284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T21:05:28Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-11T21:17:10Z",
+                "open_issues": 8,
                 "owner": "EngreitzLab",
                 "repo": "scE2G",
                 "stars": 70,
@@ -5841,7 +5841,7 @@
                 "open_issues": 25,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1725,
+                "stars": 1727,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5873,7 +5873,7 @@
                 "open_issues": 25,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1725,
+                "stars": 1727,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -5905,7 +5905,7 @@
                 "open_issues": 25,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1725,
+                "stars": 1727,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -6389,7 +6389,7 @@
                 "open_issues": 26,
                 "owner": "saeyslab",
                 "repo": "nichenetr",
-                "stars": 686,
+                "stars": 689,
                 "topics": [
                   "cell-cell-communication",
                   "data-integration",
@@ -6442,7 +6442,7 @@
                 "open_issues": 21,
                 "owner": "snap-stanford",
                 "repo": "GEARS",
-                "stars": 425,
+                "stars": 426,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -6603,7 +6603,7 @@
                 "open_issues": 175,
                 "owner": "bowang-lab",
                 "repo": "scGPT",
-                "stars": 1664,
+                "stars": 1666,
                 "topics": [
                   "foundation-model",
                   "gpt",
@@ -6788,7 +6788,7 @@
                 "open_issues": 76,
                 "owner": "bnprks",
                 "repo": "BPCells",
-                "stars": 311,
+                "stars": 312,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7183,7 +7183,7 @@
                 "open_issues": 25,
                 "owner": "scverse",
                 "repo": "scvi-tools",
-                "stars": 1725,
+                "stars": 1727,
                 "topics": [
                   "cite-seq",
                   "deep-generative-model",
@@ -7211,11 +7211,11 @@
                 "id": 289306932,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-10T12:29:51Z",
-                "open_issues": 109,
+                "last_commit": "2026-11-11T18:26:25Z",
+                "open_issues": 110,
                 "owner": "scverse",
                 "repo": "squidpy",
-                "stars": 613,
+                "stars": 614,
                 "topics": [
                   "data-visualization",
                   "image-analysis",
@@ -7491,27 +7491,6 @@
             },
             {
               "node_type": "item",
-              "title": "PASTE",
-              "description": "[Python] A spatial alignment tool for aligning homogeneous spatial transcriptomic slices based on optimal transport and euclidean distance. manuscript open access: Alignment and integration of spatial transcriptomics data",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Probabilistic Alignment of Spatial Transcriptomics Experiments",
-                "homepage": "https://paste-bio.readthedocs.io/en/latest/",
-                "id": 318599379,
-                "language": "Python",
-                "license": "BSD-3-Clause",
-                "last_commit": "2025-02-26T14:37:00Z",
-                "open_issues": 7,
-                "owner": "raphael-group",
-                "repo": "paste",
-                "stars": 106,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
               "title": "DeepSpot",
               "description": "[Python] Predicts spatial transcriptomics from H&E histology images using spatial context. manuscript: DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images.",
               "children": [],
@@ -7526,7 +7505,7 @@
                 "open_issues": 0,
                 "owner": "ratschlab",
                 "repo": "DeepSpot",
-                "stars": 105,
+                "stars": 106,
                 "topics": [
                   "bioinformatics",
                   "cancer-research",
@@ -7545,6 +7524,27 @@
                   "visium",
                   "xenium"
                 ]
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PASTE",
+              "description": "[Python] A spatial alignment tool for aligning homogeneous spatial transcriptomic slices based on optimal transport and euclidean distance. manuscript open access: Alignment and integration of spatial transcriptomics data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Probabilistic Alignment of Spatial Transcriptomics Experiments",
+                "homepage": "https://paste-bio.readthedocs.io/en/latest/",
+                "id": 318599379,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2025-02-26T14:37:00Z",
+                "open_issues": 7,
+                "owner": "raphael-group",
+                "repo": "paste",
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
             },
@@ -7887,8 +7887,8 @@
                 "id": 348561911,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T21:49:29Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-11T21:44:16Z",
+                "open_issues": 4,
                 "owner": "FridleyLab",
                 "repo": "spatialGE",
                 "stars": 23,
@@ -8063,7 +8063,7 @@
                 "open_issues": 0,
                 "owner": "Luosanj",
                 "repo": "VOICE_HE_ST_Pred",
-                "stars": 3,
+                "stars": 5,
                 "topics": [
                   "computational-pathology",
                   "deep-learning",
@@ -8206,8 +8206,8 @@
             "id": 195106954,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-02T16:07:47Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-12T04:01:06Z",
+            "open_issues": 46,
             "owner": "cytomining",
             "repo": "pycytominer",
             "stars": 146,
@@ -8235,8 +8235,8 @@
             "id": 534282624,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-02T19:29:45Z",
-            "open_issues": 83,
+            "last_commit": "2026-11-12T03:55:53Z",
+            "open_issues": 81,
             "owner": "cytomining",
             "repo": "CytoTable",
             "stars": 22,
@@ -8927,7 +8927,7 @@
                 "open_issues": 532,
                 "owner": "vitessce",
                 "repo": "vitessce",
-                "stars": 273,
+                "stars": 274,
                 "topics": [
                   "data-visualization",
                   "hidivelab",
@@ -9251,8 +9251,8 @@
                 "id": 348561911,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T21:49:29Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-11T21:44:16Z",
+                "open_issues": 4,
                 "owner": "FridleyLab",
                 "repo": "spatialGE",
                 "stars": 23,
@@ -9498,7 +9498,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-11-10T11:26:37Z",
+            "last_commit": "2026-11-11T11:09:20Z",
             "open_issues": 6,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9520,7 +9520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T08:28:01.575Z",
+    "last_updated": "2026-11-12T08:52:40.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
@@ -9532,7 +9532,7 @@
       "open_issues": 8,
       "owner": "seandavi",
       "repo": "awesome-single-cell",
-      "stars": 3892,
+      "stars": 3893,
       "topics": [
         "analysis-pipeline",
         "atac-seq",
