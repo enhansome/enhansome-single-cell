@@ -17,11 +17,11 @@
                 "id": 35927665,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T21:33:16Z",
+                "last_commit": "2026-11-26T00:09:05Z",
                 "open_issues": 217,
                 "owner": "satijalab",
                 "repo": "seurat",
-                "stars": 2822,
+                "stars": 2821,
                 "topics": [
                   "cran",
                   "human-cell-atlas",
@@ -43,11 +43,11 @@
                 "id": 80342493,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-24T17:54:19Z",
-                "open_issues": 528,
+                "last_commit": "2026-11-26T08:33:27Z",
+                "open_issues": 530,
                 "owner": "scverse",
                 "repo": "scanpy",
-                "stars": 2622,
+                "stars": 2625,
                 "topics": [
                   "anndata",
                   "bioinformatics",
@@ -78,7 +78,7 @@
                 "open_issues": 1018,
                 "owner": "alexdobin",
                 "repo": "STAR",
-                "stars": 2291,
+                "stars": 2293,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -257,7 +257,7 @@
                 "id": 364573913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-25T01:20:51Z",
+                "last_commit": "2026-11-25T18:08:06Z",
                 "open_issues": 32,
                 "owner": "scverse",
                 "repo": "rapids-singlecell",
@@ -288,7 +288,7 @@
                 "open_issues": 50,
                 "owner": "constantAmateur",
                 "repo": "SoupX",
-                "stars": 346,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -496,7 +496,7 @@
                 "open_issues": 2,
                 "owner": "pachterlab",
                 "repo": "kb_python",
-                "stars": 194,
+                "stars": 195,
                 "topics": [
                   "bustools",
                   "kallisto",
@@ -1159,6 +1159,33 @@
             },
             {
               "node_type": "item",
+              "title": "bixverse",
+              "description": "[R, Rust] - Rust-accelerated R package with a streaming single cell engine. Counts stay on disk and are processed in chunks, so a million cell data set goes from raw counts to clusters in minutes on a laptop. Methods cover preprocessing (QC, doublet detection, ambient RNA removal), batch correction and reference mapping (Harmony, fastMNN, BBKNN, Symphony), gene set scoring (AUCell, VISION) and gene modules and regulons (hotspot, SCENIC, NMF, LDA).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An R package that provides Rust-based interfaces into your favourite bioinformatics, computational biology methods. Also, analyse 1m cells (or more) on a laptop.",
+                "homepage": "https://gregorlueg.github.io/bixverse/",
+                "id": 859179925,
+                "language": "R",
+                "license": "MIT",
+                "last_commit": "2026-11-24T22:45:37Z",
+                "open_issues": 0,
+                "owner": "GregorLueg",
+                "repo": "bixverse",
+                "stars": 41,
+                "topics": [
+                  "bioinformatics",
+                  "computational-biology",
+                  "r",
+                  "r-language",
+                  "single-cell"
+                ]
+              },
+              "first_seen": "2026-09-28T07:46:36.694Z"
+            },
+            {
+              "node_type": "item",
               "title": "scedar",
               "description": "[Python] - An easy-to-use package for normalization, clustering and visualization of large-scale scRNA-seq datasets. Scedar: A scalable Python package for single-cell RNA-seq exploratory data analysis.",
               "children": [],
@@ -1180,33 +1207,6 @@
                 ]
               },
               "first_seen": "2026-09-30T07:32:00.163Z"
-            },
-            {
-              "node_type": "item",
-              "title": "bixverse",
-              "description": "[R, Rust] - Rust-accelerated R package with a streaming single cell engine. Counts stay on disk and are processed in chunks, so a million cell data set goes from raw counts to clusters in minutes on a laptop. Methods cover preprocessing (QC, doublet detection, ambient RNA removal), batch correction and reference mapping (Harmony, fastMNN, BBKNN, Symphony), gene set scoring (AUCell, VISION) and gene modules and regulons (hotspot, SCENIC, NMF, LDA).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An R package that provides Rust-based interfaces into your favourite bioinformatics, computational biology methods. Also, analyse 1m cells (or more) on a laptop.",
-                "homepage": "https://gregorlueg.github.io/bixverse/",
-                "id": 859179925,
-                "language": "R",
-                "license": "MIT",
-                "last_commit": "2026-11-24T22:45:37Z",
-                "open_issues": 0,
-                "owner": "GregorLueg",
-                "repo": "bixverse",
-                "stars": 40,
-                "topics": [
-                  "bioinformatics",
-                  "computational-biology",
-                  "r",
-                  "r-language",
-                  "single-cell"
-                ]
-              },
-              "first_seen": "2026-09-28T07:46:36.694Z"
             },
             {
               "node_type": "item",
@@ -2385,8 +2385,8 @@
                 "id": 1215149288,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-22T14:35:02Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-25T15:31:58Z",
+                "open_issues": 9,
                 "owner": "Ekin-Kahraman",
                 "repo": "rustscenic",
                 "stars": 25,
@@ -2559,7 +2559,7 @@
                 "id": 232568640,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-25T10:27:17Z",
+                "last_commit": "2026-11-25T11:41:13Z",
                 "open_issues": 44,
                 "owner": "scverse",
                 "repo": "scirpy",
@@ -3121,7 +3121,7 @@
                 "open_issues": 14,
                 "owner": "TorchDR",
                 "repo": "TorchDR",
-                "stars": 218,
+                "stars": 219,
                 "topics": [
                   "affinity-matrix",
                   "cuda",
@@ -3769,7 +3769,7 @@
                 "open_issues": 84,
                 "owner": "theislab",
                 "repo": "scvelo",
-                "stars": 515,
+                "stars": 516,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5147,7 +5147,7 @@
                 "open_issues": 242,
                 "owner": "broadinstitute",
                 "repo": "infercnv",
-                "stars": 690,
+                "stars": 691,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -5335,8 +5335,8 @@
                 "id": 135265785,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T13:20:03Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-25T19:59:15Z",
+                "open_issues": 11,
                 "owner": "cbg-ethz",
                 "repo": "SCICoNE",
                 "stars": 29,
@@ -5489,8 +5489,8 @@
                 "id": 144419331,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2020-06-14T17:44:25Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-26T06:05:23Z",
+                "open_issues": 18,
                 "owner": "sridnona",
                 "repo": "cb_sniffer",
                 "stars": 44,
@@ -6603,7 +6603,7 @@
                 "open_issues": 175,
                 "owner": "bowang-lab",
                 "repo": "scGPT",
-                "stars": 1675,
+                "stars": 1678,
                 "topics": [
                   "foundation-model",
                   "gpt",
@@ -6698,7 +6698,7 @@
                 "open_issues": 33,
                 "owner": "scverse",
                 "repo": "gget",
-                "stars": 1214,
+                "stars": 1215,
                 "topics": [
                   "alphafold",
                   "alphafold2",
@@ -7257,7 +7257,7 @@
                 "open_issues": 128,
                 "owner": "scverse",
                 "repo": "squidpy",
-                "stars": 616,
+                "stars": 617,
                 "topics": [
                   "data-visualization",
                   "image-analysis",
@@ -7287,7 +7287,7 @@
                 "open_issues": 75,
                 "owner": "dmcable",
                 "repo": "spacexr",
-                "stars": 496,
+                "stars": 497,
                 "topics": [
                   "cell-type-identification",
                   "differential-expression",
@@ -7312,7 +7312,7 @@
                 "open_issues": 142,
                 "owner": "BayraktarLab",
                 "repo": "cell2location",
-                "stars": 468,
+                "stars": 469,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7329,11 +7329,11 @@
                 "id": 185897228,
                 "language": "R",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T03:52:30Z",
-                "open_issues": 136,
+                "last_commit": "2026-11-26T03:22:24Z",
+                "open_issues": 138,
                 "owner": "giotto-suite",
                 "repo": "Giotto",
-                "stars": 396,
+                "stars": 397,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -7354,7 +7354,7 @@
                 "open_issues": 65,
                 "owner": "broadinstitute",
                 "repo": "Tangram",
-                "stars": 377,
+                "stars": 378,
                 "topics": [
                   "computational-biology",
                   "gene-expression",
@@ -7378,8 +7378,8 @@
                 "id": 686996186,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-24T15:44:37Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-25T17:57:51Z",
+                "open_issues": 29,
                 "owner": "prism-oncology",
                 "repo": "sopa",
                 "stars": 299,
@@ -7410,7 +7410,7 @@
                 "open_issues": 25,
                 "owner": "jianhuupenn",
                 "repo": "SpaGCN",
-                "stars": 265,
+                "stars": 266,
                 "topics": [
                   "graph-convolutional-network",
                   "spatial-domains",
@@ -7443,6 +7443,27 @@
             },
             {
               "node_type": "item",
+              "title": "BayesSpace",
+              "description": "[R] A Bayesian statistical model for clustering and resolution enhancement of spatial gene expression experiments. manuscript open access: Spatial transcriptomics at subspot resolution with BayesSpace",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Bayesian model for clustering and enhancing the resolution of spatial gene expression experiments.",
+                "homepage": "http://edward130603.github.io/BayesSpace",
+                "id": 274501370,
+                "language": "R",
+                "license": "NOASSERTION",
+                "last_commit": "2026-01-08T15:44:14Z",
+                "open_issues": 60,
+                "owner": "edward130603",
+                "repo": "BayesSpace",
+                "stars": 193,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:24:30.408Z"
+            },
+            {
+              "node_type": "item",
               "title": "SpatialDe",
               "description": "[Python] - SpatialDE is a statistical test to identify genes with spatial patterns of expression variation from multiplexed imaging or spatial RNA-sequencing data.",
               "children": [],
@@ -7458,27 +7479,6 @@
                 "owner": "Teichlab",
                 "repo": "SpatialDE",
                 "stars": 193,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:24:30.408Z"
-            },
-            {
-              "node_type": "item",
-              "title": "BayesSpace",
-              "description": "[R] A Bayesian statistical model for clustering and resolution enhancement of spatial gene expression experiments. manuscript open access: Spatial transcriptomics at subspot resolution with BayesSpace",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Bayesian model for clustering and enhancing the resolution of spatial gene expression experiments.",
-                "homepage": "http://edward130603.github.io/BayesSpace",
-                "id": 274501370,
-                "language": "R",
-                "license": "NOASSERTION",
-                "last_commit": "2026-01-08T15:44:14Z",
-                "open_issues": 60,
-                "owner": "edward130603",
-                "repo": "BayesSpace",
-                "stars": 192,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:30.408Z"
@@ -8175,7 +8175,7 @@
                 "id": 1430178638,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-25T09:45:47Z",
+                "last_commit": "2026-11-25T10:51:56Z",
                 "open_issues": 0,
                 "owner": "Lukecele",
                 "repo": "spatial-game-assay",
@@ -8208,7 +8208,7 @@
                 "id": 1432289095,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T07:51:14Z",
+                "last_commit": "2026-11-25T10:47:55Z",
                 "open_issues": 0,
                 "owner": "Lukecele",
                 "repo": "spatial-architecture-osimertinib",
@@ -8240,7 +8240,7 @@
                 "id": 1437679243,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-11-25T09:46:52Z",
+                "last_commit": "2026-11-26T07:30:34Z",
                 "open_issues": 0,
                 "owner": "Lukecele",
                 "repo": "spatial-continuum-oncology",
@@ -8444,11 +8444,11 @@
             "id": 132451998,
             "language": "Jupyter Notebook",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-03T15:32:56Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-25T12:40:22Z",
+            "open_issues": 2,
             "owner": "NBISweden",
             "repo": "workshop-scRNAseq",
-            "stars": 245,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-28T13:24:30.408Z"
@@ -9007,8 +9007,8 @@
                 "id": 161811262,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T19:12:34Z",
-                "open_issues": 532,
+                "last_commit": "2026-11-25T20:25:18Z",
+                "open_issues": 533,
                 "owner": "vitessce",
                 "repo": "vitessce",
                 "stars": 276,
@@ -9165,11 +9165,11 @@
                 "id": 600210876,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T17:17:41Z",
+                "last_commit": "2026-11-25T16:43:18Z",
                 "open_issues": 4,
                 "owner": "camlab-bioml",
                 "repo": "rakaia",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "browser",
                   "histology",
@@ -9582,7 +9582,7 @@
             "id": 67773442,
             "language": "R",
             "license": "MIT",
-            "last_commit": "2026-11-24T13:55:33Z",
+            "last_commit": "2026-11-25T13:01:08Z",
             "open_issues": 6,
             "owner": "scRNA-tools",
             "repo": "scRNA-tools",
@@ -9604,7 +9604,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T10:33:23.784Z",
+    "last_updated": "2026-11-26T10:05:22.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.",
